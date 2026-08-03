@@ -78,3 +78,15 @@ sources:
       en: Ruanyifeng's Blog
     url: http://www.ruanyifeng.com/blog/atom.xml
     category: personalBlogs
+  - id: github-trending-daily
+    name:
+      zh: Github 今日热门
+      en: GitHub Trending Today
+    url: https://rsshub.rssforever.com/github/trending/daily/any
+    category: openSource
+  - id: github-trending-weekly
+    name:
+      zh: Github 近一周热门
+      en: GitHub Trending This Week
+    url: https://rsshub.rssforever.com/github/trending/weekly/any
+    category: openSource

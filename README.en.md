@@ -1,6 +1,6 @@
 [中文文档](./README.md) | [English Documentation](./README.en.md)
 
-# <p align="center">😋FeedMe</p>
+# <p align="center">zen read</p>
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Seanium/feedme/update-deploy.yml?branch=main&style=flat-square&labelColor=black&logo=github&logoColor=white)](https://github.com/Seanium/feedme/actions)
 [![RSS Update](https://img.shields.io/badge/RSS%20Update-Every%201h-orange?style=flat-square&labelColor=black&logo=rss&logoColor=white)](https://github.com/Seanium/feedme/blob/main/.github/workflows/update-deploy.yml)
-[![Live Demo](https://img.shields.io/badge/Demo-Online-2ea44f?style=flat-square&logo=safari&logoColor=white)](https://seanium.github.io/FeedMe/)
+[![Live Demo](https://img.shields.io/badge/Demo-Online-2ea44f?style=flat-square&logo=safari&logoColor=white)](https://orthogonalandparallel.github.io/jc-feed/)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Seanium/FeedMe)
 
 </div>
@@ -42,18 +42,6 @@
 - **Flexible Deployment**: Zero-cost static hosting on GitHub Pages / Self-hosted with Docker
 
 - **Modern Experience**: Responsive design with light/dark themes
-
----
-
-<div align="center">
-
-**This project is powered by [Alibaba Cloud ESA](https://www.aliyun.com/product/esa?spm=a2c22.12281978.0.0.6fb27f3bHEvaBX) for acceleration, computing, and protection**
-
-<a href="https://www.aliyun.com/product/esa?spm=a2c22.12281978.0.0.6fb27f3bHEvaBX">
-  <img src="https://img.alicdn.com/imgextra/i3/O1CN01H1UU3i1Cti9lYtFrs_!!6000000000139-2-tps-7534-844.png" alt="Alibaba Cloud ESA" width="600">
-</a>
-
-</div>
 
 ---
 
@@ -217,13 +205,3 @@ This project uses Node.js 24 LTS. Use `.nvmrc` or `.node-version` to switch auto
    pnpm dev
    ```
    Visit [http://localhost:3000](http://localhost:3000) to view the application
-
-## Star History
-
-<a href="https://www.star-history.com/#Seanium/FeedMe&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Seanium/FeedMe&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Seanium/FeedMe&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Seanium/FeedMe&type=Date" />
- </picture>
-</a>

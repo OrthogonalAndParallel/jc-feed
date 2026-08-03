@@ -63,7 +63,7 @@ function AppContent() {
         <div className="container py-10 mx-auto max-w-4xl">
           <div className="flex justify-between items-center mb-6">
             <a href="./" className="text-4xl font-bold hover:text-primary transition-colors">
-              😋FeedMe
+              {t("app.title")}
             </a>
             <div className="flex items-center gap-2">
               <LanguageToggle />

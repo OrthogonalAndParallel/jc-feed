@@ -1,6 +1,6 @@
 [中文文档](./README.md) | [English Documentation](./README.en.md)
 
-# <p align="center">😋FeedMe</p>
+# <p align="center">禅游阅读</p>
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Seanium/feedme/update-deploy.yml?branch=main&style=flat-square&labelColor=black&logo=github&logoColor=white)](https://github.com/Seanium/feedme/actions)
 [![RSS Update](https://img.shields.io/badge/RSS%20Update-Every%201h-orange?style=flat-square&labelColor=black&logo=rss&logoColor=white)](https://github.com/Seanium/feedme/blob/main/.github/workflows/update-deploy.yml)
-[![Live Demo](https://img.shields.io/badge/Demo-Online-2ea44f?style=flat-square&logo=safari&logoColor=white)](https://seanium.github.io/FeedMe/)
+[![Live Demo](https://img.shields.io/badge/Demo-Online-2ea44f?style=flat-square&logo=safari&logoColor=white)](https://orthogonalandparallel.github.io/jc-feed/)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Seanium/FeedMe)
 
 </div>
@@ -42,18 +42,6 @@
 - **灵活部署**：GitHub Pages 零成本静态托管 / Docker 私有化部署
 
 - **现代体验**：响应式设计，明暗主题
-
----
-
-<div align="center">
-
-**本项目由[阿里云 ESA](https://www.aliyun.com/product/esa?spm=a2c22.12281978.0.0.6fb27f3bHEvaBX)提供加速、计算和保护**
-
-<a href="https://www.aliyun.com/product/esa?spm=a2c22.12281978.0.0.6fb27f3bHEvaBX">
-  <img src="https://img.alicdn.com/imgextra/i3/O1CN01H1UU3i1Cti9lYtFrs_!!6000000000139-2-tps-7534-844.png" alt="阿里云 ESA" width="600">
-</a>
-
-</div>
 
 ---
 
@@ -217,13 +205,3 @@ GitHub Actions 每次构建后会自动推送到 `deploy` 分支，阿里云 ESA
    pnpm dev
    ```
    访问 [http://localhost:3000](http://localhost:3000) 查看应用
-
-## Star 趋势
-
-<a href="https://www.star-history.com/#Seanium/FeedMe&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Seanium/FeedMe&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Seanium/FeedMe&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Seanium/FeedMe&type=Date" />
- </picture>
-</a>

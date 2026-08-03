@@ -23,9 +23,10 @@ type TranslationValue = string | { [key: string]: TranslationValue }
 const translations: Record<Locale, TranslationValue> = {
   zh: {
     app: {
+      title: "禅游阅读",
       github: "GitHub 仓库",
       tagline: "从多个信息源获取最新内容，由 AI 生成摘要",
-      footer: "Stay hungry. 😋",
+      footer: "万里任禅游",
     },
     sourceSwitcher: {
       select: "选择信息源",
@@ -71,9 +72,10 @@ const translations: Record<Locale, TranslationValue> = {
   },
   en: {
     app: {
+      title: "zen read",
       github: "GitHub repository",
       tagline: "Get the latest updates from multiple sources, summarized by AI",
-      footer: "Stay hungry. 😋",
+      footer: "A Zen Journey of Ten Thousand Miles",
     },
     sourceSwitcher: {
       select: "Select source",
