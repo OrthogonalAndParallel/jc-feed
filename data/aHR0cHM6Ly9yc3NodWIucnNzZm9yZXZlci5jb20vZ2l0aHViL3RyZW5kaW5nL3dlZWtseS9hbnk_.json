@@ -1,0 +1,303 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "tt-a1i/archify",
+      "link": "https://github.com/tt-a1i/archify",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1211139949/484a27cf-6888-472b-9f58-46615a4429b1\" referrerpolicy=\"no-referrer\"><br>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.<br><br>Language: JavaScript<br>Stars: 49303<br>Forks: 3200",
+      "contentSnippet": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.\nLanguage: JavaScript\nStars: 49303\nForks: 3200",
+      "creator": "tt-a1i",
+      "summaries": {
+        "zh": "Archify 是一个基于 JavaScript 的开源项目，专注于生成美观且可验证的架构图、工作流、序列图、数据流图及生命周期图。该工具支持生成包含动画效果的自包含 HTML 文件，并提供清晰的导出功能。该项目在 GitHub 上热度极高，已获得超过 2.6 万颗星。",
+        "en": "The repository \"tt-a1i/archify\" provides an agent skill for generating beautiful and verifiable diagrams, including architecture, workflow, sequence, data-flow, and lifecycle visuals. It outputs self-contained HTML files featuring motion and supports crisp exporting. Written in JavaScript, the project is highly popular on GitHub, having garnered over 26,700 stars and 1,695 forks."
+      },
+      "summary": "Archify 是一个基于 JavaScript 的开源项目，专注于生成美观且可验证的架构图、工作流、序列图、数据流图及生命周期图。该工具支持生成包含动画效果的自包含 HTML 文件，并提供清晰的导出功能。该项目在 GitHub 上热度极高，已获得超过 2.6 万颗星。"
+    },
+    {
+      "title": "THU-MAIC/OpenMAIC",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6bf660923e955de799c471bba23c14c0b532c674ac4e4e2702097f2c2b628800/THU-MAIC/OpenMAIC\" referrerpolicy=\"no-referrer\"><br>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click<br><br>Language: TypeScript<br>Stars: 31897<br>Forks: 5233",
+      "contentSnippet": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\nLanguage: TypeScript\nStars: 31897\nForks: 5233",
+      "creator": "THU-MAIC",
+      "summaries": {
+        "zh": "THU-MAIC 发布的 OpenMAIC 项目是一个开源的“多智能体交互式课堂”，旨在通过一键操作提供沉浸式的多智能体学习体验。该项目基于 TypeScript 开发，目前在 GitHub 上已获得超过 2.2 万个星标和 4400 次复刻，显示出极高的社区关注度。",
+        "en": "THU-MAIC has developed OpenMAIC, an open-source project titled \"Open Multi-Agent Interactive Classroom.\" Designed to provide an immersive, multi-agent learning experience with a single click, the tool is built using TypeScript. The project has gained significant traction on GitHub, accumulating nearly 23,000 stars and 4,400 forks, reflecting its popularity within the developer community."
+      },
+      "summary": "THU-MAIC 发布的 OpenMAIC 项目是一个开源的“多智能体交互式课堂”，旨在通过一键操作提供沉浸式的多智能体学习体验。该项目基于 TypeScript 开发，目前在 GitHub 上已获得超过 2.2 万个星标和 4400 次复刻，显示出极高的社区关注度。"
+    },
+    {
+      "title": "Gitlawb/openclaude",
+      "link": "https://github.com/Gitlawb/openclaude",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/895d7fcf85f57d5276c08d87cd214be28e365e4a31f7b23413b74ba2cb746f09/Gitlawb/openclaude\" referrerpolicy=\"no-referrer\"><br>runs anywhere. uses anything<br><br>Language: TypeScript<br>Stars: 32699<br>Forks: 9063",
+      "contentSnippet": "runs anywhere. uses anything\nLanguage: TypeScript\nStars: 32699\nForks: 9063",
+      "creator": "Gitlawb",
+      "summaries": {
+        "zh": "GitHub 项目 \"Gitlawb/openclaude\" 使用 TypeScript 编写，主打“随处运行、兼容万物”的特性。该项目热度极高，目前已获得超过 3.2 万个 Star 和 9000 多个 Fork。",
+        "en": "The GitHub repository \"Gitlawb/openclaude\" is a TypeScript project that has garnered significant attention, accumulating over 32,000 stars and 9,000 forks. The project emphasizes high versatility and portability, described as being able to \"run anywhere\" and \"use anything.\""
+      },
+      "summary": "GitHub 项目 \"Gitlawb/openclaude\" 使用 TypeScript 编写，主打“随处运行、兼容万物”的特性。该项目热度极高，目前已获得超过 3.2 万个 Star 和 9000 多个 Fork。"
+    },
+    {
+      "title": "google-research/timesfm",
+      "link": "https://github.com/google-research/timesfm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/525d065ed5fba725b2bcde9ea9cee2ede8293fdb27937e31b34045adcfab802d/google-research/timesfm\" referrerpolicy=\"no-referrer\"><br>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.<br><br>Language: Python<br>Stars: 31278<br>Forks: 2990",
+      "contentSnippet": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\nLanguage: Python\nStars: 31278\nForks: 2990",
+      "creator": "google-research",
+      "summaries": {
+        "zh": "TimesFM是由Google Research开发的预训练时间序列基础模型，专用于时间序列预测。该项目使用Python编写，在GitHub上已获得超过2.9万个星标和2800多个分叉，显示出较高的社区关注度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "TimesFM是由Google Research开发的预训练时间序列基础模型，专用于时间序列预测。该项目使用Python编写，在GitHub上已获得超过2.9万个星标和2800多个分叉，显示出较高的社区关注度。"
+    },
+    {
+      "title": "jingyaogong/minimind",
+      "link": "https://github.com/jingyaogong/minimind",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5862dbfe9c131e7f2fdfd51b858e09997ea6ab98e47e9807d0210bee7a42d9ab/jingyaogong/minimind\" referrerpolicy=\"no-referrer\"><br>🧠 Train a 64M-parameter LLM from scratch in just 2h!<br><br>Language: Python<br>Stars: 58755<br>Forks: 7631",
+      "contentSnippet": "🧠 Train a 64M-parameter LLM from scratch in just 2h!\nLanguage: Python\nStars: 58755\nForks: 7631",
+      "creator": "jingyaogong",
+      "summaries": {
+        "zh": "GitHub项目“jingyaogong/minimind”是一个Python项目，旨在帮助开发者从零开始训练大语言模型（LLM）。其核心亮点在于仅需2小时即可训练出一个拥有6400万参数的模型。该项目广受欢迎，目前已获得超过5.7万个Star和7500多个Fork。",
+        "en": "The GitHub repository \"jingyaogong/minimind\" provides a Python-based framework for training a 64M-parameter Large Language Model (LLM) from scratch in approximately two hours. The project has gained significant popularity on the platform, accumulating over 57,700 stars and 7,500 forks. It offers an efficient solution for developers interested in building and understanding small-scale language models quickly."
+      },
+      "summary": "GitHub项目“jingyaogong/minimind”是一个Python项目，旨在帮助开发者从零开始训练大语言模型（LLM）。其核心亮点在于仅需2小时即可训练出一个拥有6400万参数的模型。该项目广受欢迎，目前已获得超过5.7万个Star和7500多个Fork。"
+    },
+    {
+      "title": "tailscale/tailcat",
+      "link": "https://github.com/tailscale/tailcat",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f6c6729d53aa091b6d279282dff296808cf68d0bbb735b65edfa64a77c582d59/tailscale/tailcat\" referrerpolicy=\"no-referrer\"><br>like netcat, but over Tailscale's data plane, without Tailscale's control plane<br><br>Language: Go<br>Stars: 6350<br>Forks: 244",
+      "contentSnippet": "like netcat, but over Tailscale's data plane, without Tailscale's control plane\nLanguage: Go\nStars: 6350\nForks: 244",
+      "creator": "tailscale",
+      "summaries": {
+        "zh": "tailscale/tailcat 是一个用 Go 语言编写的工具，其功能类似于 netcat，但运行在 Tailscale 的数据平面上，且无需依赖 Tailscale 的控制平面。该项目在 GitHub 上已获得 6340 个星标和 244 个复刻。",
+        "en": "Tailcat is a Go-based networking utility similar to netcat, designed to operate over Tailscale's data plane without utilizing the control plane. Hosted on GitHub, the open-source project has garnered significant community interest, accumulating over 6,300 stars and 244 forks."
+      },
+      "summary": "tailscale/tailcat 是一个用 Go 语言编写的工具，其功能类似于 netcat，但运行在 Tailscale 的数据平面上，且无需依赖 Tailscale 的控制平面。该项目在 GitHub 上已获得 6340 个星标和 244 个复刻。"
+    },
+    {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a68fd499101be8568edfb4105ebcfc47e557a15880c4923c393a915f0d837b59/K-Dense-AI/scientific-agent-skills\" referrerpolicy=\"no-referrer\"><br>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.<br><br>Language: Python<br>Stars: 42919<br>Forks: 3924",
+      "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nLanguage: Python\nStars: 42919\nForks: 3924",
+      "creator": "K-Dense-AI",
+      "summaries": {
+        "zh": "该项目是一个Python库，旨在将AI代理转化为AI科学家。作为全球排名第一的科学代理技能库，它被超过19万名科学家使用。库内包含165个即用型技能和100多个覆盖生物、化学、医学及药物发现领域的科学数据库。该工具兼容Cursor、Claude Code等多种平台，在GitHub上已获得超过3.7万个星标。",
+        "en": "\"K-Dense-AI/scientific-agent-skills\" is a Python library designed to transform AI agents into scientific research assistants. It offers 165 validated skills and access to over 100 databases covering biology, chemistry, medicine, and drug discovery. Used by more than 190,000 scientists, the tool is compatible with platforms such as Cursor, Claude Code, and Codex. With over 37,000 stars on GitHub, it stands as a leading resource for integrating advanced scientific capabilities into AI agents."
+      },
+      "summary": "该项目是一个Python库，旨在将AI代理转化为AI科学家。作为全球排名第一的科学代理技能库，它被超过19万名科学家使用。库内包含165个即用型技能和100多个覆盖生物、化学、医学及药物发现领域的科学数据库。该工具兼容Cursor、Claude Code等多种平台，在GitHub上已获得超过3.7万个星标。"
+    },
+    {
+      "title": "Lakr233/vphone-cli",
+      "link": "https://github.com/Lakr233/vphone-cli",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e2bb8baa22bc6498913969960a1fd45fbd0e7b0327aa64b4cc3ca60b1b4766b9/Lakr233/vphone-cli\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Swift<br>Stars: 10761<br>Forks: 1374",
+      "contentSnippet": "Language: Swift\nStars: 10761\nForks: 1374",
+      "creator": "Lakr233",
+      "summaries": {
+        "zh": "GitHub 项目 Lakr233/vphone-cli 使用 Swift 语言开发。该项目具有较高的社区关注度，目前已获得 10416 个 Star 和 1345 个 Fork。",
+        "en": "The GitHub repository \"Lakr233/vphone-cli\" is a project developed using the Swift programming language. It has garnered significant attention, evidenced by 10,416 stars and 1,345 forks. The provided content consists solely of repository metadata and does not include a description of the project's specific functionality or purpose."
+      },
+      "summary": "GitHub 项目 Lakr233/vphone-cli 使用 Swift 语言开发。该项目具有较高的社区关注度，目前已获得 10416 个 Star 和 1345 个 Fork。"
+    },
+    {
+      "title": "fmtlib/fmt",
+      "link": "https://github.com/fmtlib/fmt",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6da19cefcd91a79c5143751b38ab1a8a8c5f493dc17d9331ccd4ba1c458671a5/fmtlib/fmt\" referrerpolicy=\"no-referrer\"><br>A modern formatting library<br><br>Language: C++<br>Stars: 25560<br>Forks: 3042",
+      "contentSnippet": "A modern formatting library\nLanguage: C++\nStars: 25560\nForks: 3042",
+      "creator": "fmtlib",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "handsomestWei/patent-disclosure-skill",
+      "link": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b4b98a90217fc530fdb88b6d35fc75795ebef471a769ca6dfd88605be4ad1095/handsomestWei/patent-disclosure-skill\" referrerpolicy=\"no-referrer\"><br>中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。<br><br>Language: Python<br>Stars: 7465<br>Forks: 821",
+      "contentSnippet": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。\nLanguage: Python\nStars: 7465\nForks: 821",
+      "creator": "handsomestWei",
+      "summaries": {
+        "zh": "该GitHub项目“handsomestWei/patent-disclosure-skill”是一个基于Python的中国专利辅助工具。其主要功能涵盖专利点挖掘、各类（发明、实用、外观）交底书编写、专利通俗解读、政策动向分析及审查答复辅助。该项目热度较高，已获得7193个Star和793个Fork，为专利从业者提供了实用的技术支持。",
+        "en": "The GitHub repository \"handsomestWei/patent-disclosure-skill\" provides a comprehensive toolset for managing Chinese patents. Its key functions include identifying patentable points, drafting disclosure documents for inventions, utility models, and designs, and interpreting patents in plain language. Additionally, the project tracks policy trends and assists with responses to patent examinations. Written in Python, the repository is highly popular within the developer community, having accumulated over 7,000 stars and nearly 800 forks."
+      },
+      "summary": "该GitHub项目“handsomestWei/patent-disclosure-skill”是一个基于Python的中国专利辅助工具。其主要功能涵盖专利点挖掘、各类（发明、实用、外观）交底书编写、专利通俗解读、政策动向分析及审查答复辅助。该项目热度较高，已获得7193个Star和793个Fork，为专利从业者提供了实用的技术支持。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 18885<br>Forks: 2428",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 18885\nForks: 2428",
+      "creator": "debpalash",
+      "summaries": {
+        "zh": "VoiceStudio是一款开源且完全本地化的ElevenLabs替代工具。该项目基于Python开发，提供语音克隆、语音设计、视频配音、听写、转录及有声书制作等功能，支持多达646种语言。目前该项目在GitHub上已获得超过1.6万个Star，具有较高的社区热度。",
+        "en": "VoiceStudio is an open-source, fully local alternative to ElevenLabs, written in Python. It offers a comprehensive suite of audio tools, including voice cloning, voice design, video dubbing, dictation, transcription, and audiobook creation. The platform supports 646 languages and has garnered significant attention on GitHub, accumulating over 16,000 stars and 2,195 forks."
+      },
+      "summary": "VoiceStudio是一款开源且完全本地化的ElevenLabs替代工具。该项目基于Python开发，提供语音克隆、语音设计、视频配音、听写、转录及有声书制作等功能，支持多达646种语言。目前该项目在GitHub上已获得超过1.6万个Star，具有较高的社区热度。"
+    },
+    {
+      "title": "magnitudedev/magnitude",
+      "link": "https://github.com/magnitudedev/magnitude",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ca5c8ec398a4b5125078ffeb1715b59890ea993c00ac4d18ee36adc110407f99/magnitudedev/magnitude\" referrerpolicy=\"no-referrer\"><br>Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.<br><br>Language: TypeScript<br>Stars: 3137<br>Forks: 225",
+      "contentSnippet": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.\nLanguage: TypeScript\nStars: 3137\nForks: 225",
+      "creator": "magnitudedev",
+      "summaries": {
+        "zh": "Magnitude 是一个开源推理服务器，旨在根据硬件配置运行最佳的本地模型，并可无缝集成到现有的智能体工具中。该项目使用 TypeScript 编写，支持 Pi、OpenCode、Hermes、Claude Code 及 Cline 等多种工具。目前该项目在 GitHub 上已获得 3061 个星标和 221 个分叉。",
+        "en": "Magnitude is an open-source inference server written in TypeScript that enables users to run optimized local models on their hardware. Designed to integrate with existing agents, it supports tools like Pi, OpenCode, Hermes, and Cline. The project has gained significant traction on GitHub, boasting over 3,000 stars and 200 forks."
+      },
+      "summary": "Magnitude 是一个开源推理服务器，旨在根据硬件配置运行最佳的本地模型，并可无缝集成到现有的智能体工具中。该项目使用 TypeScript 编写，支持 Pi、OpenCode、Hermes、Claude Code 及 Cline 等多种工具。目前该项目在 GitHub 上已获得 3061 个星标和 221 个分叉。"
+    },
+    {
+      "title": "every-app/open-seo",
+      "link": "https://github.com/every-app/open-seo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/81a22331893eccdc9525b2f07818747b7f247fc15dcd9c28f7747c182a5cb243/every-app/open-seo\" referrerpolicy=\"no-referrer\"><br>Open source alternative to Semrush and Ahrefs<br><br>Language: TypeScript<br>Stars: 17251<br>Forks: 2158",
+      "contentSnippet": "Open source alternative to Semrush and Ahrefs\nLanguage: TypeScript\nStars: 17251\nForks: 2158",
+      "creator": "every-app",
+      "summaries": {
+        "zh": "项目 every-app/open-seo 是一款 Semrush 和 Ahrefs 的开源替代方案，使用 TypeScript 开发。该项目在 GitHub 上具有较高的关注度，目前已获得 15,527 个 Star 和 1,865 个 Fork，为用户提供了功能强大的 SEO 工具开源选择。",
+        "en": "The GitHub project \"every-app/open-seo\" serves as an open-source alternative to popular SEO tools like Semrush and Ahrefs. Developed using TypeScript, the repository has garnered significant attention, accumulating over 15,500 stars and 1,865 forks. This highlights its popularity as a community-driven solution for search engine optimization analysis."
+      },
+      "summary": "项目 every-app/open-seo 是一款 Semrush 和 Ahrefs 的开源替代方案，使用 TypeScript 开发。该项目在 GitHub 上具有较高的关注度，目前已获得 15,527 个 Star 和 1,865 个 Fork，为用户提供了功能强大的 SEO 工具开源选择。"
+    },
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/70ba946d754cecf3fedc51e6219f493c494dfbf6cd252888414f96e813a4c3be/bilawalsidhu/gods-eye-view\" referrerpolicy=\"no-referrer\"><br>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.<br><br>Language: JavaScript<br>Stars: 17959<br>Forks: 3633",
+      "contentSnippet": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\nLanguage: JavaScript\nStars: 17959\nForks: 3633",
+      "creator": "bilawalsidhu",
+      "summaries": {
+        "zh": "该项目名为 \"gods-eye-view\"，是一个基于浏览器的间谍卫星模拟器。其特色在于使用真实数据，在逼真的3D地球上展示实时的开源空间情报。该项目采用 JavaScript 编写，目前在 GitHub 上已获得超过 1.5 万星标，具有较高的关注度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该项目名为 \"gods-eye-view\"，是一个基于浏览器的间谍卫星模拟器。其特色在于使用真实数据，在逼真的3D地球上展示实时的开源空间情报。该项目采用 JavaScript 编写，目前在 GitHub 上已获得超过 1.5 万星标，具有较高的关注度。"
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "link": "https://github.com/punkpeye/awesome-mcp-servers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f208f41be3ab92e5c6564f1a8c2e2a1b5ffc22a78283bc91719e38bb81d284fd/punkpeye/awesome-mcp-servers\" referrerpolicy=\"no-referrer\"><br>A collection of MCP servers.<br><br>Language: Unknown<br>Stars: 94311<br>Forks: 15694",
+      "contentSnippet": "A collection of MCP servers.\nLanguage: Unknown\nStars: 94311\nForks: 15694",
+      "creator": "punkpeye",
+      "summaries": {
+        "zh": "该GitHub仓库“punkpeye/awesome-mcp-servers”汇集了各类MCP服务器资源。项目人气极高，目前已获得超过9.3万个星标和1.5万个复刻。项目语言状态显示为未知。",
+        "en": "The GitHub repository \"punkpeye/awesome-mcp-servers\" provides a collection of MCP servers. The project has garnered significant attention on the platform, accumulating 93,662 stars and 15,405 forks. The primary programming language used in the repository is listed as unknown."
+      },
+      "summary": "该GitHub仓库“punkpeye/awesome-mcp-servers”汇集了各类MCP服务器资源。项目人气极高，目前已获得超过9.3万个星标和1.5万个复刻。项目语言状态显示为未知。"
+    },
+    {
+      "title": "p-e-w/heretic",
+      "link": "https://github.com/p-e-w/heretic",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2210d56ce31ca1f44126ea49abf1c3295685edbc7aea5d3a56d1daa720992c1c/p-e-w/heretic\" referrerpolicy=\"no-referrer\"><br>Fully automatic censorship removal for language models<br><br>Language: Python<br>Stars: 30580<br>Forks: 3379",
+      "contentSnippet": "Fully automatic censorship removal for language models\nLanguage: Python\nStars: 30580\nForks: 3379",
+      "creator": "p-e-w",
+      "summaries": {
+        "zh": "该项目名为“heretic”，是一个基于Python开发的工具，旨在为大语言模型提供全自动的审查移除功能。该项目在GitHub上备受关注，目前已获得29,464个星标和3,228个分叉。",
+        "en": "The GitHub repository \"p-e-w/heretic\" provides a Python-based tool designed for fully automatic censorship removal for language models. The project has garnered significant attention on the platform, accumulating 29,464 stars and 3,228 forks, which indicates high popularity within the developer community."
+      },
+      "summary": "该项目名为“heretic”，是一个基于Python开发的工具，旨在为大语言模型提供全自动的审查移除功能。该项目在GitHub上备受关注，目前已获得29,464个星标和3,228个分叉。"
+    },
+    {
+      "title": "majd/ipatool",
+      "link": "https://github.com/majd/ipatool",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/04954c6480042caf6ee4556ed944e1a227d28d54d54c8fddce17b23d7f6b8998/majd/ipatool\" referrerpolicy=\"no-referrer\"><br>Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.<br><br>Language: Go<br>Stars: 10912<br>Forks: 910",
+      "contentSnippet": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.\nLanguage: Go\nStars: 10912\nForks: 910",
+      "creator": "majd",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3f1aa5694648d18dfc2d982402b42c88ee92ceb4e165df059148ca418be09d4a/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 249743<br>Forks: 37599",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 249743\nForks: 37599",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "该项目名为 ECC，是一个智能体套件性能优化系统。它旨在为 Claude Code、Codex、Opencode 和 Cursor 等工具提供技能、本能、记忆、安全及研究优先开发等功能。项目使用 JavaScript 编写，目前拥有 249,540 个 Star 和 37,579 个 Fork，显示出极高的社区关注度。",
+        "en": "The repository \"affaan-m/ECC\" introduces an agent harness performance optimization system tailored for AI coding tools. It features capabilities such as skills, instincts, memory, and security, promoting a research-first development methodology. The system supports platforms like Claude Code, Codex, Opencode, and Cursor. Written in JavaScript, the project has achieved significant popularity with 249,540 stars and 37,579 forks."
+      },
+      "summary": "该项目名为 ECC，是一个智能体套件性能优化系统。它旨在为 Claude Code、Codex、Opencode 和 Cursor 等工具提供技能、本能、记忆、安全及研究优先开发等功能。项目使用 JavaScript 编写，目前拥有 249,540 个 Star 和 37,579 个 Fork，显示出极高的社区关注度。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/face3209f7c4b26f81533f0a6cceca2434e607ff7ce618929b3f31ffd72f7b39/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 51048<br>Forks: 3578",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 51048\nForks: 3578",
+      "creator": "ChromeDevTools",
+      "summaries": {
+        "zh": "该项目名为 ChromeDevTools/chrome-devtools-mcp，旨在为编程代理（coding agents）提供 Chrome 开发者工具功能。项目使用 TypeScript 编写，目前在 GitHub 上已获得 50,889 个 Star 和 3,570 个 Fork，显示出极高的社区关注度。",
+        "en": "The GitHub repository \"ChromeDevTools/chrome-devtools-mcp\" provides Chrome DevTools functionality specifically designed for coding agents. Written in TypeScript, the project has garnered significant attention, accumulating over 50,000 stars and 3,500 forks. It serves as a tool to bridge browser developer tools with automated coding processes."
+      },
+      "summary": "该项目名为 ChromeDevTools/chrome-devtools-mcp，旨在为编程代理（coding agents）提供 Chrome 开发者工具功能。项目使用 TypeScript 编写，目前在 GitHub 上已获得 50,889 个 Star 和 3,570 个 Fork，显示出极高的社区关注度。"
+    },
+    {
+      "title": "checkstyle/checkstyle",
+      "link": "https://github.com/checkstyle/checkstyle",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/12499251/d6fc7800-95b5-11e9-9d28-95750b8352e9\" referrerpolicy=\"no-referrer\"><br>Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.<br><br>Language: Java<br>Stars: 9542<br>Forks: 4218",
+      "contentSnippet": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.\nLanguage: Java\nStars: 9542\nForks: 4218",
+      "creator": "checkstyle",
+      "summaries": {
+        "zh": "Checkstyle 是一款 Java 开发工具，旨在帮助程序员编写符合编码标准的代码。它默认支持 Google Java Style Guide 和 Sun Code Conventions，并支持高度自定义配置。该工具可通过 ANT 任务或命令行调用。项目使用 Java 编写，在 GitHub 上获星标 9538 个，复刻 4218 次。",
+        "en": "Checkstyle is a development tool designed to help programmers write Java code that adheres to coding standards. It supports the Google Java Style Guide and Sun Code Conventions by default but is highly configurable. The tool can be invoked via an ANT task or a command line program. Written in Java, the project has garnered significant community interest, boasting over 9,500 stars and 4,200 forks."
+      },
+      "summary": "Checkstyle 是一款 Java 开发工具，旨在帮助程序员编写符合编码标准的代码。它默认支持 Google Java Style Guide 和 Sun Code Conventions，并支持高度自定义配置。该工具可通过 ANT 任务或命令行调用。项目使用 Java 编写，在 GitHub 上获星标 9538 个，复刻 4218 次。"
+    },
+    {
+      "title": "abi/screenshot-to-code",
+      "link": "https://github.com/abi/screenshot-to-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d1a2faa7612d26a633772846f30d5d639411b0548857e8114de738ffda55c8b3/abi/screenshot-to-code\" referrerpolicy=\"no-referrer\"><br>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)<br><br>Language: Python<br>Stars: 77877<br>Forks: 9472",
+      "contentSnippet": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)\nLanguage: Python\nStars: 77877\nForks: 9472",
+      "creator": "abi",
+      "summaries": {
+        "zh": "该项目名为“abi/screenshot-to-code”，主要功能是将截图转换为整洁的代码，支持HTML、Tailwind、React和Vue等多种格式。项目使用Python编写，目前在GitHub上已获得超过7.6万颗星和9000多个分支，具有极高的人气。",
+        "en": "The repository \"abi/screenshot-to-code\" is a popular Python-based tool that converts screenshots into clean code. It supports multiple frameworks, including HTML, Tailwind, React, and Vue. With over 76,000 stars and 9,000 forks on GitHub, the project is widely used for transforming visual designs into functional code efficiently."
+      },
+      "summary": "该项目名为“abi/screenshot-to-code”，主要功能是将截图转换为整洁的代码，支持HTML、Tailwind、React和Vue等多种格式。项目使用Python编写，目前在GitHub上已获得超过7.6万颗星和9000多个分支，具有极高的人气。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T21:15:21.558Z"
+}
