@@ -1,0 +1,289 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "JustVugg/colibri",
+      "link": "https://github.com/JustVugg/colibri",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9f7b200027bb1dde067fb0d20fa6bef005ed8311421282f22415a155d2a2c0b8/JustVugg/colibri\" referrerpolicy=\"no-referrer\"><br>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦<br><br>Language: C<br>Stars: 32019<br>Forks: 3385",
+      "contentSnippet": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦\nLanguage: C\nStars: 32019\nForks: 3385",
+      "creator": "JustVugg",
+      "summaries": {
+        "zh": "Colibri 是一个轻量级推理引擎，旨在让用户在现有硬件上运行前沿的混合专家模型。该项目采用纯 C 语言编写，零外部依赖，支持从磁盘流式加载专家模块，实现了“小引擎运行大模型”。目前该项目在 GitHub 上已获得超过 2.8 万星标，广受关注。",
+        "en": "\"JustVugg/colibri\" is a popular open-source project written in pure C designed to run frontier Mixture of Experts (MoE) models on existing hardware. The engine features zero dependencies and streams experts directly from disk, enabling the execution of immense models with a tiny footprint. With over 28,000 stars and 3,000 forks, the repository highlights a lightweight, efficient solution for running advanced AI models without requiring specialized infrastructure."
+      },
+      "summary": "Colibri 是一个轻量级推理引擎，旨在让用户在现有硬件上运行前沿的混合专家模型。该项目采用纯 C 语言编写，零外部依赖，支持从磁盘流式加载专家模块，实现了“小引擎运行大模型”。目前该项目在 GitHub 上已获得超过 2.8 万星标，广受关注。"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 25622<br>Forks: 1859",
+      "contentSnippet": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 25622\nForks: 1859",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "multimodal-art-projection/YuE",
+      "link": "https://github.com/multimodal-art-projection/YuE",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5accb71cbd56c26f2a7ce4aa71f7c2e8cbcb6e043140195643b3d731a36a36c7/multimodal-art-projection/YuE\" referrerpolicy=\"no-referrer\"><br>YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.<br><br>Language: Python<br>Stars: 8310<br>Forks: 904",
+      "contentSnippet": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.\nLanguage: Python\nStars: 8310\nForks: 904",
+      "creator": "multimodal-art-projection",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 29121<br>Forks: 3548",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 29121\nForks: 3548",
+      "creator": "debpalash",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "666ghj/MiroFish",
+      "link": "https://github.com/666ghj/MiroFish",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1104332987/1d2666e4-67da-4bb7-bd85-60d49f5d3e10\" referrerpolicy=\"no-referrer\"><br>A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物<br><br>Language: Python<br>Stars: 73118<br>Forks: 11289",
+      "contentSnippet": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物\nLanguage: Python\nStars: 73118\nForks: 11289",
+      "creator": "666ghj",
+      "summaries": {
+        "zh": "项目“666ghj/MiroFish”是一个基于Python开发的简洁通用群体智能引擎，旨在实现“预测万物”的功能。该项目在开源社区热度极高，目前已获得超过7.2万个Star和1.1万个Fork，显示出广泛的关注度和实用性。",
+        "en": "The GitHub repository \"666ghj/MiroFish\" is a Python-based swarm intelligence engine designed to be simple and universal for predictive tasks. The project aims to provide a versatile solution for predicting various outcomes. It has gained significant popularity on the platform, accumulating 72,987 stars and 11,277 forks. The repository's description highlights its capability to predict anything through a concise and universal approach."
+      },
+      "summary": "项目“666ghj/MiroFish”是一个基于Python开发的简洁通用群体智能引擎，旨在实现“预测万物”的功能。该项目在开源社区热度极高，目前已获得超过7.2万个Star和1.1万个Fork，显示出广泛的关注度和实用性。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/32ffebf50b0539019cac49f14addb5a6941313100001cd09f468149985021896/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 81213<br>Forks: 7073",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 81213\nForks: 7073",
+      "creator": "Panniantong",
+      "summaries": {
+        "zh": "项目 Panniantong/Agent-Reach 旨在赋予 AI 代理浏览全网的能力。它支持通过命令行工具读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 及小红书等多个平台，且无需支付 API 费用。该项目基于 Python 开发，目前在 GitHub 上已获得超过 8.1 万星标，显示出极高的热度与实用性。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "项目 Panniantong/Agent-Reach 旨在赋予 AI 代理浏览全网的能力。它支持通过命令行工具读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 及小红书等多个平台，且无需支付 API 费用。该项目基于 Python 开发，目前在 GitHub 上已获得超过 8.1 万星标，显示出极高的热度与实用性。"
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/976921297/6c0bb133-1e4f-4a4e-9570-43797d4faefe\" referrerpolicy=\"no-referrer\"><br>Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.<br><br>Language: JavaScript<br>Stars: 66742<br>Forks: 10869",
+      "contentSnippet": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.\nLanguage: JavaScript\nStars: 66742\nForks: 10869",
+      "creator": "asgeirtj",
+      "summaries": {
+        "zh": "该GitHub仓库汇集了从各大主流AI模型中提取的系统提示词。内容涵盖Anthropic（Claude系列）、OpenAI（ChatGPT、Codex）、Google（Gemini系列）、xAI（Grok）以及Cursor、Kimi等多个平台。项目使用JavaScript编写并定期更新，目前拥有超过6.5万个星标，显示出极高的社区关注度。",
+        "en": "The GitHub repository \"asgeirtj/system_prompts_leaks\" provides a comprehensive collection of extracted system prompts from major AI providers. The list includes models from Anthropic, OpenAI, Google, and xAI, such as Claude, GPT, Gemini, and Grok. Written in JavaScript, the project is updated regularly and has achieved significant popularity with over 65,000 stars and 10,000 forks."
+      },
+      "summary": "该GitHub仓库汇集了从各大主流AI模型中提取的系统提示词。内容涵盖Anthropic（Claude系列）、OpenAI（ChatGPT、Codex）、Google（Gemini系列）、xAI（Grok）以及Cursor、Kimi等多个平台。项目使用JavaScript编写并定期更新，目前拥有超过6.5万个星标，显示出极高的社区关注度。"
+    },
+    {
+      "title": "rlaope/oh-my-hermes",
+      "link": "https://github.com/rlaope/oh-my-hermes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cd49cb13f7ad22b1ba8fae72adddf80e936fe8510bc0d8e7683e2637a373b518/rlaope/oh-my-hermes\" referrerpolicy=\"no-referrer\"><br>All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages<br><br>Language: Python<br>Stars: 2019<br>Forks: 161",
+      "contentSnippet": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages\nLanguage: Python\nStars: 2019\nForks: 161",
+      "creator": "rlaope",
+      "summaries": {
+        "zh": "项目 oh-my-hermes 是一个专为 Hermes Agent 打造的多合一插件。它集成了编码智能、长期记忆系统以及模型优化工作流包。该项目使用 Python 语言开发，目前在 GitHub 上已获得 1905 个星标和 153 个分叉。",
+        "en": "\"oh-my-hermes\" is an all-in-one Python plugin designed for the Hermes Agent. It provides coding intelligence, a long-term memory system, and model-optimized workflow packages. The project has gained notable traction on GitHub, accumulating 1,905 stars and 153 forks."
+      },
+      "summary": "项目 oh-my-hermes 是一个专为 Hermes Agent 打造的多合一插件。它集成了编码智能、长期记忆系统以及模型优化工作流包。该项目使用 Python 语言开发，目前在 GitHub 上已获得 1905 个星标和 153 个分叉。"
+    },
+    {
+      "title": "localsend/localsend",
+      "link": "https://github.com/localsend/localsend",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/578822531/6c3c4f46-0ab9-4737-9afe-7fa7f2f929d7\" referrerpolicy=\"no-referrer\"><br>An open-source cross-platform alternative to AirDrop<br><br>Language: Dart<br>Stars: 91296<br>Forks: 5095",
+      "contentSnippet": "An open-source cross-platform alternative to AirDrop\nLanguage: Dart\nStars: 91296\nForks: 5095",
+      "creator": "localsend",
+      "summaries": {
+        "zh": "LocalSend 是一款开源的跨平台文件传输工具，可作为 AirDrop 的替代方案。该项目使用 Dart 语言开发，目前在 GitHub 上已获得超过 9.1 万颗星标和 5000 多个复刻，显示出极高的社区热度。",
+        "en": "LocalSend is an open-source, cross-platform application designed as an alternative to AirDrop. Developed using the Dart programming language, the project has gained significant popularity, evidenced by over 91,000 stars and 5,000 forks on its repository."
+      },
+      "summary": "LocalSend 是一款开源的跨平台文件传输工具，可作为 AirDrop 的替代方案。该项目使用 Dart 语言开发，目前在 GitHub 上已获得超过 9.1 万颗星标和 5000 多个复刻，显示出极高的社区热度。"
+    },
+    {
+      "title": "dani-garcia/vaultwarden",
+      "link": "https://github.com/dani-garcia/vaultwarden",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/113492e0f1037281d6cc2cb8477ca9e01f52e2e3aae725272da465ebdb38c4c6/dani-garcia/vaultwarden\" referrerpolicy=\"no-referrer\"><br>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs<br><br>Language: Rust<br>Stars: 67520<br>Forks: 3212",
+      "contentSnippet": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs\nLanguage: Rust\nStars: 67520\nForks: 3212",
+      "creator": "dani-garcia",
+      "summaries": {
+        "zh": "Vaultwarden 是一个使用 Rust 语言编写的非官方 Bitwarden 兼容服务器，前身为 bitwarden_rs。该项目在 GitHub 上广受欢迎，目前已获得超过 6.7 万个星标和 3200 多个复刻。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "Vaultwarden 是一个使用 Rust 语言编写的非官方 Bitwarden 兼容服务器，前身为 bitwarden_rs。该项目在 GitHub 上广受欢迎，目前已获得超过 6.7 万个星标和 3200 多个复刻。"
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1\" referrerpolicy=\"no-referrer\"><br>TradingAgents: Multi-Agents LLM Financial Trading Framework<br><br>Language: Python<br>Stars: 106094<br>Forks: 20304",
+      "contentSnippet": "TradingAgents: Multi-Agents LLM Financial Trading Framework\nLanguage: Python\nStars: 106094\nForks: 20304",
+      "creator": "TauricResearch",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ruvnet/RuView",
+      "link": "https://github.com/ruvnet/RuView",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf\" referrerpolicy=\"no-referrer\"><br>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.<br><br>Language: Rust<br>Stars: 93822<br>Forks: 12429",
+      "contentSnippet": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.\nLanguage: Rust\nStars: 93822\nForks: 12429",
+      "creator": "ruvnet",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "tech-leads-club/agent-skills",
+      "link": "https://github.com/tech-leads-club/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4c01d97c240df0a3bec6fc59e66edf6e3861ff8acf556bbed60a3bfe5782af4c/tech-leads-club/agent-skills\" referrerpolicy=\"no-referrer\"><br>The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.<br><br>Language: TypeScript<br>Stars: 6045<br>Forks: 515",
+      "contentSnippet": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.\nLanguage: TypeScript\nStars: 6045\nForks: 515",
+      "creator": "tech-leads-club",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The repository \"tech-leads-club/agent-skills\" serves as a secure and validated skill registry designed for professional AI coding agents. It enables users to extend the capabilities of tools such as Antigravity, Claude Code, Cursor, and Copilot with confidence. Written in TypeScript, the project has gained significant traction on GitHub, accumulating 5,390 stars and 486 forks."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenBMB/VoxCPM",
+      "link": "https://github.com/OpenBMB/VoxCPM",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d5873427bcae623204a2a5fb9ae95f8f46787dc980df00d1273a63de67038df4/OpenBMB/VoxCPM\" referrerpolicy=\"no-referrer\"><br>VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning<br><br>Language: Python<br>Stars: 37355<br>Forks: 4242",
+      "contentSnippet": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning\nLanguage: Python\nStars: 37355\nForks: 4242",
+      "creator": "OpenBMB",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "huggingface/transformers",
+      "link": "https://github.com/huggingface/transformers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/155220641/a16c4880-a501-11ea-9e8f-646cf611702e\" referrerpolicy=\"no-referrer\"><br>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. <br><br>Language: Python<br>Stars: 165956<br>Forks: 34578",
+      "contentSnippet": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. \nLanguage: Python\nStars: 165956\nForks: 34578",
+      "creator": "huggingface",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ever-co/ever-gauzy",
+      "link": "https://github.com/ever-co/ever-gauzy",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/189829392/7a1e420b-43dd-4690-ae69-a167a2b571d7\" referrerpolicy=\"no-referrer\"><br>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co<br><br>Language: TypeScript<br>Stars: 5952<br>Forks: 984",
+      "contentSnippet": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co\nLanguage: TypeScript\nStars: 5952\nForks: 984",
+      "creator": "ever-co",
+      "summaries": {
+        "zh": "Ever® Gauzy™ 是一个开源的商业管理平台，集成了 ERP、CRM、HRM、ATS 和 PM 等多种企业核心功能。该项目使用 TypeScript 语言开发，目前在 GitHub 上已获得 4538 个 Star 和 897 个 Fork。",
+        "en": "Ever Gauzy is an open-source business management platform developed by Ever-co. Built using TypeScript, it provides a comprehensive suite of tools, functioning as an ERP, CRM, HRM, ATS, and project management system. The project has garnered significant community interest, evidenced by over 4,500 stars and 897 forks on its repository. More information is available at gauzy.co."
+      },
+      "summary": "Ever® Gauzy™ 是一个开源的商业管理平台，集成了 ERP、CRM、HRM、ATS 和 PM 等多种企业核心功能。该项目使用 TypeScript 语言开发，目前在 GitHub 上已获得 4538 个 Star 和 897 个 Fork。"
+    },
+    {
+      "title": "Crosstalk-Solutions/project-nomad",
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/30846af138bdaf39a01a246d8bead86015e217f417fab75232860641ea58789a/Crosstalk-Solutions/project-nomad\" referrerpolicy=\"no-referrer\"><br>Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.<br><br>Language: TypeScript<br>Stars: 36893<br>Forks: 3686",
+      "contentSnippet": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.\nLanguage: TypeScript\nStars: 36893\nForks: 3686",
+      "creator": "Crosstalk-Solutions",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "reconurge/flowsint",
+      "link": "https://github.com/reconurge/flowsint",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/28306c738c58284cd35d49e5688d61d4c1fbf40408c9258ffb4dd70c3e6d2580/reconurge/flowsint\" referrerpolicy=\"no-referrer\"><br>A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.<br><br>Language: TypeScript<br>Stars: 8332<br>Forks: 1027",
+      "contentSnippet": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.\nLanguage: TypeScript\nStars: 8332\nForks: 1027",
+      "creator": "reconurge",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "peetzweg/opendisplay",
+      "link": "https://github.com/peetzweg/opendisplay",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c0c09e8093f04b60c633479c38e3baf6b64330353ae19d826884c313f47bb3d8/peetzweg/opendisplay\" referrerpolicy=\"no-referrer\"><br>Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.<br><br>Language: Swift<br>Stars: 3550<br>Forks: 248",
+      "contentSnippet": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.\nLanguage: Swift\nStars: 3550\nForks: 248",
+      "creator": "peetzweg",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "SnailSploit/Claude-Red",
+      "link": "https://github.com/SnailSploit/Claude-Red",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a9bcb34a63dae3d367ce9f23a64d3f3ee05c35fc5db0ba1dccedeab61c3c5ca3/SnailSploit/Claude-Red\" referrerpolicy=\"no-referrer\"><br>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.<br><br>Language: Python<br>Stars: 4705<br>Forks: 631",
+      "contentSnippet": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.\nLanguage: Python\nStars: 4705\nForks: 631",
+      "creator": "SnailSploit",
+      "summaries": {
+        "zh": "Claude-Red 是一个专为 Claude 系统设计的攻击性安全技能精选库。该项目通过结构化的 SKILL.md 文件，为 Claude 提供涵盖 SQL 注入、Shellcode、EDR 规避及漏洞开发等领域的专家级攻击方法论。项目主要使用 Python 语言，目前在 GitHub 上已获得 3515 个星标和 546 个分支。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "Claude-Red 是一个专为 Claude 系统设计的攻击性安全技能精选库。该项目通过结构化的 SKILL.md 文件，为 Claude 提供涵盖 SQL 注入、Shellcode、EDR 规避及漏洞开发等领域的专家级攻击方法论。项目主要使用 Python 语言，目前在 GitHub 上已获得 3515 个星标和 546 个分支。"
+    }
+  ],
+  "lastUpdated": "2026-09-14T23:52:29.958Z"
+}
