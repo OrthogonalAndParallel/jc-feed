@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/999283c0383805b117cc5c367be7e7ba17507bed5936d6183894c6d0182ec1e1/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 14865<br>Forks: 814",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 14865\nForks: 814",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "该项目名为 `cloudflare/security-audit-skill`，是一个基于 JavaScript 的编码代理技能，专为多阶段安全审计设计。其核心特点是能够生成经过独立验证且机器可读的审计结果。该项目在 GitHub 上备受关注，目前已获得 5432 个星标和 332 个分叉。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该项目名为 `cloudflare/security-audit-skill`，是一个基于 JavaScript 的编码代理技能，专为多阶段安全审计设计。其核心特点是能够生成经过独立验证且机器可读的审计结果。该项目在 GitHub 上备受关注，目前已获得 5432 个星标和 332 个分叉。"
+    },
+    {
+      "title": "trycua/cua",
+      "link": "https://github.com/trycua/cua",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f3efcc94f751ed2fb328a85517278c15902708442d40503f0d49c43fcefb867e/trycua/cua\" referrerpolicy=\"no-referrer\"><br>Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.<br><br>Language: HTML<br>Stars: 23838<br>Forks: 1648",
+      "contentSnippet": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.\nLanguage: HTML\nStars: 23838\nForks: 1648",
+      "creator": "trycua",
+      "summaries": {
+        "zh": "GitHub项目trycua/cua旨在扩展“computer-use 2.0”。该项目提供开源驱动程序、跨操作系统设备集群管理功能，并包含用于训练、评估及数据生成的基准测试。该项目备受关注，已获得超过2.3万个星标，主要使用HTML语言。",
+        "en": "The GitHub repository \"trycua/cua\" is designed to scale computer-use 2.0. It provides open-source drivers and supports cross-OS fleet management. The project also includes benchmarks for training, evaluation, and data generation. With over 23,800 stars and 1,648 forks, the repository demonstrates significant popularity within the developer community."
+      },
+      "summary": "GitHub项目trycua/cua旨在扩展“computer-use 2.0”。该项目提供开源驱动程序、跨操作系统设备集群管理功能，并包含用于训练、评估及数据生成的基准测试。该项目备受关注，已获得超过2.3万个星标，主要使用HTML语言。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e1894eb0cc531b09d512a2a589c387702b41c17a072ceb2a717dc649e9be8c73/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 96646<br>Forks: 10209",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 96646\nForks: 10209",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "coder/coder",
+      "link": "https://github.com/coder/coder",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/440752086/eb56ccad-14f2-4c61-a024-20d1e77296c1\" referrerpolicy=\"no-referrer\"><br>Secure environments for developers and their agents<br><br>Language: Go<br>Stars: 15433<br>Forks: 1509",
+      "contentSnippet": "Secure environments for developers and their agents\nLanguage: Go\nStars: 15433\nForks: 1509",
+      "creator": "coder",
+      "summaries": {
+        "zh": "GitHub项目coder/coder致力于为开发者及其代理提供安全环境。该项目采用Go语言开发，目前拥有14842个Star和1482个Fork，显示出较高的社区关注度。",
+        "en": "The GitHub repository \"coder/coder\" provides secure development environments for developers and their agents. Written in the Go programming language, the project has garnered significant community interest, evidenced by over 14,800 stars and 1,400 forks."
+      },
+      "summary": "GitHub项目coder/coder致力于为开发者及其代理提供安全环境。该项目采用Go语言开发，目前拥有14842个Star和1482个Fork，显示出较高的社区关注度。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4f4ee83501a0903a5394223bddc03eca0a04b1967cdec085dd4ad528fbbeacf6/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: TypeScript<br>Stars: 146499<br>Forks: 23831",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: TypeScript\nStars: 146499\nForks: 23831",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "Claude Code 是一款运行于终端的智能编程工具，能够理解代码库并通过自然语言指令协助用户加速开发。它支持执行日常任务、解释复杂代码及处理 Git 工作流。该项目基于 TypeScript 开发，在 GitHub 上拥有超过 14.5 万星标和 2.3 万复刻，显示出极高的社区关注度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "Claude Code 是一款运行于终端的智能编程工具，能够理解代码库并通过自然语言指令协助用户加速开发。它支持执行日常任务、解释复杂代码及处理 Git 工作流。该项目基于 TypeScript 开发，在 GitHub 上拥有超过 14.5 万星标和 2.3 万复刻，显示出极高的社区关注度。"
+    },
+    {
+      "title": "Open-Dev-Society/OpenStock",
+      "link": "https://github.com/Open-Dev-Society/OpenStock",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/35b9840f970fd42958e978df737f527a30a98c9c44af69f76cb2268780ebc11a/Open-Dev-Society/OpenStock\" referrerpolicy=\"no-referrer\"><br>OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.<br><br>Language: TypeScript<br>Stars: 15678<br>Forks: 2052",
+      "contentSnippet": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.\nLanguage: TypeScript\nStars: 15678\nForks: 2052",
+      "creator": "Open-Dev-Society",
+      "summaries": {
+        "zh": "OpenStock 是一款开源的股票市场平台替代方案，旨在提供免费的实时行情追踪、个性化提醒及详细的公司洞察功能。该项目使用 TypeScript 开发，目前在 GitHub 上已获得超过 1.5 万个星标，致力于为用户提供永久免费的开放服务。",
+        "en": "OpenStock is a free, open-source alternative to expensive market platforms, developed using TypeScript. It enables users to track real-time stock prices, set personalized alerts, and access detailed company insights. The project has garnered significant community support on GitHub, accumulating over 15,000 stars and 2,000 forks, positioning itself as a cost-effective, community-driven tool for market analysis."
+      },
+      "summary": "OpenStock 是一款开源的股票市场平台替代方案，旨在提供免费的实时行情追踪、个性化提醒及详细的公司洞察功能。该项目使用 TypeScript 开发，目前在 GitHub 上已获得超过 1.5 万个星标，致力于为用户提供永久免费的开放服务。"
+    },
+    {
+      "title": "higgsfield-ai/higgsfield",
+      "link": "https://github.com/higgsfield-ai/higgsfield",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7d22de9ca980345b76732c38cfe5f6f5612989e5713bdd32064323ca64e16f4b/higgsfield-ai/higgsfield\" referrerpolicy=\"no-referrer\"><br>Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters<br><br>Language: Jupyter Notebook<br>Stars: 4659<br>Forks: 869",
+      "contentSnippet": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters\nLanguage: Jupyter Notebook\nStars: 4659\nForks: 869",
+      "creator": "higgsfield-ai",
+      "summaries": {
+        "zh": "Higgsfield是一个容错且高度可扩展的GPU编排与机器学习框架，专为训练参数规模达数十亿至数万亿的模型而设计。该项目主要使用Jupyter Notebook编写，目前在GitHub上已获得4659个Star和869个Fork，具有较高的社区关注度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "Higgsfield是一个容错且高度可扩展的GPU编排与机器学习框架，专为训练参数规模达数十亿至数万亿的模型而设计。该项目主要使用Jupyter Notebook编写，目前在GitHub上已获得4659个Star和869个Fork，具有较高的社区关注度。"
+    },
+    {
+      "title": "docling-project/docling",
+      "link": "https://github.com/docling-project/docling",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/826168160/d3c8a8f9-af99-449f-856b-4ab9c897cce2\" referrerpolicy=\"no-referrer\"><br>Get your documents ready for gen AI<br><br>Language: Python<br>Stars: 66716<br>Forks: 4815",
+      "contentSnippet": "Get your documents ready for gen AI\nLanguage: Python\nStars: 66716\nForks: 4815",
+      "creator": "docling-project",
+      "summaries": {
+        "zh": "Docling是一个基于Python的开源项目，旨在为生成式AI（Gen AI）准备文档数据。该项目在GitHub上热度极高，已获得超过6.6万个星标和4800多个分支，显示出其在技术社区的广泛认可。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "Docling是一个基于Python的开源项目，旨在为生成式AI（Gen AI）准备文档数据。该项目在GitHub上热度极高，已获得超过6.6万个星标和4800多个分支，显示出其在技术社区的广泛认可。"
+    },
+    {
+      "title": "cloudflare/quiche",
+      "link": "https://github.com/cloudflare/quiche",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/150891532/2e6cb65b-af39-4800-ba9c-846e87230de5\" referrerpolicy=\"no-referrer\"><br>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3<br><br>Language: Rust<br>Stars: 11852<br>Forks: 1098",
+      "contentSnippet": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3\nLanguage: Rust\nStars: 11852\nForks: 1098",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Cloudflare's \"quiche\" is an implementation of the QUIC transport protocol and HTTP/3, written in the Rust programming language. The project has garnered significant attention on GitHub, accumulating 11,852 stars and 1,098 forks."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "asciimoo/hister",
+      "link": "https://github.com/asciimoo/hister",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ef8a45b308e039cec17034c4d25369f3fa64c8c5594363249c5ec3fcee05098a/asciimoo/hister\" referrerpolicy=\"no-referrer\"><br>Your own search engine<br><br>Language: Go<br>Stars: 5078<br>Forks: 212",
+      "contentSnippet": "Your own search engine\nLanguage: Go\nStars: 5078\nForks: 212",
+      "creator": "asciimoo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ruanyf/weekly",
+      "link": "https://github.com/ruanyf/weekly",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7955e50c7151ad2f03a54a36699b2eff3d00850d9402605d2269c6547905a47c/ruanyf/weekly\" referrerpolicy=\"no-referrer\"><br>科技爱好者周刊，每周五发布<br><br>Language: Unknown<br>Stars: 102950<br>Forks: 4420",
+      "contentSnippet": "科技爱好者周刊，每周五发布\nLanguage: Unknown\nStars: 102950\nForks: 4420",
+      "creator": "ruanyf",
+      "summaries": {
+        "zh": "该项目名为“ruanyf/weekly”，内容为“科技爱好者周刊”，承诺每周五发布。该项目在GitHub上拥有极高人气，已获得超过10.2万个Star和4420个Fork。",
+        "en": "The GitHub repository \"ruanyf/weekly\" hosts the \"Technology Enthusiast Weekly,\" a publication released every Friday. It is a highly popular project on the platform, accumulating over 102,950 stars and 4,420 forks. The repository's primary language is listed as unknown."
+      },
+      "summary": "该项目名为“ruanyf/weekly”，内容为“科技爱好者周刊”，承诺每周五发布。该项目在GitHub上拥有极高人气，已获得超过10.2万个Star和4420个Fork。"
+    },
+    {
+      "title": "ZuodaoTech/everyone-can-use-english",
+      "link": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b9a35c0eeda76f55f748a8096eb4da02438b7265d337d9e84feff39cf67692ed/ZuodaoTech/everyone-can-use-english\" referrerpolicy=\"no-referrer\"><br>人人都能用英语<br><br>Language: TypeScript<br>Stars: 37651<br>Forks: 5198",
+      "contentSnippet": "人人都能用英语\nLanguage: TypeScript\nStars: 37651\nForks: 5198",
+      "creator": "ZuodaoTech",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4106e9c5f27dbbaa60ebbab3a9387873434f9eb48436155d1df74eb14aee665e/anthropics/knowledge-work-plugins\" referrerpolicy=\"no-referrer\"><br>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork<br><br>Language: Python<br>Stars: 24973<br>Forks: 2978",
+      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\nLanguage: Python\nStars: 24973\nForks: 2978",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "该开源项目名为“anthropics/knowledge-work-plugins”，主要面向知识工作者，提供了一系列用于Claude Cowork的插件。项目采用Python语言编写。目前，该项目已获得超过2.4万个星标和2900多个分叉，显示出较高的社区关注度。",
+        "en": "The GitHub repository \"anthropics/knowledge-work-plugins\" provides a collection of open-source plugins designed for knowledge workers using Claude Cowork. Written in Python, the project has garnered significant attention, accumulating over 24,000 stars and approximately 2,900 forks."
+      },
+      "summary": "该开源项目名为“anthropics/knowledge-work-plugins”，主要面向知识工作者，提供了一系列用于Claude Cowork的插件。项目采用Python语言编写。目前，该项目已获得超过2.4万个星标和2900多个分叉，显示出较高的社区关注度。"
+    },
+    {
+      "title": "cactus-compute/needle",
+      "link": "https://github.com/cactus-compute/needle",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0c356d04e08866609549b9f7316ecf263aa3bc8a5cf93185216c598cd718665f/cactus-compute/needle\" referrerpolicy=\"no-referrer\"><br>Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.<br><br>Language: Python<br>Stars: 11394<br>Forks: 727",
+      "contentSnippet": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.\nLanguage: Python\nStars: 11394\nForks: 727",
+      "creator": "cactus-compute",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "yynxxxxx/Codex-X",
+      "link": "https://github.com/yynxxxxx/Codex-X",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d767bb096a58243f517f4ef3444fbefc114b0a2b26b75ee9566dd2f8e341e09c/yynxxxxx/Codex-X\" referrerpolicy=\"no-referrer\"><br>OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。<br><br>Language: Rust<br>Stars: 3305<br>Forks: 440",
+      "contentSnippet": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。\nLanguage: Rust\nStars: 3305\nForks: 440",
+      "creator": "yynxxxxx",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-19T10:58:39.008Z"
+}

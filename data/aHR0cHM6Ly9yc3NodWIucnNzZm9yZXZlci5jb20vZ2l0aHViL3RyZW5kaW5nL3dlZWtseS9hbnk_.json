@@ -1,0 +1,303 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 36473<br>Forks: 2602",
+      "contentSnippet": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 36473\nForks: 2602",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "阿里巴巴开源的代码审查工具 open-code-review，以快速高效著称，并在大规模实践中得到验证。该工具采用确定性管道与 LLM Agent 结合的混合架构，能提供精确的行级评论。它内置多语言规则集，覆盖 NPE、线程安全、XSS 及 SQL 注入等问题，并兼容 OpenAI 和 Anthropic。项目基于 Go 语言，目前 GitHub 星标数已超 2.5 万。",
+        "en": "Alibaba's \"open-code-review\" is a fast, efficient code review tool designed for large-scale use. It utilizes a hybrid architecture combining deterministic pipelines with an LLM Agent to deliver precise line-level comments. The tool features built-in rules for detecting security vulnerabilities and code issues, such as XSS, SQL injection, and thread-safety problems. Written in Go, it is compatible with OpenAI and Anthropic models. The project has gained significant traction on GitHub, boasting over 25,000 stars and 1,850 forks."
+      },
+      "summary": "阿里巴巴开源的代码审查工具 open-code-review，以快速高效著称，并在大规模实践中得到验证。该工具采用确定性管道与 LLM Agent 结合的混合架构，能提供精确的行级评论。它内置多语言规则集，覆盖 NPE、线程安全、XSS 及 SQL 注入等问题，并兼容 OpenAI 和 Anthropic。项目基于 Go 语言，目前 GitHub 星标数已超 2.5 万。"
+    },
+    {
+      "title": "ayghri/i-have-adhd",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/114fbdad03be719ca57a62bb4a3dc629d1dc9e886c5858a73454e32049fc0f54/ayghri/i-have-adhd\" referrerpolicy=\"no-referrer\"><br>A skill to stop your coding agent from burying the answer. ADHD-friendly output.<br><br>Language: Python<br>Stars: 47928<br>Forks: 2794",
+      "contentSnippet": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.\nLanguage: Python\nStars: 47928\nForks: 2794",
+      "creator": "ayghri",
+      "summaries": {
+        "zh": "该GitHub项目名为“ayghri/i-have-adhd”，旨在防止编程助手将关键答案隐藏在冗长输出中，提供对ADHD（注意力缺陷多动障碍）用户友好的内容。项目使用Python语言开发，目前获得超过3.4万个星标和2012个分叉，显示出极高的关注度。",
+        "en": "The GitHub repository \"ayghri/i-have-adhd\" provides a Python-based tool designed to make coding agent outputs more accessible for users with ADHD. Its primary function is to prevent coding agents from burying the answer, ensuring clear and direct results. The project is highly popular, having garnered over 34,000 stars and 2,000 forks."
+      },
+      "summary": "该GitHub项目名为“ayghri/i-have-adhd”，旨在防止编程助手将关键答案隐藏在冗长输出中，提供对ADHD（注意力缺陷多动障碍）用户友好的内容。项目使用Python语言开发，目前获得超过3.4万个星标和2012个分叉，显示出极高的关注度。"
+    },
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b62ccd3f86235436ac3845b034360e4693afc19ea954fb321b2c746db96fa9a4/bilawalsidhu/gods-eye-view\" referrerpolicy=\"no-referrer\"><br>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.<br><br>Language: JavaScript<br>Stars: 37639<br>Forks: 7576",
+      "contentSnippet": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\nLanguage: JavaScript\nStars: 37639\nForks: 7576",
+      "creator": "bilawalsidhu",
+      "summaries": {
+        "zh": "该项目名为“God's Eye View”，是一个基于浏览器的间谍卫星模拟器。其特色在于使用真实数据，在逼真的3D地球上展示实时的开源空间情报。该项目采用JavaScript编写，目前在GitHub上已获得超过2.3万个星标，广受开发者关注。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该项目名为“God's Eye View”，是一个基于浏览器的间谍卫星模拟器。其特色在于使用真实数据，在逼真的3D地球上展示实时的开源空间情报。该项目采用JavaScript编写，目前在GitHub上已获得超过2.3万个星标，广受开发者关注。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c3f4df3fa6ea1554837fa18619f7c3cfdeb76166c4931482abb4482155c55daf/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 261812<br>Forks: 39173",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 261812\nForks: 39173",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "该项目名为 ECC，是一个智能体套件性能优化系统。它旨在为 Claude Code、Codex、Opencode 和 Cursor 等工具提供技能、本能、记忆、安全及研究优先开发等功能。项目使用 JavaScript 编写，目前拥有 249,540 个 Star 和 37,579 个 Fork，显示出极高的社区关注度。",
+        "en": "The repository \"affaan-m/ECC\" introduces an agent harness performance optimization system tailored for AI coding tools. It features capabilities such as skills, instincts, memory, and security, promoting a research-first development methodology. The system supports platforms like Claude Code, Codex, Opencode, and Cursor. Written in JavaScript, the project has achieved significant popularity with 249,540 stars and 37,579 forks."
+      },
+      "summary": "该项目名为 ECC，是一个智能体套件性能优化系统。它旨在为 Claude Code、Codex、Opencode 和 Cursor 等工具提供技能、本能、记忆、安全及研究优先开发等功能。项目使用 JavaScript 编写，目前拥有 249,540 个 Star 和 37,579 个 Fork，显示出极高的社区关注度。"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "link": "https://github.com/Tencent/WeKnora",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/81d033381be7bb4c7193d21bea1f6cffaea7be78e3f2e474f1a8c443e99d8b15/Tencent/WeKnora\" referrerpolicy=\"no-referrer\"><br>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.<br><br>Language: Go<br>Stars: 26894<br>Forks: 3621",
+      "contentSnippet": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.\nLanguage: Go\nStars: 26894\nForks: 3621",
+      "creator": "Tencent",
+      "summaries": {
+        "zh": "Tencent/WeKnora 是一个开源的大语言模型知识平台，使用 Go 语言开发。该项目旨在将原始文档转化为可查询的 RAG（检索增强生成）系统、自主推理代理以及自维护 Wiki。目前，该项目在 GitHub 上已获得超过 2.2 万颗星和 3000 多个复刻，显示出较高的社区热度。",
+        "en": "WeKnora is an open-source Large Language Model (LLM) knowledge platform developed by Tencent. Built using the Go programming language, it transforms raw documents into a queryable Retrieval-Augmented Generation (RAG) system. The platform also functions as an autonomous reasoning agent and facilitates the creation of a self-maintaining Wiki. The project has garnered significant community interest, accumulating over 22,000 stars and 3,200 forks."
+      },
+      "summary": "Tencent/WeKnora 是一个开源的大语言模型知识平台，使用 Go 语言开发。该项目旨在将原始文档转化为可查询的 RAG（检索增强生成）系统、自主推理代理以及自维护 Wiki。目前，该项目在 GitHub 上已获得超过 2.2 万颗星和 3000 多个复刻，显示出较高的社区热度。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f8a8075648998d628187c0b1925f974f1f2eb97c910b1509aa2926efd071e4de/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: TypeScript<br>Stars: 146186<br>Forks: 23733",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: TypeScript\nStars: 146186\nForks: 23733",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "Claude Code 是一款运行于终端的智能编程工具，能够理解代码库并通过自然语言指令协助开发者。其主要功能包括执行日常任务、解释复杂代码以及处理 Git 工作流，旨在提高编码效率。该项目基于 TypeScript 开发，在 GitHub 上已获得超过 14.5 万星标和 2.3 万分叉，备受关注。",
+        "en": "Claude Code is an agentic coding tool by Anthropic that operates directly in the terminal. It accelerates development by understanding codebases, executing routine tasks, explaining complex code, and managing git workflows through natural language commands. Written in TypeScript, the project is highly popular on GitHub, having garnered over 145,000 stars and 23,500 forks."
+      },
+      "summary": "Claude Code 是一款运行于终端的智能编程工具，能够理解代码库并通过自然语言指令协助开发者。其主要功能包括执行日常任务、解释复杂代码以及处理 Git 工作流，旨在提高编码效率。该项目基于 TypeScript 开发，在 GitHub 上已获得超过 14.5 万星标和 2.3 万分叉，备受关注。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/62a718986aa3a52fc898cf4bda1fde6de028cf3f1eb7c4b9e7224f3f5f26ba9e/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 23503<br>Forks: 1693",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 23503\nForks: 1693",
+      "creator": "mksglu",
+      "summaries": {
+        "zh": "该项目名为 mksglu/context-mode，旨在为 AI 编程代理优化上下文窗口。其主要功能包括沙盒化工具输出（实现 98% 的上下文缩减）、持久化会话记忆，以及通过 MCP 和 hooks 在 17 个平台上强制执行路由。该项目使用 TypeScript 编写，目前在 GitHub 上获得超过 2.1 万星标，具有较高的社区关注度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该项目名为 mksglu/context-mode，旨在为 AI 编程代理优化上下文窗口。其主要功能包括沙盒化工具输出（实现 98% 的上下文缩减）、持久化会话记忆，以及通过 MCP 和 hooks 在 17 个平台上强制执行路由。该项目使用 TypeScript 编写，目前在 GitHub 上获得超过 2.1 万星标，具有较高的社区关注度。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ff0ba05fd2ffbadcc04d9acbf28dc1b088c793ba51aa08025b9fe7948779e2a9/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 96274<br>Forks: 10180",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 96274\nForks: 10180",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "GitHub 项目 addyosmani/agent-skills 旨在为 AI 编程代理提供生产级的工程技能。该项目使用 JavaScript 语言编写，在社区中极具影响力，目前已获得超过 9.5 万个 Star 和 1 万个 Fork，显示出其高度的受欢迎程度和实用价值。",
+        "en": "The GitHub repository \"addyosmani/agent-skills\" focuses on providing production-grade engineering skills specifically designed for AI coding agents. Written in JavaScript, the project has garnered significant attention on the platform, accumulating over 95,000 stars and 10,000 forks."
+      },
+      "summary": "GitHub 项目 addyosmani/agent-skills 旨在为 AI 编程代理提供生产级的工程技能。该项目使用 JavaScript 语言编写，在社区中极具影响力，目前已获得超过 9.5 万个 Star 和 1 万个 Fork，显示出其高度的受欢迎程度和实用价值。"
+    },
+    {
+      "title": "max-sixty/worktrunk",
+      "link": "https://github.com/max-sixty/worktrunk",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1078528927/6196f2ac-248f-42f5-abb5-d18768111b3b\" referrerpolicy=\"no-referrer\"><br>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows<br><br>Language: Rust<br>Stars: 7993<br>Forks: 273",
+      "contentSnippet": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\nLanguage: Rust\nStars: 7993\nForks: 273",
+      "creator": "max-sixty",
+      "summaries": {
+        "zh": "Worktrunk 是一款基于 Rust 语言开发的命令行工具，主要用于 Git worktree 管理。该工具专为并行 AI 代理工作流而设计，旨在优化多任务开发流程。目前，该项目在 GitHub 上已获得 7464 个星标和 265 个分叉，显示出较高的社区关注度。",
+        "en": "Worktrunk is a command-line interface (CLI) tool written in Rust for managing Git worktrees. It is specifically designed to support parallel workflows for AI agents. The project has gained significant traction on GitHub, accumulating 7,464 stars and 265 forks."
+      },
+      "summary": "Worktrunk 是一款基于 Rust 语言开发的命令行工具，主要用于 Git worktree 管理。该工具专为并行 AI 代理工作流而设计，旨在优化多任务开发流程。目前，该项目在 GitHub 上已获得 7464 个星标和 265 个分叉，显示出较高的社区关注度。"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/44315205293e660ae53a7ed0f0db34fb1434eb371b74360d1e89bdcd1a27db25/anthropics/knowledge-work-plugins\" referrerpolicy=\"no-referrer\"><br>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork<br><br>Language: Python<br>Stars: 24811<br>Forks: 2963",
+      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\nLanguage: Python\nStars: 24811\nForks: 2963",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "该开源仓库“anthropics/knowledge-work-plugins”专为知识工作者设计，提供用于Claude Cowork的插件集合。项目采用Python语言编写，目前在GitHub上已获得超过2.4万个星标和近3000个分叉，显示出极高的社区关注度。",
+        "en": "The \"anthropics/knowledge-work-plugins\" repository is an open-source collection of tools written in Python, designed for knowledge workers using Claude Cowork. The project has gained significant popularity, accumulating over 24,000 stars and nearly 3,000 forks. It serves as a resource for users seeking to enhance their workflow within the Claude ecosystem."
+      },
+      "summary": "该开源仓库“anthropics/knowledge-work-plugins”专为知识工作者设计，提供用于Claude Cowork的插件集合。项目采用Python语言编写，目前在GitHub上已获得超过2.4万个星标和近3000个分叉，显示出极高的社区关注度。"
+    },
+    {
+      "title": "openai/plugins",
+      "link": "https://github.com/openai/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/faf105e57e60b3d441b3f2908e687d65adf560f0ec8a6e07be9f693839b37737/openai/plugins\" referrerpolicy=\"no-referrer\"><br>OpenAI Plugins<br><br>Language: JavaScript<br>Stars: 6960<br>Forks: 902",
+      "contentSnippet": "OpenAI Plugins\nLanguage: JavaScript\nStars: 6960\nForks: 902",
+      "creator": "openai",
+      "summaries": {
+        "zh": "该GitHub仓库名为“openai/plugins”，主要使用JavaScript语言开发。项目目前获得了6158个星标和824个分叉，体现了其在开发者社区中的活跃度与关注度。",
+        "en": "The GitHub repository named \"openai/plugins\" is developed using JavaScript. It has garnered 6,158 stars and has been forked 824 times, indicating significant interest and usage within the developer community."
+      },
+      "summary": "该GitHub仓库名为“openai/plugins”，主要使用JavaScript语言开发。项目目前获得了6158个星标和824个分叉，体现了其在开发者社区中的活跃度与关注度。"
+    },
+    {
+      "title": "blader/humanizer",
+      "link": "https://github.com/blader/humanizer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d1ea3424175fd2c49d0df870cacaa7980af0f4e7f9f09001f576c8d067ce350e/blader/humanizer\" referrerpolicy=\"no-referrer\"><br>Agent skill that removes signs of AI-generated writing from text<br><br>Language: Python<br>Stars: 49875<br>Forks: 4030",
+      "contentSnippet": "Agent skill that removes signs of AI-generated writing from text\nLanguage: Python\nStars: 49875\nForks: 4030",
+      "creator": "blader",
+      "summaries": {
+        "zh": "项目“blader/humanizer”是一个基于Python开发的智能体技能工具，旨在消除文本中AI生成的痕迹，使其更具人类写作特征。该项目人气颇高，在GitHub上已获得超过4.5万个星标和3700多个分叉。",
+        "en": "The repository \"blader/humanizer\" is a Python-based agent skill designed to remove traces of AI-generated writing from text. It is a highly popular project on GitHub, evidenced by over 45,000 stars and 3,700 forks. The tool functions to make machine-generated content appear more human-like."
+      },
+      "summary": "项目“blader/humanizer”是一个基于Python开发的智能体技能工具，旨在消除文本中AI生成的痕迹，使其更具人类写作特征。该项目人气颇高，在GitHub上已获得超过4.5万个星标和3700多个分叉。"
+    },
+    {
+      "title": "kunchenguid/firstmate",
+      "link": "https://github.com/kunchenguid/firstmate",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1266884317/d0bb9a65-8e65-4b71-bf01-3674d502d124\" referrerpolicy=\"no-referrer\"><br>Talk to one agent. Ship with a crew.<br><br>Language: Shell<br>Stars: 6522<br>Forks: 1986",
+      "contentSnippet": "Talk to one agent. Ship with a crew.\nLanguage: Shell\nStars: 6522\nForks: 1986",
+      "creator": "kunchenguid",
+      "summaries": {
+        "zh": "GitHub 项目 kunchenguid/firstmate 是一个基于 Shell 语言开发的工具。其核心概念是让用户通过与单个智能体对话，即可指挥一组智能体协同完成任务。该项目目前获得 6150 个 Star 和 1905 个 Fork，显示出较高的社区关注度。",
+        "en": "The GitHub repository \"kunchenguid/firstmate\" is a Shell-based project that has garnered significant attention, boasting over 6,150 stars and 1,905 forks. The project is described by the tagline \"Talk to one agent. Ship with a crew,\" implying a multi-agent system designed to streamline software development processes through a unified interface."
+      },
+      "summary": "GitHub 项目 kunchenguid/firstmate 是一个基于 Shell 语言开发的工具。其核心概念是让用户通过与单个智能体对话，即可指挥一组智能体协同完成任务。该项目目前获得 6150 个 Star 和 1905 个 Fork，显示出较高的社区关注度。"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "link": "https://github.com/microsoft/markitdown",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/80a3750256394bd55fc26a48d6c3d6bf7f76ac528c544e1af9f362731812e6ce/microsoft/markitdown\" referrerpolicy=\"no-referrer\"><br>Python tool for converting files and office documents to Markdown.<br><br>Language: Python<br>Stars: 185382<br>Forks: 13645",
+      "contentSnippet": "Python tool for converting files and office documents to Markdown.\nLanguage: Python\nStars: 185382\nForks: 13645",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "Microsoft推出的markitdown是一款Python工具，专门用于将各类文件及Office办公文档转换为Markdown格式。该项目在GitHub上热度极高，目前已获得超过18.2万个星标和1.3万次分叉。",
+        "en": "Microsoft’s “markitdown” is a Python tool designed to convert files and office documents into Markdown format. The repository has achieved significant popularity on GitHub, accumulating over 182,000 stars and 13,000 forks."
+      },
+      "summary": "Microsoft推出的markitdown是一款Python工具，专门用于将各类文件及Office办公文档转换为Markdown格式。该项目在GitHub上热度极高，目前已获得超过18.2万个星标和1.3万次分叉。"
+    },
+    {
+      "title": "home-assistant/core",
+      "link": "https://github.com/home-assistant/core",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/12888993/b7c31002-f51f-45b9-ae79-1c1fd52e84ab\" referrerpolicy=\"no-referrer\"><br>:house_with_garden: Open source home automation that puts local control and privacy first.<br><br>Language: Python<br>Stars: 90718<br>Forks: 38697",
+      "contentSnippet": ":house_with_garden: Open source home automation that puts local control and privacy first.\nLanguage: Python\nStars: 90718\nForks: 38697",
+      "creator": "home-assistant",
+      "summaries": {
+        "zh": "Home Assistant Core 是一款开源的智能家居自动化平台，其核心特点是优先保障本地控制与用户隐私。该项目基于 Python 语言开发，在 GitHub 上拥有超过 9 万个 Star 和 3.8 万个 Fork，显示出极高的社区关注度与活跃度。",
+        "en": "Home Assistant Core is an open-source home automation platform that prioritizes local control and privacy. Written in Python, the project has garnered significant community interest, evidenced by over 90,000 stars and 38,000 forks."
+      },
+      "summary": "Home Assistant Core 是一款开源的智能家居自动化平台，其核心特点是优先保障本地控制与用户隐私。该项目基于 Python 语言开发，在 GitHub 上拥有超过 9 万个 Star 和 3.8 万个 Fork，显示出极高的社区关注度与活跃度。"
+    },
+    {
+      "title": "stablyai/orca",
+      "link": "https://github.com/stablyai/orca",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/08522e06535f2db08546b45ae6edb462e608875ac30b013412ec7a3db5290ab2/stablyai/orca\" referrerpolicy=\"no-referrer\"><br>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.<br><br>Language: TypeScript<br>Stars: 71782<br>Forks: 4694",
+      "contentSnippet": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\nLanguage: TypeScript\nStars: 71782\nForks: 4694",
+      "creator": "stablyai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Orca is an Agent Development Environment (ADE) designed for managing fleets of parallel agents. It enables users to run various coding agents using their own subscriptions across desktop, mobile, and remote runtime environments. Written in TypeScript, the project has achieved significant popularity on GitHub, boasting over 70,000 stars and 4,600 forks."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/08bb0e694f46ef1a671b1be7331a2eed4d0da5e75d41497d7a1f1094c85dbf24/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 51326<br>Forks: 4672",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 51326\nForks: 4672",
+      "creator": "heygen-com",
+      "summaries": {
+        "zh": "该 GitHub 项目名为 heygen-com/hyperframes，主要功能是通过编写 HTML 代码来渲染视频，专为 AI 代理设计。项目使用 TypeScript 语言开发。目前该项目人气极高，已获得超过 5.1 万个 Star 和 4664 个 Fork。",
+        "en": "The GitHub repository \"heygen-com/hyperframes\" is a TypeScript project that enables users to render videos by writing HTML. Built specifically for AI agents, the tool has achieved significant popularity with over 51,000 stars and 4,600 forks. It provides a programmatic way to generate video content using standard HTML code."
+      },
+      "summary": "该 GitHub 项目名为 heygen-com/hyperframes，主要功能是通过编写 HTML 代码来渲染视频，专为 AI 代理设计。项目使用 TypeScript 语言开发。目前该项目人气极高，已获得超过 5.1 万个 Star 和 4664 个 Fork。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/542bae25228ea1f6f0794ebb879732a5c31992a0b5b632b36f1beb5e791c02ad/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 83069<br>Forks: 7272",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 83069\nForks: 7272",
+      "creator": "Panniantong",
+      "summaries": {
+        "zh": "Panniantong/Agent-Reach 是一个 Python 开源项目，旨在赋予 AI 代理浏览互联网的能力。该项目支持通过命令行工具（CLI）读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 及小红书等多个主流平台，且无需支付 API 费用。目前该项目在 GitHub 上热度极高，已获得超过 8.2 万个 Star。",
+        "en": "\"Agent-Reach\" is a Python-based tool designed to give AI agents the ability to browse the internet. It enables users to read and search content across major platforms—including Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu—via a single command-line interface without incurring API fees. The repository is highly popular, having garnered over 82,000 stars and 7,200 forks."
+      },
+      "summary": "Panniantong/Agent-Reach 是一个 Python 开源项目，旨在赋予 AI 代理浏览互联网的能力。该项目支持通过命令行工具（CLI）读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 及小红书等多个主流平台，且无需支付 API 费用。目前该项目在 GitHub 上热度极高，已获得超过 8.2 万个 Star。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/09824d6c9ba8abb7ab42d85d3f9363b0283ea3314f41db27d9adbe07f603376e/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 288470<br>Forks: 25800",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 288470\nForks: 25800",
+      "creator": "obra",
+      "summaries": {
+        "zh": "该项目名为 obra/superpowers，是一个行之有效的智能体技能框架与软件开发方法论。项目主要使用 Shell 语言编写。其在 GitHub 上极受欢迎，已获得超过 28 万个 Star 和 2.5 万个 Fork，显示出极高的社区关注度。",
+        "en": "The GitHub repository \"obra/superpowers\" provides an agentic skills framework and software development methodology. Written in Shell, the project has gained significant popularity on the platform, accumulating over 285,000 stars and 25,500 forks."
+      },
+      "summary": "该项目名为 obra/superpowers，是一个行之有效的智能体技能框架与软件开发方法论。项目主要使用 Shell 语言编写。其在 GitHub 上极受欢迎，已获得超过 28 万个 Star 和 2.5 万个 Fork，显示出极高的社区关注度。"
+    },
+    {
+      "title": "petergyang/no-ai-slop",
+      "link": "https://github.com/petergyang/no-ai-slop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fd24773e14f514c84be9f49b766f8aeb86f2fb8a85510c793bebe3fef39d8028/petergyang/no-ai-slop\" referrerpolicy=\"no-referrer\"><br>Removes 20+ patterns of AI slop from any piece of writing.<br><br>Language: Python<br>Stars: 10523<br>Forks: 728",
+      "contentSnippet": "Removes 20+ patterns of AI slop from any piece of writing.\nLanguage: Python\nStars: 10523\nForks: 728",
+      "creator": "petergyang",
+      "summaries": {
+        "zh": "GitHub 项目 \"petergyang/no-ai-slop\" 是一个基于 Python 的工具，旨在从文本中清除超过 20 种常见的 AI 生成内容模式（AI slop）。该项目广受关注，目前已获得 8606 个 Star 和 647 个 Fork，能够有效优化文本质量。",
+        "en": "The GitHub repository \"petergyang/no-ai-slop\" is a Python-based tool designed to refine writing by removing over 20 specific patterns of \"AI slop.\" The project has gained significant popularity on the platform, accumulating 8,606 stars and 647 forks."
+      },
+      "summary": "GitHub 项目 \"petergyang/no-ai-slop\" 是一个基于 Python 的工具，旨在从文本中清除超过 20 种常见的 AI 生成内容模式（AI slop）。该项目广受关注，目前已获得 8606 个 Star 和 647 个 Fork，能够有效优化文本质量。"
+    },
+    {
+      "title": "danny-avila/LibreChat",
+      "link": "https://github.com/danny-avila/LibreChat",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b47ddeeef66ef40250cafb0e19c813b478f03bff2256223844a8a5a5c4af4713/danny-avila/LibreChat\" referrerpolicy=\"no-referrer\"><br>Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active<br><br>Language: TypeScript<br>Stars: 44312<br>Forks: 9106",
+      "contentSnippet": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active\nLanguage: TypeScript\nStars: 44312\nForks: 9106",
+      "creator": "danny-avila",
+      "summaries": {
+        "zh": "LibreChat 是一个功能强大的开源 ChatGPT 克隆项目，基于 TypeScript 开发。它集成了 OpenAI、Anthropic、DeepSeek、Gemini 等多种主流 AI 模型，支持 Agents、MCP、Artifacts、代码解释器及多用户认证等高级功能。该项目支持自托管，目前在 GitHub 上已获得超过 4.4 万星标，具备高度的可定制性和扩展性。",
+        "en": "LibreChat is an open-source, enhanced ChatGPT clone written in TypeScript, designed for self-hosting. It features a versatile interface supporting multiple AI providers, including OpenAI, Anthropic, Gemini, and Azure. Key functionalities include AI model switching, Agents, Code Interpreter, DALL-E-3 integration, and secure multi-user authentication. The project has gained significant popularity on GitHub, accumulating over 44,000 stars and 9,000 forks, highlighting its robust capability as a customizable AI chat platform."
+      },
+      "summary": "LibreChat 是一个功能强大的开源 ChatGPT 克隆项目，基于 TypeScript 开发。它集成了 OpenAI、Anthropic、DeepSeek、Gemini 等多种主流 AI 模型，支持 Agents、MCP、Artifacts、代码解释器及多用户认证等高级功能。该项目支持自托管，目前在 GitHub 上已获得超过 4.4 万星标，具备高度的可定制性和扩展性。"
+    }
+  ],
+  "lastUpdated": "2026-09-18T18:28:37.690Z"
+}
