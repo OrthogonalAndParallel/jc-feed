@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "paperclipai/paperclip",
+      "link": "https://github.com/paperclipai/paperclip",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/90d2253d47894495566738bf5a17094c66f0166ce68472ff39be0378b98adb47/paperclipai/paperclip\" referrerpolicy=\"no-referrer\"><br>The open-source app everyone uses to manage agents at work<br><br>Language: TypeScript<br>Stars: 86896<br>Forks: 15393",
+      "contentSnippet": "The open-source app everyone uses to manage agents at work\nLanguage: TypeScript\nStars: 86896\nForks: 15393",
+      "creator": "paperclipai",
+      "summaries": {
+        "zh": "Paperclipai/paperclip 是一款广受欢迎的开源应用，主要用于在工作中管理智能体。该项目基于 TypeScript 开发，在 GitHub 上热度极高，目前已获得超过 8.4 万颗星和 1.5 万次分叉。",
+        "en": "The GitHub repository \"paperclipai/paperclip\" is a widely used open-source application designed for managing agents in professional environments. Written in TypeScript, the project has achieved significant popularity, evidenced by over 84,000 stars and 15,000 forks. It is positioned as a standard tool for workplace agent management."
+      },
+      "summary": "Paperclipai/paperclip 是一款广受欢迎的开源应用，主要用于在工作中管理智能体。该项目基于 TypeScript 开发，在 GitHub 上热度极高，目前已获得超过 8.4 万颗星和 1.5 万次分叉。"
+    },
+    {
+      "title": "vectorize-io/hindsight",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6eae2fe6e56f1196adddb28dcce50e567889fba4f880d0138b3c0e448e1224fd/vectorize-io/hindsight\" referrerpolicy=\"no-referrer\"><br>Hindsight: Agent Memory That Learns<br><br>Language: Python<br>Stars: 31885<br>Forks: 3543",
+      "contentSnippet": "Hindsight: Agent Memory That Learns\nLanguage: Python\nStars: 31885\nForks: 3543",
+      "creator": "vectorize-io",
+      "summaries": {
+        "zh": "Hindsight 是一个基于 Python 的开源项目，专注于开发具备学习能力的智能体记忆功能。该项目在 GitHub 上备受关注，目前已获得超过 2.7 万个星标和 2500 多个分叉，显示出其在开发者社区中的高人气。",
+        "en": "The GitHub repository \"vectorize-io/hindsight\" introduces a project named Hindsight, described as \"Agent Memory That Learns.\" Developed using Python, the tool has achieved significant popularity on the platform, accumulating over 27,000 stars and 2,500 forks. This high level of engagement suggests strong community interest in its functionality for enhancing AI agent memory systems."
+      },
+      "summary": "Hindsight 是一个基于 Python 的开源项目，专注于开发具备学习能力的智能体记忆功能。该项目在 GitHub 上备受关注，目前已获得超过 2.7 万个星标和 2500 多个分叉，显示出其在开发者社区中的高人气。"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "link": "https://github.com/NVIDIA/Model-Optimizer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fdff087a30af683204f0b7ce088d75cd0ed5883474db6d31c317dabf165f015f/NVIDIA/Model-Optimizer\" referrerpolicy=\"no-referrer\"><br>A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.<br><br>Language: Python<br>Stars: 4696<br>Forks: 664",
+      "contentSnippet": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.\nLanguage: Python\nStars: 4696\nForks: 664",
+      "creator": "NVIDIA",
+      "summaries": {
+        "zh": "NVIDIA Model-Optimizer 是一个集成了量化、蒸馏、剪枝及神经架构搜索等先进技术的统一模型优化库。该工具旨在压缩深度学习模型，并针对 TensorRT-LLM、TensorRT 和 vLLM 等下游部署框架优化推理速度。项目基于 Python 开发，目前在 GitHub 上已获得超过 3900 个星标。",
+        "en": "NVIDIA/Model-Optimizer is a unified Python library offering state-of-the-art model optimization techniques, including quantization, distillation, pruning, and neural architecture search. It is designed to compress deep learning models and optimize inference speed for deployment frameworks such as TensorRT-LLM, TensorRT, and vLLM. The repository has garnered significant attention on GitHub, accumulating over 3,900 stars and 600 forks."
+      },
+      "summary": "NVIDIA Model-Optimizer 是一个集成了量化、蒸馏、剪枝及神经架构搜索等先进技术的统一模型优化库。该工具旨在压缩深度学习模型，并针对 TensorRT-LLM、TensorRT 和 vLLM 等下游部署框架优化推理速度。项目基于 Python 开发，目前在 GitHub 上已获得超过 3900 个星标。"
+    },
+    {
+      "title": "dream-num/univer",
+      "link": "https://github.com/dream-num/univer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/543101941/085c0737-5cb6-434f-ac47-1c26f51c46d0\" referrerpolicy=\"no-referrer\"><br>The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.<br><br>Language: TypeScript<br>Stars: 19130<br>Forks: 1627",
+      "contentSnippet": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.\nLanguage: TypeScript\nStars: 19130\nForks: 1627",
+      "creator": "dream-num",
+      "summaries": {
+        "zh": "Univer 是一款面向 AI 智能体的开源办公框架，旨在将电子表格、文档、幻灯片、画布、关系表及 PDF 等功能整合于同一运行时环境中。该项目基于 TypeScript 开发，目前在 GitHub 上已获得超过 1.5 万星标，具有较高的社区关注度。",
+        "en": "Univer, developed by dream-num, is an open-source office harness designed for AI agents. It integrates multiple productivity tools, including spreadsheets, documents, slides, canvas, relational tables, and PDFs, within a single runtime environment. Written in TypeScript, the project has garnered significant attention on GitHub, accumulating over 15,000 stars and 1,300 forks."
+      },
+      "summary": "Univer 是一款面向 AI 智能体的开源办公框架，旨在将电子表格、文档、幻灯片、画布、关系表及 PDF 等功能整合于同一运行时环境中。该项目基于 TypeScript 开发，目前在 GitHub 上已获得超过 1.5 万星标，具有较高的社区关注度。"
+    },
+    {
+      "title": "tensorflow/tensorflow",
+      "link": "https://github.com/tensorflow/tensorflow",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/015d73a1b1cb6c11df944e3e521542bb572e08b6724b2b4461233218f47b1596/tensorflow/tensorflow\" referrerpolicy=\"no-referrer\"><br>An Open Source Machine Learning Framework for Everyone<br><br>Language: C++<br>Stars: 200410<br>Forks: 77573",
+      "contentSnippet": "An Open Source Machine Learning Framework for Everyone\nLanguage: C++\nStars: 200410\nForks: 77573",
+      "creator": "tensorflow",
+      "summaries": {
+        "zh": "TensorFlow是一个面向所有人的开源机器学习框架，主要使用C++语言开发。该项目在社区中极具影响力，目前已获得超过20万个星标和约7.7万个复刻，反映了其作为主流机器学习工具的广泛普及度。",
+        "en": "TensorFlow is an open-source machine learning framework designed for everyone. Written primarily in C++, the project demonstrates significant popularity within the developer community, evidenced by over 200,000 stars and 77,000 forks on its repository."
+      },
+      "summary": "TensorFlow是一个面向所有人的开源机器学习框架，主要使用C++语言开发。该项目在社区中极具影响力，目前已获得超过20万个星标和约7.7万个复刻，反映了其作为主流机器学习工具的广泛普及度。"
+    },
+    {
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1185590488/a8b65f74-921c-4682-94c5-7cb82b65ba2c\" referrerpolicy=\"no-referrer\"><br>Learn it. Build it. Ship it for others.<br><br>Language: Python<br>Stars: 58245<br>Forks: 10109",
+      "contentSnippet": "Learn it. Build it. Ship it for others.\nLanguage: Python\nStars: 58245\nForks: 10109",
+      "creator": "rohitg00",
+      "summaries": {
+        "zh": "该GitHub项目名为“rohitg00/ai-engineering-from-scratch”，旨在帮助用户从零开始学习AI工程。项目倡导“学习、构建、交付”的实践理念，主要使用Python语言开发。该项目目前拥有超过5.6万个Star和近1万个Fork，显示出极高的社区关注度与热度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该GitHub项目名为“rohitg00/ai-engineering-from-scratch”，旨在帮助用户从零开始学习AI工程。项目倡导“学习、构建、交付”的实践理念，主要使用Python语言开发。该项目目前拥有超过5.6万个Star和近1万个Fork，显示出极高的社区关注度与热度。"
+    },
+    {
+      "title": "openbao/openbao",
+      "link": "https://github.com/openbao/openbao",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a999330cfc8b3ea520d8779d0bce9d3f50b86175b4553165c23407c57f9f54ad/openbao/openbao\" referrerpolicy=\"no-referrer\"><br>OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.<br><br>Language: Go<br>Stars: 7958<br>Forks: 590",
+      "contentSnippet": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.\nLanguage: Go\nStars: 7958\nForks: 590",
+      "creator": "openbao",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "block/buzz",
+      "link": "https://github.com/block/buzz",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b7ec96edccccd273e1dc3a9907b6b1ee1fe36ad9176198c86fea86f105f9370a/block/buzz\" referrerpolicy=\"no-referrer\"><br>A hive mind communication platform<br><br>Language: Rust<br>Stars: 34790<br>Forks: 4594",
+      "contentSnippet": "A hive mind communication platform\nLanguage: Rust\nStars: 34790\nForks: 4594",
+      "creator": "block",
+      "summaries": {
+        "zh": "项目“block/buzz”是一个基于 Rust 语言开发的“蜂巢思维”通信平台。该项目在开源社区广受欢迎，目前已获得超过 3.4 万个 Star 和 4500 多个 Fork。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "项目“block/buzz”是一个基于 Rust 语言开发的“蜂巢思维”通信平台。该项目在开源社区广受欢迎，目前已获得超过 3.4 万个 Star 和 4500 多个 Fork。"
+    },
+    {
+      "title": "microsoft/vscode",
+      "link": "https://github.com/microsoft/vscode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/eab66852d634c693c83e3f3889873ec90b1e10a3882ac71f5d07836cdfddeeb4/microsoft/vscode\" referrerpolicy=\"no-referrer\"><br>Visual Studio Code<br><br>Language: TypeScript<br>Stars: 193044<br>Forks: 43510",
+      "contentSnippet": "Visual Studio Code\nLanguage: TypeScript\nStars: 193044\nForks: 43510",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "该GitHub仓库为微软旗下的Visual Studio Code项目，主要使用TypeScript语言开发。该项目目前拥有192,972个Star和43,470个Fork，显示出极高的社区关注度。",
+        "en": "The provided content details the GitHub repository for Microsoft's Visual Studio Code. The project is developed using TypeScript and demonstrates significant popularity within the developer community, having accumulated 192,972 stars and 43,470 forks."
+      },
+      "summary": "该GitHub仓库为微软旗下的Visual Studio Code项目，主要使用TypeScript语言开发。该项目目前拥有192,972个Star和43,470个Fork，显示出极高的社区关注度。"
+    },
+    {
+      "title": "zhaoxuya520/reverse-skill",
+      "link": "https://github.com/zhaoxuya520/reverse-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5a99f38f88944abdc74113120c71ae174c7a227d478f2450b76abc3cfb932aa0/zhaoxuya520/reverse-skill\" referrerpolicy=\"no-referrer\"><br>Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端<br><br>Language: PowerShell<br>Stars: 37919<br>Forks: 5265",
+      "contentSnippet": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端\nLanguage: PowerShell\nStars: 37919\nForks: 5265",
+      "creator": "zhaoxuya520",
+      "summaries": {
+        "zh": "该项目是一个专注于逆向工程、授权渗透测试及安全研究的技能路由包。其核心功能包括 AI 自动路由、按需自举工具链以及自动进化经验库。该工具兼容 Claude Code、Kiro、Cursor、Cline 等主流 AI 编码客户端，使用 PowerShell 编写。目前项目在 GitHub 上热度极高，已获得超过 3.7 万星标。",
+        "en": "The \"zhaoxuya520/reverse-skill\" repository is a highly popular GitHub project designed for reverse engineering, authorized penetration testing, and security research. It functions as a skill router pack featuring AI-powered routing, on-demand toolchain bootstrapping, and a self-evolving knowledge base. The tool is compatible with AI coding clients such as Claude Code, Kiro, Cursor, and Cline. Written in PowerShell, the repository has garnered significant attention, accumulating over 37,000 stars and 5,000 forks."
+      },
+      "summary": "该项目是一个专注于逆向工程、授权渗透测试及安全研究的技能路由包。其核心功能包括 AI 自动路由、按需自举工具链以及自动进化经验库。该工具兼容 Claude Code、Kiro、Cursor、Cline 等主流 AI 编码客户端，使用 PowerShell 编写。目前项目在 GitHub 上热度极高，已获得超过 3.7 万星标。"
+    },
+    {
+      "title": "llvm/llvm-project",
+      "link": "https://github.com/llvm/llvm-project",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/72143529ffce25be7be6a869f3de58ee32078872bde6b640e212b9b72862aad3/llvm/llvm-project\" referrerpolicy=\"no-referrer\"><br>The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.<br><br>Language: LLVM<br>Stars: 40725<br>Forks: 18818",
+      "contentSnippet": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.\nLanguage: LLVM\nStars: 40725\nForks: 18818",
+      "creator": "llvm",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/claude-code-action",
+      "link": "https://github.com/anthropics/claude-code-action",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fd5fcd6bdf13f1e8dcee49193cd2d34c5118a85a0e6b32ad73e4255d7a29040c/anthropics/claude-code-action\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 9054<br>Forks: 2161",
+      "contentSnippet": "Language: TypeScript\nStars: 9054\nForks: 2161",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "actions/runner-images",
+      "link": "https://github.com/actions/runner-images",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fdc047ad5cc9e41734973f82ece65524a5f3b62a5463b07892de96c95b846699/actions/runner-images\" referrerpolicy=\"no-referrer\"><br>GitHub Actions runner images<br><br>Language: PowerShell<br>Stars: 13266<br>Forks: 3863",
+      "contentSnippet": "GitHub Actions runner images\nLanguage: PowerShell\nStars: 13266\nForks: 3863",
+      "creator": "actions",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mobile-next/mobile-mcp",
+      "link": "https://github.com/mobile-next/mobile-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0b3a85a0780849d552ccb818c5e3cd79ff4b76f57cdf099dfaa37e0cdd39d315/mobile-next/mobile-mcp\" referrerpolicy=\"no-referrer\"><br>Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)<br><br>Language: TypeScript<br>Stars: 7253<br>Forks: 636",
+      "contentSnippet": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)\nLanguage: TypeScript\nStars: 7253\nForks: 636",
+      "creator": "mobile-next",
+      "summaries": {
+        "zh": "mobile-mcp 是一个基于 TypeScript 开发的模型上下文协议服务器，专注于移动端自动化与数据抓取。该项目支持 iOS 和 Android 平台，兼容模拟器、仿真器及真机设备。目前该项目在 GitHub 上已获得 7080 个 Star 和 628 个 Fork，显示出较高的社区关注度。",
+        "en": "The \"mobile-next/mobile-mcp\" repository provides a Model Context Protocol Server designed for mobile automation and scraping. It supports various platforms, including iOS and Android, across emulators, simulators, and real devices. Written in TypeScript, the project has garnered significant attention on GitHub, currently boasting 7,080 stars and 628 forks."
+      },
+      "summary": "mobile-mcp 是一个基于 TypeScript 开发的模型上下文协议服务器，专注于移动端自动化与数据抓取。该项目支持 iOS 和 Android 平台，兼容模拟器、仿真器及真机设备。目前该项目在 GitHub 上已获得 7080 个 Star 和 628 个 Fork，显示出较高的社区关注度。"
+    },
+    {
+      "title": "vercel/next.js",
+      "link": "https://github.com/vercel/next.js",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/70107786/4602445c-10a2-4903-a360-c96d70531f67\" referrerpolicy=\"no-referrer\"><br>The React Framework<br><br>Language: JavaScript<br>Stars: 142578<br>Forks: 33115",
+      "contentSnippet": "The React Framework\nLanguage: JavaScript\nStars: 142578\nForks: 33115",
+      "creator": "vercel",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T19:51:34.943Z"
+}
