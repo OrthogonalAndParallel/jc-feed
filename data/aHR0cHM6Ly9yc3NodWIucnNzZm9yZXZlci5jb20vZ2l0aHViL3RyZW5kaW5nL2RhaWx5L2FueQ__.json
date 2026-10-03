@@ -1,0 +1,275 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "DietrichGebert/ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6\" referrerpolicy=\"no-referrer\"><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.<br><br>Language: JavaScript<br>Stars: 152429<br>Forks: 8179",
+      "contentSnippet": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\nLanguage: JavaScript\nStars: 152429\nForks: 8179",
+      "creator": "DietrichGebert",
+      "summaries": {
+        "zh": "项目 DietrichGebert/ponytail 旨在让 AI 代理模仿“最懒的高级开发人员”的思维模式，核心理念为“最好的代码是你从未写过的代码”。该项目使用 JavaScript 编写，在 GitHub 上热度极高，已获得约 14.9 万个 Star 和 8012 个 Fork。",
+        "en": "The GitHub repository \"DietrichGebert/ponytail\" is a JavaScript project designed to make AI agents simulate the mindset of a \"lazy senior developer.\" Emphasizing the philosophy that the best code is the code never written, the tool has gained significant popularity, accumulating over 148,000 stars and 8,000 forks."
+      },
+      "summary": "项目 DietrichGebert/ponytail 旨在让 AI 代理模仿“最懒的高级开发人员”的思维模式，核心理念为“最好的代码是你从未写过的代码”。该项目使用 JavaScript 编写，在 GitHub 上热度极高，已获得约 14.9 万个 Star 和 8012 个 Fork。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a322d97377c92dfa8a0ed1669bb7fb430426fc2ff99ba21292727ae6c2a19e5d/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design language that makes your AI harness better at design.<br><br>Language: JavaScript<br>Stars: 74687<br>Forks: 4494",
+      "contentSnippet": "The design language that makes your AI harness better at design.\nLanguage: JavaScript\nStars: 74687\nForks: 4494",
+      "creator": "pbakaus",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/23111abca7208c832c02f7d716c039eeb9e551140dc5740786b5690019388dd3/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 271781<br>Forks: 40588",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 271781\nForks: 40588",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "该项目名为 ECC，是一个智能体框架性能优化系统。它主要面向 Claude Code、Codex、Opencode 和 Cursor 等工具，提供技能、本能、记忆、安全以及研究优先的开发支持。项目使用 JavaScript 编写，目前在 GitHub 上已获得超过 27 万颗星和 4 万次分叉，显示出极高的关注度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该项目名为 ECC，是一个智能体框架性能优化系统。它主要面向 Claude Code、Codex、Opencode 和 Cursor 等工具，提供技能、本能、记忆、安全以及研究优先的开发支持。项目使用 JavaScript 编写，目前在 GitHub 上已获得超过 27 万颗星和 4 万次分叉，显示出极高的关注度。"
+    },
+    {
+      "title": "Effect-TS/effect",
+      "link": "https://github.com/Effect-TS/effect",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b5580546a1f246eb3aea7c0fcd52178daf8044abaab741c289777131ead376b9/Effect-TS/effect\" referrerpolicy=\"no-referrer\"><br>Build production-ready applications in TypeScript<br><br>Language: TypeScript<br>Stars: 16685<br>Forks: 808",
+      "contentSnippet": "Build production-ready applications in TypeScript\nLanguage: TypeScript\nStars: 16685\nForks: 808",
+      "creator": "Effect-TS",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a00e587f221705c3892c1c6dfcdfd80337e0bc42c13f3cc7e20cb9d18ad4be2b/JuliusBrussee/caveman\" referrerpolicy=\"no-referrer\"><br>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.<br><br>Language: Go<br>Stars: 109318<br>Forks: 6324",
+      "contentSnippet": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.\nLanguage: Go\nStars: 109318\nForks: 6324",
+      "creator": "JuliusBrussee",
+      "summaries": {
+        "zh": "项目 JuliusBrussee/caveman 是一个基于 Go 语言开发的工具，旨在为编程代理提供代理服务。它通过模仿“原始人”的简化语言风格，成功削减了 65% 的 Token 消耗。该项目在 GitHub 上热度极高，已获得超过 10 万颗星。",
+        "en": "The GitHub repository \"JuliusBrussee/caveman\" is a Go-based tool designed to optimize coding agents. It functions as a proxy that reduces token usage by approximately 65% by simplifying communication into a \"caveman\" style. This approach streamlines interactions, making processing more efficient. The project has gained significant popularity on the platform, accumulating over 108,000 stars and 6,000 forks."
+      },
+      "summary": "项目 JuliusBrussee/caveman 是一个基于 Go 语言开发的工具，旨在为编程代理提供代理服务。它通过模仿“原始人”的简化语言风格，成功削减了 65% 的 Token 消耗。该项目在 GitHub 上热度极高，已获得超过 10 万颗星。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/446b44fdc11495cbeef865687252d570083c2e699ce6912d3070ebb5b48b57fc/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 89371<br>Forks: 7865",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 89371\nForks: 7865",
+      "creator": "Panniantong",
+      "summaries": {
+        "zh": "Panniantong/Agent-Reach 是一个 Python 开源项目，旨在赋予 AI 代理浏览互联网的能力。该项目支持通过单一命令行界面（CLI）读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 及小红书等多个平台，且无需支付 API 费用。该项目在 GitHub 上热度极高，已获得超过 8.8 万个 Star 和 7000 多个 Fork。",
+        "en": "\"Agent-Reach\" is a Python-based tool designed to give AI agents the ability to read and search the internet. It operates through a single command-line interface (CLI) without incurring API fees. The tool supports major platforms such as Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu. The repository has gained significant popularity on GitHub, accumulating over 88,000 stars and 7,700 forks."
+      },
+      "summary": "Panniantong/Agent-Reach 是一个 Python 开源项目，旨在赋予 AI 代理浏览互联网的能力。该项目支持通过单一命令行界面（CLI）读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 及小红书等多个平台，且无需支付 API 费用。该项目在 GitHub 上热度极高，已获得超过 8.8 万个 Star 和 7000 多个 Fork。"
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fdb8bf61e7b012a6a6c977aaf015196dd558d6c2ec4dbf9271dac0c6d00819b2/pingdotgg/t3code\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 24431<br>Forks: 6385",
+      "contentSnippet": "Language: TypeScript\nStars: 24431\nForks: 6385",
+      "creator": "pingdotgg",
+      "summaries": {
+        "zh": "GitHub项目“pingdotgg/t3code”主要使用TypeScript语言开发。该项目目前拥有24431个星标和6385个复刻，显示出较高的社区关注度。",
+        "en": "The GitHub repository `pingdotgg/t3code` is a TypeScript-based project that has garnered significant attention within the developer community. It currently boasts 24,431 stars and 6,385 forks, reflecting its high popularity and widespread usage."
+      },
+      "summary": "GitHub项目“pingdotgg/t3code”主要使用TypeScript语言开发。该项目目前拥有24431个星标和6385个复刻，显示出较高的社区关注度。"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba\" referrerpolicy=\"no-referrer\"><br>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More<br><br>Language: TypeScript<br>Stars: 95262<br>Forks: 8440",
+      "contentSnippet": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\nLanguage: TypeScript\nStars: 95262\nForks: 8440",
+      "creator": "thedotmack",
+      "summaries": {
+        "zh": "该项目 claude-mem 旨在为各类 AI 代理提供跨会话的持久化上下文功能。它能捕获代理在会话中的操作，利用 AI 进行压缩，并将相关上下文注入到未来的会话中。该项目兼容 Claude Code、Gemini、Copilot 等多种工具，使用 TypeScript 开发。目前该项目在 GitHub 上获得超过 9.5 万星标，显示出极高的关注度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该项目 claude-mem 旨在为各类 AI 代理提供跨会话的持久化上下文功能。它能捕获代理在会话中的操作，利用 AI 进行压缩，并将相关上下文注入到未来的会话中。该项目兼容 Claude Code、Gemini、Copilot 等多种工具，使用 TypeScript 开发。目前该项目在 GitHub 上获得超过 9.5 万星标，显示出极高的关注度。"
+    },
+    {
+      "title": "cloudflare/cloudflare-os",
+      "link": "https://github.com/cloudflare/cloudflare-os",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9b322acbdeb94812f71d2bd7d446aaf38407c8cfd03e92a0be3275afd224a9bc/cloudflare/cloudflare-os\" referrerpolicy=\"no-referrer\"><br>Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.<br><br>Language: TypeScript<br>Stars: 10396<br>Forks: 1278",
+      "contentSnippet": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.\nLanguage: TypeScript\nStars: 10396\nForks: 1278",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "Cloudflare OS 是一个基于 Cloudflare Workers 构建的代理工作空间，旨在结合企业背景与系统，支持创建文档、构建应用及运行代理。该项目使用 TypeScript 开发，目前在 GitHub 上已获得 10396 个星标和 1278 个分叉。",
+        "en": "Cloudflare-os is an agent workspace built on Cloudflare Workers, designed for creating documents, building apps, and running agents within a company's specific context and systems. Developed in TypeScript, the open-source project has achieved significant popularity on GitHub, accumulating over 10,000 stars and 1,200 forks."
+      },
+      "summary": "Cloudflare OS 是一个基于 Cloudflare Workers 构建的代理工作空间，旨在结合企业背景与系统，支持创建文档、构建应用及运行代理。该项目使用 TypeScript 开发，目前在 GitHub 上已获得 10396 个星标和 1278 个分叉。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9b322acbdeb94812f71d2bd7d446aaf38407c8cfd03e92a0be3275afd224a9bc/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 100675<br>Forks: 10580",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 100675\nForks: 10580",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "该GitHub仓库“addyosmani/agent-skills”专注于为AI编程代理提供生产级工程技能。项目主要使用JavaScript语言开发。凭借超过10万个Star和1万多个Fork，该项目显示出极高的社区关注度与实用价值。",
+        "en": "The GitHub repository \"addyosmani/agent-skills\" provides production-grade engineering skills tailored for AI coding agents. Developed using JavaScript, the project has achieved significant popularity on the platform, amassing over 100,000 stars and 10,580 forks. It serves as a resource for enhancing the capabilities of AI agents in coding tasks."
+      },
+      "summary": "该GitHub仓库“addyosmani/agent-skills”专注于为AI编程代理提供生产级工程技能。项目主要使用JavaScript语言开发。凭借超过10万个Star和1万多个Fork，该项目显示出极高的社区关注度与实用价值。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/49cbbc4b46e2ae008120597ac48a75ef6fc9a89669261e0867b7e0388953d264/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 294705<br>Forks: 26336",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 294705\nForks: 26336",
+      "creator": "obra",
+      "summaries": {
+        "zh": "项目“obra/superpowers”是一个行之有效的智能体技能框架与软件开发方法论。该项目主要使用Shell语言编写，在GitHub上拥有极高的热度，目前已获得超过29万个Star和超过2.6万个Fork。",
+        "en": "The GitHub repository \"obra/superpowers\" introduces an agentic skills framework and software development methodology. Written in Shell, the project has garnered significant attention, accumulating over 293,000 stars and 26,000 forks. It is described as a functional approach to software development."
+      },
+      "summary": "项目“obra/superpowers”是一个行之有效的智能体技能框架与软件开发方法论。该项目主要使用Shell语言编写，在GitHub上拥有极高的热度，目前已获得超过29万个Star和超过2.6万个Fork。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ae5e99d10309c75d4d866fc75272936c105272a6bde3e066919ba29c96accb3e/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 275041<br>Forks: 23085",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 275041\nForks: 23085",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/805df71d84f4fd25bd5cf7e03d93f811c1000ac97bc9c953ca475d7aa2f5874a/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 25162<br>Forks: 1804",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 25162\nForks: 1804",
+      "creator": "mksglu",
+      "summaries": {
+        "zh": "mksglu/context-mode 是一个针对 AI 编程代理的上下文窗口优化项目。其主要功能包括沙盒化工具输出（缩减量达 98%）、持久化会话记忆，以及通过 MCP 和 hooks 在 17 个平台上强制执行路由。该项目使用 TypeScript 编写，目前在 GitHub 上已获得超过 2.4 万星标和 1700 多个分叉。",
+        "en": "The \"mksglu/context-mode\" repository is a TypeScript-based tool designed to optimize context windows for AI coding agents. It features tool output sandboxing, which achieves a 98% reduction in size, and includes capabilities for persisting session memory and enforcing routing across 17 platforms using MCP and hooks. The project is highly popular, having accumulated over 24,000 stars and 1,700 forks."
+      },
+      "summary": "mksglu/context-mode 是一个针对 AI 编程代理的上下文窗口优化项目。其主要功能包括沙盒化工具输出（缩减量达 98%）、持久化会话记忆，以及通过 MCP 和 hooks 在 17 个平台上强制执行路由。该项目使用 TypeScript 编写，目前在 GitHub 上已获得超过 2.4 万星标和 1700 多个分叉。"
+    },
+    {
+      "title": "earendil-works/pi",
+      "link": "https://github.com/earendil-works/pi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4796ec5a8f17d717d9c587b6f29e6f365bab28b30e7c97fd5e9af4cc5518c08e/earendil-works/pi\" referrerpolicy=\"no-referrer\"><br>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI<br><br>Language: TypeScript<br>Stars: 111956<br>Forks: 14202",
+      "contentSnippet": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI\nLanguage: TypeScript\nStars: 111956\nForks: 14202",
+      "creator": "earendil-works",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "getsentry/sentry",
+      "link": "https://github.com/getsentry/sentry",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a0ee766ae1701221931623c71c11516d0798f030aeb7e7fc15d1a09b6144ec3f/getsentry/sentry\" referrerpolicy=\"no-referrer\"><br>Developer-first error tracking and performance monitoring<br><br>Language: Python<br>Stars: 45116<br>Forks: 4896",
+      "contentSnippet": "Developer-first error tracking and performance monitoring\nLanguage: Python\nStars: 45116\nForks: 4896",
+      "creator": "getsentry",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4a122ffe28001171d64a850f9be28b2f88eb52b701ba0d9cbedf0c3e4c8e4e81/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: TypeScript<br>Stars: 149044<br>Forks: 25290",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: TypeScript\nStars: 149044\nForks: 25290",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "jamwithai/production-agentic-rag-course",
+      "link": "https://github.com/jamwithai/production-agentic-rag-course",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/59f6e6fab09631f693cd9f107ca0c6aa8c40e07d5a5e71d9391eba3ca159c22a/jamwithai/production-agentic-rag-course\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Python<br>Stars: 9281<br>Forks: 2056",
+      "contentSnippet": "Language: Python\nStars: 9281\nForks: 2056",
+      "creator": "jamwithai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "meituan-longcat/LongCat-Video",
+      "link": "https://github.com/meituan-longcat/LongCat-Video",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a33dca6b1f9a023e5373f07efe562fad4bfc8dfc60478af09983500183f9286f/meituan-longcat/LongCat-Video\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Python<br>Stars: 8605<br>Forks: 1518",
+      "contentSnippet": "Language: Python\nStars: 8605\nForks: 1518",
+      "creator": "meituan-longcat",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenCut-app/OpenCut",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/31c3337330e6a6baf63af6ee17a7a6113731201066a9aefd18bbef278806d5a8/OpenCut-app/OpenCut\" referrerpolicy=\"no-referrer\"><br>The open-source CapCut alternative<br><br>Language: TypeScript<br>Stars: 91348<br>Forks: 9040",
+      "contentSnippet": "The open-source CapCut alternative\nLanguage: TypeScript\nStars: 91348\nForks: 9040",
+      "creator": "OpenCut-app",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T12:35:00.455Z"
+}

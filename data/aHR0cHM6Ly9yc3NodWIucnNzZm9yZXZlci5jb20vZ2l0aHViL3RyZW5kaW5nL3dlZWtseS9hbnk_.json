@@ -1,0 +1,261 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "paperclipai/paperclip",
+      "link": "https://github.com/paperclipai/paperclip",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/dfccddebd1684ec37fa196710460ccdc60497b318bd1ba259785c9d37e7f201d/paperclipai/paperclip\" referrerpolicy=\"no-referrer\"><br>The open-source app everyone uses to manage agents at work<br><br>Language: TypeScript<br>Stars: 96529<br>Forks: 16351",
+      "contentSnippet": "The open-source app everyone uses to manage agents at work\nLanguage: TypeScript\nStars: 96529\nForks: 16351",
+      "creator": "paperclipai",
+      "summaries": {
+        "zh": "项目 paperclipai/paperclip 是一款广受欢迎的开源应用，主要用于在工作中管理智能体。该项目采用 TypeScript 语言编写，在 GitHub 上热度极高，目前已获得超过 8.3 万个 Star 和 1.5 万个 Fork。",
+        "en": "The repository \"paperclipai/paperclip\" is a widely used open-source application designed to manage agents in professional environments. Developed using TypeScript, the project demonstrates significant popularity within the developer community, boasting over 83,600 stars and 15,100 forks on GitHub."
+      },
+      "summary": "项目 paperclipai/paperclip 是一款广受欢迎的开源应用，主要用于在工作中管理智能体。该项目采用 TypeScript 语言编写，在 GitHub 上热度极高，目前已获得超过 8.3 万个 Star 和 1.5 万个 Fork。"
+    },
+    {
+      "title": "vectorize-io/hindsight",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/97d8f9685d927e23cc4b4e553374354763d14630b919a9c7910ac39682d4ed0d/vectorize-io/hindsight\" referrerpolicy=\"no-referrer\"><br>Hindsight: Agent Memory That Learns<br><br>Language: Python<br>Stars: 44895<br>Forks: 5886",
+      "contentSnippet": "Hindsight: Agent Memory That Learns\nLanguage: Python\nStars: 44895\nForks: 5886",
+      "creator": "vectorize-io",
+      "summaries": {
+        "zh": "vectorize-io 开发的 Hindsight 是一个基于 Python 的开源项目，旨在提供具备学习能力的智能体记忆功能。该项目在 GitHub 上热度极高，目前已获得超过 2.7 万个星标和 2500 多个分叉，显示出其在开发者社区中的广泛关注。",
+        "en": "Hindsight is a Python-based project developed by vectorize-io, described as \"Agent Memory That Learns.\" The repository has gained significant popularity on GitHub, accumulating over 27,000 stars and 2,500 forks."
+      },
+      "summary": "vectorize-io 开发的 Hindsight 是一个基于 Python 的开源项目，旨在提供具备学习能力的智能体记忆功能。该项目在 GitHub 上热度极高，目前已获得超过 2.7 万个星标和 2500 多个分叉，显示出其在开发者社区中的广泛关注。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 52245<br>Forks: 5827",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 52245\nForks: 5827",
+      "creator": "debpalash",
+      "summaries": {
+        "zh": "VoiceStudio 是一款开源且完全本地化的 ElevenLabs 替代方案。该项目基于 Python 开发，提供声音克隆、声音设计、视频配音、听写、转录及有声读物制作等功能，支持多达 646 种语言。目前该项目在 GitHub 上已获得超过 4.3 万星标和 5000 余次分叉，显示出极高的热度。",
+        "en": "VoiceStudio is an open-source Python project that serves as a fully local alternative to ElevenLabs. It offers a comprehensive suite of audio tools, including voice cloning, voice design, video dubbing, dictation, transcription, and audiobook creation, supporting 646 languages. The repository has gained significant popularity on GitHub, accumulating over 43,000 stars and 5,000 forks."
+      },
+      "summary": "VoiceStudio 是一款开源且完全本地化的 ElevenLabs 替代方案。该项目基于 Python 开发，提供声音克隆、声音设计、视频配音、听写、转录及有声读物制作等功能，支持多达 646 种语言。目前该项目在 GitHub 上已获得超过 4.3 万星标和 5000 余次分叉，显示出极高的热度。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4bc0e8d308bc47ad5db89819fde9a5cb9a88c1964d1e82a45d7bfe72beb67ea/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design language that makes your AI harness better at design.<br><br>Language: JavaScript<br>Stars: 74690<br>Forks: 4494",
+      "contentSnippet": "The design language that makes your AI harness better at design.\nLanguage: JavaScript\nStars: 74690\nForks: 4494",
+      "creator": "pbakaus",
+      "summaries": {
+        "zh": "GitHub项目“pbakaus/impeccable”是一种旨在提升AI设计能力的设计语言。该项目基于JavaScript开发，目前拥有超过7.2万个星标和4千多次复刻，显示出极高的社区热度。",
+        "en": "The GitHub repository \"pbakaus/impeccable\" introduces a design language aimed at enhancing the design capabilities of AI systems. Written in JavaScript, the project has gained significant traction, evidenced by over 72,500 stars and 4,300 forks. It serves as a tool to help AI harnesses produce better design outcomes."
+      },
+      "summary": "GitHub项目“pbakaus/impeccable”是一种旨在提升AI设计能力的设计语言。该项目基于JavaScript开发，目前拥有超过7.2万个星标和4千多次复刻，显示出极高的社区热度。"
+    },
+    {
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1185590488/a8b65f74-921c-4682-94c5-7cb82b65ba2c\" referrerpolicy=\"no-referrer\"><br>Learn it. Build it. Ship it for others.<br><br>Language: Python<br>Stars: 62865<br>Forks: 10746",
+      "contentSnippet": "Learn it. Build it. Ship it for others.\nLanguage: Python\nStars: 62865\nForks: 10746",
+      "creator": "rohitg00",
+      "summaries": {
+        "zh": "该GitHub项目名为 `rohitg00/ai-engineering-from-scratch`，旨在帮助开发者从零开始学习、构建并交付AI工程。项目主要使用Python语言，倡导“学习、构建、发布”的实践理念。目前该项目已获得超过5.8万个星标和1万个复刻，显示出极高的社区关注度与影响力。",
+        "en": "The GitHub repository \"rohitg00/ai-engineering-from-scratch\" serves as a comprehensive resource for learning AI engineering. It emphasizes a practical workflow: \"Learn it. Build it. Ship it for others.\" Developed using Python, the project has gained significant popularity, accumulating over 58,000 stars and 10,000 forks, indicating high community engagement and utility."
+      },
+      "summary": "该GitHub项目名为 `rohitg00/ai-engineering-from-scratch`，旨在帮助开发者从零开始学习、构建并交付AI工程。项目主要使用Python语言，倡导“学习、构建、发布”的实践理念。目前该项目已获得超过5.8万个星标和1万个复刻，显示出极高的社区关注度与影响力。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1b9ea6fd4408d2ebd47b436693b040072e5ac7ef33764f67e2504793785e02b3/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 56127<br>Forks: 5051",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 56127\nForks: 5051",
+      "creator": "heygen-com",
+      "summaries": {
+        "zh": "GitHub 项目 heygen-com/hyperframes 是一个基于 TypeScript 的工具，旨在通过编写 HTML 代码来渲染视频，专为智能体设计。该项目热度极高，目前已获得超过 5.5 万个星标和 5000 多个复刻。",
+        "en": "The GitHub repository \"heygen-com/hyperframes\" is a TypeScript-based project that enables users to render videos by writing HTML, specifically designed for use by AI agents. The repository is highly popular, having garnered over 55,000 stars and 5,000 forks."
+      },
+      "summary": "GitHub 项目 heygen-com/hyperframes 是一个基于 TypeScript 的工具，旨在通过编写 HTML 代码来渲染视频，专为智能体设计。该项目热度极高，目前已获得超过 5.5 万个星标和 5000 多个复刻。"
+    },
+    {
+      "title": "vercel/next.js",
+      "link": "https://github.com/vercel/next.js",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/70107786/4602445c-10a2-4903-a360-c96d70531f67\" referrerpolicy=\"no-referrer\"><br>The React Framework<br><br>Language: JavaScript<br>Stars: 143042<br>Forks: 33719",
+      "contentSnippet": "The React Framework\nLanguage: JavaScript\nStars: 143042\nForks: 33719",
+      "creator": "vercel",
+      "summaries": {
+        "zh": "Next.js 是由 Vercel 开发的 React 框架，使用 JavaScript 语言编写。该项目在 GitHub 上广受欢迎，目前已获得超过 14.2 万个星标和 3.3 万个复刻。",
+        "en": "Vercel's Next.js is a React framework developed using JavaScript. The project demonstrates significant popularity within the developer community, having accumulated over 142,000 stars and 33,000 forks."
+      },
+      "summary": "Next.js 是由 Vercel 开发的 React 框架，使用 JavaScript 语言编写。该项目在 GitHub 上广受欢迎，目前已获得超过 14.2 万个星标和 3.3 万个复刻。"
+    },
+    {
+      "title": "Effect-TS/effect",
+      "link": "https://github.com/Effect-TS/effect",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b5580546a1f246eb3aea7c0fcd52178daf8044abaab741c289777131ead376b9/Effect-TS/effect\" referrerpolicy=\"no-referrer\"><br>Build production-ready applications in TypeScript<br><br>Language: TypeScript<br>Stars: 16685<br>Forks: 808",
+      "contentSnippet": "Build production-ready applications in TypeScript\nLanguage: TypeScript\nStars: 16685\nForks: 808",
+      "creator": "Effect-TS",
+      "summaries": {
+        "zh": "Effect-TS/effect 是一个用于构建生产级应用程序的 TypeScript 项目。该项目在 GitHub 上备受关注，目前已获得 16,685 个 Star 和 808 个 Fork。",
+        "en": "The GitHub repository \"Effect-TS/effect\" is designed for building production-ready applications using TypeScript. Written entirely in TypeScript, the project has garnered significant attention, accumulating 16,685 stars and 808 forks. It serves as a tool for developers seeking robust solutions within the TypeScript ecosystem."
+      },
+      "summary": "Effect-TS/effect 是一个用于构建生产级应用程序的 TypeScript 项目。该项目在 GitHub 上备受关注，目前已获得 16,685 个 Star 和 808 个 Fork。"
+    },
+    {
+      "title": "alirezarezvani/claude-skills",
+      "link": "https://github.com/alirezarezvani/claude-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8473337229436ff220b52bad1d5e40afa06f4f58053f23d74f0a9e0fc98353f4/alirezarezvani/claude-skills\" referrerpolicy=\"no-referrer\"><br>380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.<br><br>Language: Python<br>Stars: 27407<br>Forks: 3862",
+      "contentSnippet": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.\nLanguage: Python\nStars: 27407\nForks: 3862",
+      "creator": "alirezarezvani",
+      "summaries": {
+        "zh": "该GitHub仓库提供了380多项Claude Code技能、智能体及插件资源。内容包含30多个智能体、70多个自定义命令及可定制脚本，兼容Claude Code、Gemini CLI、Cursor等主流编程工具。应用场景涵盖工程、营销、产品、合规及商业运营等多个领域。项目基于Python开发，目前已获得超2.7万个星标，广受开发者欢迎。",
+        "en": "The GitHub repository \"alirezarezvani/claude-skills\" offers a comprehensive collection of over 380 skills, agents, and plugins designed for AI coding assistants like Claude Code, Cursor, and Gemini CLI. The toolkit includes more than 30 agents and 70 custom commands covering diverse fields such as engineering, marketing, compliance, and productivity. Written in Python, this highly popular resource has accumulated over 27,000 stars and 3,800 forks, providing customizable scripts and references to enhance the functionality of coding agents across various professional tasks."
+      },
+      "summary": "该GitHub仓库提供了380多项Claude Code技能、智能体及插件资源。内容包含30多个智能体、70多个自定义命令及可定制脚本，兼容Claude Code、Gemini CLI、Cursor等主流编程工具。应用场景涵盖工程、营销、产品、合规及商业运营等多个领域。项目基于Python开发，目前已获得超2.7万个星标，广受开发者欢迎。"
+    },
+    {
+      "title": "flutter/flutter",
+      "link": "https://github.com/flutter/flutter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/31792824/fb7e5700-6ccc-11e9-83fe-f602e1e1a9f1\" referrerpolicy=\"no-referrer\"><br>Flutter makes it easy and fast to build beautiful apps for mobile and beyond<br><br>Language: Dart<br>Stars: 179284<br>Forks: 32867",
+      "contentSnippet": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond\nLanguage: Dart\nStars: 179284\nForks: 32867",
+      "creator": "flutter",
+      "summaries": {
+        "zh": "Flutter 是一个使用 Dart 语言开发的开源框架，旨在帮助开发者轻松、快速地构建适用于移动端及其他平台的精美应用。该项目在 GitHub 上极受欢迎，已获得超过 17.9 万个星标和 3.2 万个复刻。",
+        "en": "Flutter is a framework designed for the rapid and easy development of visually appealing applications for mobile and other platforms. Written in the Dart programming language, the project demonstrates significant popularity on GitHub, having accumulated over 179,000 stars and 32,000 forks."
+      },
+      "summary": "Flutter 是一个使用 Dart 语言开发的开源框架，旨在帮助开发者轻松、快速地构建适用于移动端及其他平台的精美应用。该项目在 GitHub 上极受欢迎，已获得超过 17.9 万个星标和 3.2 万个复刻。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a604c8ffcc7f1abc659c5efba110d832fc0ae79a635989f911e0a09bdf2e04dd/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 89372<br>Forks: 7865",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 89372\nForks: 7865",
+      "creator": "Panniantong",
+      "summaries": {
+        "zh": "项目“Panniantong/Agent-Reach”旨在赋予AI代理浏览全网的能力。它支持读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili及小红书等主流平台。该项目基于Python开发，用户可通过单一命令行界面（CLI）操作，且无需支付API费用。目前该项目在GitHub上已获得超8.9万个星标，热度极高。",
+        "en": "Panniantong/Agent-Reach is a popular Python repository designed to grant AI agents the ability to browse the internet. It allows users to read and search content across major platforms such as Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu via a single command-line interface (CLI). The tool notably operates without API fees. With over 89,000 stars and 7,800 forks, the project demonstrates significant community adoption for developers seeking to integrate web-interaction capabilities into AI agents."
+      },
+      "summary": "项目“Panniantong/Agent-Reach”旨在赋予AI代理浏览全网的能力。它支持读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili及小红书等主流平台。该项目基于Python开发，用户可通过单一命令行界面（CLI）操作，且无需支付API费用。目前该项目在GitHub上已获得超8.9万个星标，热度极高。"
+    },
+    {
+      "title": "TencentCloud/Octop",
+      "link": "https://github.com/TencentCloud/Octop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0bd8e53480e67382cff78645208d437b80c809b784de69d02a2edef7a6df6c4b/TencentCloud/Octop\" referrerpolicy=\"no-referrer\"><br>A smarter, self-hosted AI assistant — multi-user, multi-agent.<br><br>Language: Python<br>Stars: 6497<br>Forks: 801",
+      "contentSnippet": "A smarter, self-hosted AI assistant — multi-user, multi-agent.\nLanguage: Python\nStars: 6497\nForks: 801",
+      "creator": "TencentCloud",
+      "summaries": {
+        "zh": "腾讯云开源项目 Octop 是一款智能的自托管 AI 助手，支持多用户和多智能体协作。该项目基于 Python 开发，目前在 GitHub 上已获得 4611 个星标和 531 个分叉，显示出较高的社区关注度。",
+        "en": "TencentCloud/Octop is a self-hosted AI assistant designed to be smarter, featuring support for multiple users and multiple agents. Written in Python, the project has gained notable popularity on GitHub, accumulating over 4,600 stars and 530 forks."
+      },
+      "summary": "腾讯云开源项目 Octop 是一款智能的自托管 AI 助手，支持多用户和多智能体协作。该项目基于 Python 开发，目前在 GitHub 上已获得 4611 个星标和 531 个分叉，显示出较高的社区关注度。"
+    },
+    {
+      "title": "tile-ai/tilelang",
+      "link": "https://github.com/tile-ai/tilelang",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7614a477c3a6714148d4dded0e67cbef9f26e648831914d7ecd9727f006e94de/tile-ai/tilelang\" referrerpolicy=\"no-referrer\"><br> Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels<br><br>Language: Python<br>Stars: 8278<br>Forks: 834",
+      "contentSnippet": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels\nLanguage: Python\nStars: 8278\nForks: 834",
+      "creator": "tile-ai",
+      "summaries": {
+        "zh": "tilelang 是一个旨在简化高性能 GPU、CPU 及加速器内核开发的领域特定语言。该项目主要使用 Python 编写，目前在 GitHub 上已获得 8088 个星标和 813 个分叉，显示出较高的社区关注度。",
+        "en": "TileLang is a domain-specific language designed to streamline the development of high-performance kernels for GPUs, CPUs, and accelerators. Written in Python, the project aims to simplify the creation of efficient hardware kernels. It has garnered significant attention on GitHub, accumulating over 8,000 stars and 800 forks."
+      },
+      "summary": "tilelang 是一个旨在简化高性能 GPU、CPU 及加速器内核开发的领域特定语言。该项目主要使用 Python 编写，目前在 GitHub 上已获得 8088 个星标和 813 个分叉，显示出较高的社区关注度。"
+    },
+    {
+      "title": "longbridge/gpui-kit",
+      "link": "https://github.com/longbridge/gpui-kit",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/814684486/d4c207a3-d306-4e87-86b2-3b9b83fc5d41\" referrerpolicy=\"no-referrer\"><br>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.<br><br>Language: Rust<br>Stars: 15767<br>Forks: 975",
+      "contentSnippet": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.\nLanguage: Rust\nStars: 15767\nForks: 975",
+      "creator": "longbridge",
+      "summaries": {
+        "zh": "longbridge/gpui-kit 是一个基于 Rust 语言的开源项目，提供 GUI 组件用于构建跨平台桌面应用程序。该项目利用 GPUI 框架开发，目前在 GitHub 上已获得 15,767 个星标和 975 个分叉，显示出较高的社区关注度。",
+        "en": "Longbridge/gpui-kit is a GitHub repository that provides Rust GUI components for building cross-platform desktop applications using GPUI. Written in Rust, the project has gained significant popularity, evidenced by over 15,700 stars and 975 forks. It serves as a toolkit for developers creating desktop interfaces."
+      },
+      "summary": "longbridge/gpui-kit 是一个基于 Rust 语言的开源项目，提供 GUI 组件用于构建跨平台桌面应用程序。该项目利用 GPUI 框架开发，目前在 GitHub 上已获得 15,767 个星标和 975 个分叉，显示出较高的社区关注度。"
+    },
+    {
+      "title": "pytorch/pytorch",
+      "link": "https://github.com/pytorch/pytorch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1bdd11b5bde5a450dbec1aac9f6c5f752686619bb6b381f4431b4f7012d82268/pytorch/pytorch\" referrerpolicy=\"no-referrer\"><br>Tensors and Dynamic neural networks in Python with strong GPU acceleration<br><br>Language: Python<br>Stars: 103646<br>Forks: 31175",
+      "contentSnippet": "Tensors and Dynamic neural networks in Python with strong GPU acceleration\nLanguage: Python\nStars: 103646\nForks: 31175",
+      "creator": "pytorch",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/58d5ab459d02ceae6df2c137e701eac8b57f8d8f61952058b6241575d7388047/harry0703/MoneyPrinterTurbo\" referrerpolicy=\"no-referrer\"><br>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.<br><br>Language: Python<br>Stars: 128176<br>Forks: 20052",
+      "contentSnippet": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\nLanguage: Python\nStars: 128176\nForks: 20052",
+      "creator": "harry0703",
+      "summaries": {
+        "zh": "MoneyPrinterTurbo 是一款基于 Python 的开源项目，利用 AI 大模型和自动化工作流，支持根据主题或关键词一键生成高清短视频。该项目在 GitHub 上热度极高，拥有超过 12 万星标和 2 万复刻，为短视频自动化创作提供了高效的解决方案。",
+        "en": "MoneyPrinterTurbo is a popular GitHub repository that utilizes AI large models and automated workflows to generate high-definition short videos from topics or keywords. Written in Python, the tool enables one-click video creation. The project has garnered significant attention, boasting over 128,000 stars and 20,000 forks on GitHub."
+      },
+      "summary": "MoneyPrinterTurbo 是一款基于 Python 的开源项目，利用 AI 大模型和自动化工作流，支持根据主题或关键词一键生成高清短视频。该项目在 GitHub 上热度极高，拥有超过 12 万星标和 2 万复刻，为短视频自动化创作提供了高效的解决方案。"
+    },
+    {
+      "title": "pablostanley/yoinks",
+      "link": "https://github.com/pablostanley/yoinks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9ae776da5a5eec5b7bc5d7c4125f8b27d19a6b7ce1526704c0a0c3d90803c07b/pablostanley/yoinks\" referrerpolicy=\"no-referrer\"><br>yoink any video from your terminal. no shady ads.<br><br>Language: TypeScript<br>Stars: 3697<br>Forks: 323",
+      "contentSnippet": "yoink any video from your terminal. no shady ads.\nLanguage: TypeScript\nStars: 3697\nForks: 323",
+      "creator": "pablostanley",
+      "summaries": {
+        "zh": "yoinks是一款基于TypeScript开发的命令行工具，允许用户通过终端直接下载任意视频，且无广告干扰。该项目在GitHub上已获得3311个Star和302个Fork，显示出较高的社区关注度。",
+        "en": "The GitHub repository \"yoinks,\" created by Pablo Stanley, is a command-line tool designed to download videos directly from the terminal. Written in TypeScript, the tool emphasizes a clean user experience by avoiding advertisements. The project has garnered significant attention on the platform, accumulating 3,311 stars and 302 forks."
+      },
+      "summary": "yoinks是一款基于TypeScript开发的命令行工具，允许用户通过终端直接下载任意视频，且无广告干扰。该项目在GitHub上已获得3311个Star和302个Fork，显示出较高的社区关注度。"
+    },
+    {
+      "title": "HunxByts/GhostTrack",
+      "link": "https://github.com/HunxByts/GhostTrack",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/06037167f7b3a01011a28c7da98b9e65d79bf25342e88dcbf6bd0a1128baf8b7/HunxByts/GhostTrack\" referrerpolicy=\"no-referrer\"><br>Useful tool to track location or mobile number<br><br>Language: Python<br>Stars: 16767<br>Forks: 2291",
+      "contentSnippet": "Useful tool to track location or mobile number\nLanguage: Python\nStars: 16767\nForks: 2291",
+      "creator": "HunxByts",
+      "summaries": {
+        "zh": "HunxByts/GhostTrack 是一个用于追踪位置或手机号码的工具，采用 Python 语言编写。该项目在 GitHub 上具有较高的关注度，目前已获得 16767 个 Star 和 2291 个 Fork。",
+        "en": "GhostTrack is a Python-based tool developed by HunxByts designed to track locations and mobile numbers. The project has gained significant popularity on its platform, accumulating 16,767 stars and 2,291 forks. It is described as a useful utility for tracking purposes."
+      },
+      "summary": "HunxByts/GhostTrack 是一个用于追踪位置或手机号码的工具，采用 Python 语言编写。该项目在 GitHub 上具有较高的关注度，目前已获得 16767 个 Star 和 2291 个 Fork。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T12:35:50.835Z"
+}
