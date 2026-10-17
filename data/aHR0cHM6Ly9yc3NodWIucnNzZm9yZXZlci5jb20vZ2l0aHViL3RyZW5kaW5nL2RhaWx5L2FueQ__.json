@@ -1,0 +1,191 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "anthropics/claude-plugins-official",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/30a6181b0d63de8eecec566d731e2693c98e45711eed3535cc567835a41411f1/anthropics/claude-plugins-official\" referrerpolicy=\"no-referrer\"><br>Official, Anthropic-managed directory of high quality Claude Code Plugins.<br><br>Language: Python<br>Stars: 41324<br>Forks: 4446",
+      "contentSnippet": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\nLanguage: Python\nStars: 41324\nForks: 4446",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "该项目是Anthropic官方管理的高质量Claude代码插件目录。项目使用Python语言，目前在GitHub上已获得38,404个Star和4,288个Fork，显示出极高的社区关注度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该项目是Anthropic官方管理的高质量Claude代码插件目录。项目使用Python语言，目前在GitHub上已获得38,404个Star和4,288个Fork，显示出极高的社区关注度。"
+    },
+    {
+      "title": "MadsLorentzen/ai-job-search",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1185389803/271a94f5-52ea-4327-87ea-135166c3c697\" referrerpolicy=\"no-referrer\"><br>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.<br><br>Language: Python<br>Stars: 49598<br>Forks: 16816",
+      "contentSnippet": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\nLanguage: Python\nStars: 49598\nForks: 16816",
+      "creator": "MadsLorentzen",
+      "summaries": {
+        "zh": "MadsLorentzen 开发的 ai-job-search 是一个基于 Claude Code 构建的本地化 AI 求职框架。该项目使用 Python 编写，主要功能包括评估职位发布、定制简历、撰写求职信以及面试准备。作为一个开源工具，它允许用户自由复刻并在本地运行。目前该项目在 GitHub 上已获得超过 4.8 万颗星和 1.6 万次复刻，显示出极高的社区关注度。",
+        "en": "The \"MadsLorentzen/ai-job-search\" repository is a popular open-source framework designed to automate the job application process. Built on Claude Code and written in Python, the tool runs locally on the user's machine to assist with evaluating job postings, tailoring CVs, writing cover letters, and preparing for interviews. The project has gained significant traction on GitHub, accumulating over 48,000 stars and 16,500 forks. Users are encouraged to fork the repository to customize and manage their own job search workflows."
+      },
+      "summary": "MadsLorentzen 开发的 ai-job-search 是一个基于 Claude Code 构建的本地化 AI 求职框架。该项目使用 Python 编写，主要功能包括评估职位发布、定制简历、撰写求职信以及面试准备。作为一个开源工具，它允许用户自由复刻并在本地运行。目前该项目在 GitHub 上已获得超过 4.8 万颗星和 1.6 万次复刻，显示出极高的社区关注度。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/afea617941725ab6d10030ab8048bd7c1a06ad8f578e6abbbda54d42f9dee74d/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 282081<br>Forks: 41947",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 282081\nForks: 41947",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "HKUDS/CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1a47239cd80f9212c5ae59f07b9d6dbf517a7ca3a59feaafeb39db55509da557/HKUDS/CLI-Anything\" referrerpolicy=\"no-referrer\"><br>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/<br><br>Language: Python<br>Stars: 53869<br>Forks: 4889",
+      "contentSnippet": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\nLanguage: Python\nStars: 53869\nForks: 4889",
+      "creator": "HKUDS",
+      "summaries": {
+        "zh": "该项目名为CLI-Anything，由HKUDS开发，旨在使所有软件具备Agent原生能力。项目基于Python语言编写，在GitHub上热度极高，已获得超过5.3万个Star和4800多个Fork。相关资源可通过CLI-Hub网站访问。",
+        "en": "\"CLI-Anything\" is a Python-based project developed by HKUDS designed to make all software agent-native. The repository has garnered significant attention on GitHub, accumulating over 53,000 stars and 4,800 forks. A dedicated hub for the project is accessible at clianything.cc. The initiative focuses on transforming software interactions to be compatible with AI agent architectures."
+      },
+      "summary": "该项目名为CLI-Anything，由HKUDS开发，旨在使所有软件具备Agent原生能力。项目基于Python语言编写，在GitHub上热度极高，已获得超过5.3万个Star和4800多个Fork。相关资源可通过CLI-Hub网站访问。"
+    },
+    {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f588721b6dd56e705e53cb128b72724f61f6c02b088efce8149a8b2e3acca326/K-Dense-AI/scientific-agent-skills\" referrerpolicy=\"no-referrer\"><br>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.<br><br>Language: Python<br>Stars: 52045<br>Forks: 4605",
+      "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nLanguage: Python\nStars: 52045\nForks: 4605",
+      "creator": "K-Dense-AI",
+      "summaries": {
+        "zh": "K-Dense-AI/scientific-agent-skills 是一个 Python 库，旨在将 AI 代理转化为“AI 科学家”。作为全球顶尖的科学技能库，它拥有超 25 万用户，提供 177 个验证技能及 100 多个数据库，覆盖生物、化学、医学及药物发现领域。该项目兼容 Cursor、Claude Code 等主流工具，在 GitHub 上获星超 4.9 万。",
+        "en": "\"K-Dense-AI/scientific-agent-skills\" is a Python library designed to transform AI agents into AI scientists. It provides 177 validated skills and access to over 100 scientific databases covering fields such as biology, chemistry, medicine, and drug discovery. Used by more than 250,000 scientists, the tool is compatible with various platforms, including Cursor and Claude Code. The repository is highly popular on GitHub, having garnered over 49,000 stars and 4,400 forks."
+      },
+      "summary": "K-Dense-AI/scientific-agent-skills 是一个 Python 库，旨在将 AI 代理转化为“AI 科学家”。作为全球顶尖的科学技能库，它拥有超 25 万用户，提供 177 个验证技能及 100 多个数据库，覆盖生物、化学、医学及药物发现领域。该项目兼容 Cursor、Claude Code 等主流工具，在 GitHub 上获星超 4.9 万。"
+    },
+    {
+      "title": "akitaonrails/ai-memory",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c109d68280957372f62a4e4157586e2bea305d50039bfdbfd4d2d17f9aa411ec/akitaonrails/ai-memory\" referrerpolicy=\"no-referrer\"><br>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors<br><br>Language: Rust<br>Stars: 9765<br>Forks: 706",
+      "contentSnippet": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\nLanguage: Rust\nStars: 9765\nForks: 706",
+      "creator": "akitaonrails",
+      "summaries": {
+        "zh": "该项目名为 akitaonrails/ai-memory，旨在为代理编码 CLI 提供长期记忆解决方案，并促进不同代理供应商之间的交接。项目采用 Rust 语言开发，目前在 GitHub 上已获得 9668 个星标和 692 个分叉，显示出较高的社区关注度。",
+        "en": "The GitHub repository \"akitaonrails/ai-memory\" provides a solution for long-term memory in agent coding CLIs, designed to facilitate handoffs between different agent vendors. Written in Rust, the project has garnered significant attention, accumulating over 9,600 stars and 692 forks."
+      },
+      "summary": "该项目名为 akitaonrails/ai-memory，旨在为代理编码 CLI 提供长期记忆解决方案，并促进不同代理供应商之间的交接。项目采用 Rust 语言开发，目前在 GitHub 上已获得 9668 个星标和 692 个分叉，显示出较高的社区关注度。"
+    },
+    {
+      "title": "android/skills",
+      "link": "https://github.com/android/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/96762c0786cd60e82cf7684be443f7fcfc3ca40b545ce605ed7b38d05a3e5d05/android/skills\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Kotlin<br>Stars: 8306<br>Forks: 548",
+      "contentSnippet": "Language: Kotlin\nStars: 8306\nForks: 548",
+      "creator": "android",
+      "summaries": {
+        "zh": "该项目名为“android/skills”，主要使用 Kotlin 语言开发。目前该项目已获得 7943 个星标和 525 个复刻，显示出较高的社区关注度。",
+        "en": "The repository named \"android/skills\" is developed using the Kotlin programming language. It has accumulated 7,943 stars and 525 forks, reflecting a high level of community engagement and popularity on the platform."
+      },
+      "summary": "该项目名为“android/skills”，主要使用 Kotlin 语言开发。目前该项目已获得 7943 个星标和 525 个复刻，显示出较高的社区关注度。"
+    },
+    {
+      "title": "stablyai/orca",
+      "link": "https://github.com/stablyai/orca",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1d0e3032fdd7e38f545cbcadc25b996589c8d767f1176b9aecd1675980f31db0/stablyai/orca\" referrerpolicy=\"no-referrer\"><br>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.<br><br>Language: TypeScript<br>Stars: 95021<br>Forks: 6085",
+      "contentSnippet": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\nLanguage: TypeScript\nStars: 95021\nForks: 6085",
+      "creator": "stablyai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Orca is a platform designed for managing a fleet of AI agents, such as Grok Bot and Codex. It enables users to run various coding agents using their own subscriptions across desktop, mobile, and remote runtime environments. Written in TypeScript, the project has garnered significant popularity on GitHub, accumulating over 94,000 stars and 6,000 forks."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cf6e4842c37b8f7d1d0297dae4765b78d55bdc082b0ea58600be2434692ff053/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: TypeScript<br>Stars: 151469<br>Forks: 26866",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: TypeScript\nStars: 151469\nForks: 26866",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "Claude Code 是一款运行于终端的智能编程工具，能够理解代码库并通过自然语言指令协助开发者。其主要功能包括执行日常任务、解释复杂代码以及处理 Git 工作流，旨在提高编码效率。该项目基于 TypeScript 开发，目前在 GitHub 上已获得超过 15 万星标，广受开发者欢迎。",
+        "en": "Claude Code is an agentic coding tool developed by Anthropic that operates directly within the terminal. Designed to accelerate development, it understands the user's codebase and executes routine tasks, explains complex code, and manages git workflows using natural language commands. Written in TypeScript, the repository is highly popular, boasting over 151,000 stars and 26,000 forks."
+      },
+      "summary": "Claude Code 是一款运行于终端的智能编程工具，能够理解代码库并通过自然语言指令协助开发者。其主要功能包括执行日常任务、解释复杂代码以及处理 Git 工作流，旨在提高编码效率。该项目基于 TypeScript 开发，目前在 GitHub 上已获得超过 15 万星标，广受开发者欢迎。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 72557<br>Forks: 7936",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 72557\nForks: 7936",
+      "creator": "debpalash",
+      "summaries": {
+        "zh": "VoiceStudio是一款开源且完全本地化的ElevenLabs替代方案，基于Python开发。该项目集成了语音克隆、语音设计、视频配音、听写、转录及有声书制作等多种功能，支持646种语言。目前，该项目在GitHub上已获得超过6.1万个星标和6800多个复刻。",
+        "en": "VoiceStudio is an open-source, fully local alternative to ElevenLabs developed in Python. It offers a comprehensive suite of audio tools, including voice cloning, voice design, video dubbing, dictation, transcription, and audiobook creation across 646 languages. The project has garnered significant popularity on GitHub, accumulating over 61,000 stars and 6,800 forks."
+      },
+      "summary": "VoiceStudio是一款开源且完全本地化的ElevenLabs替代方案，基于Python开发。该项目集成了语音克隆、语音设计、视频配音、听写、转录及有声书制作等多种功能，支持646种语言。目前，该项目在GitHub上已获得超过6.1万个星标和6800多个复刻。"
+    },
+    {
+      "title": "anomalyco/opencode",
+      "link": "https://github.com/anomalyco/opencode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/975734319/2c2c3389-c647-405c-a499-f80e4d521277\" referrerpolicy=\"no-referrer\"><br>The open source coding agent.<br><br>Language: TypeScript<br>Stars: 214788<br>Forks: 28821",
+      "contentSnippet": "The open source coding agent.\nLanguage: TypeScript\nStars: 214788\nForks: 28821",
+      "creator": "anomalyco",
+      "summaries": {
+        "zh": "anomalyco/opencode 是一个开源的编程代理项目，使用 TypeScript 语言开发。该项目在 GitHub 上备受关注，目前已获得 214,554 个星标和 28,797 个分叉。",
+        "en": "The GitHub repository \"anomalyco/opencode\" is an open-source coding agent developed using TypeScript. It has garnered significant attention on the platform, accumulating 214,554 stars and 28,797 forks."
+      },
+      "summary": "anomalyco/opencode 是一个开源的编程代理项目，使用 TypeScript 语言开发。该项目在 GitHub 上备受关注，目前已获得 214,554 个星标和 28,797 个分叉。"
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "link": "https://github.com/ruvnet/ruflo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db\" referrerpolicy=\"no-referrer\"><br>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated<br><br>Language: TypeScript<br>Stars: 75897<br>Forks: 8990",
+      "contentSnippet": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\nLanguage: TypeScript\nStars: 75897\nForks: 8990",
+      "creator": "ruvnet",
+      "summaries": {
+        "zh": "ruvnet/ruflo 是一个基于 TypeScript 的智能代理框架，旨在部署智能群体、协调自主工作流及构建对话式 AI 系统。该项目具备自适应记忆、自学习智能、联邦机制及向量 RAG 集成等核心功能，并原生支持 Claude Code、Codex 和 Hermes 等多种模型。目前该项目在 GitHub 上拥有超过 7.4 万星标，广受开发者关注。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "ruvnet/ruflo 是一个基于 TypeScript 的智能代理框架，旨在部署智能群体、协调自主工作流及构建对话式 AI 系统。该项目具备自适应记忆、自学习智能、联邦机制及向量 RAG 集成等核心功能，并原生支持 Claude Code、Codex 和 Hermes 等多种模型。目前该项目在 GitHub 上拥有超过 7.4 万星标，广受开发者关注。"
+    },
+    {
+      "title": "xerj-org/xerj",
+      "link": "https://github.com/xerj-org/xerj",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cf6e4842c37b8f7d1d0297dae4765b78d55bdc082b0ea58600be2434692ff053/xerj-org/xerj\" referrerpolicy=\"no-referrer\"><br>XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.<br><br>Language: Rust<br>Stars: 7492<br>Forks: 388",
+      "contentSnippet": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.\nLanguage: Rust\nStars: 7492\nForks: 388",
+      "creator": "xerj-org",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "XERJ is a Rust-based tool designed to optimize data search for AI applications. It features an autoindex capability that allows agents to process code, documents, logs, and PDFs while using 40x fewer tokens than traditional methods like grep. The tool supports various use cases, including RAG, security audits, and agent memory. XERJ is Elasticsearch compatible, ensuring seamless integration with existing clients. The open-source project has gained significant traction on GitHub, accumulating over 4,800 stars and nearly 300 forks."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-17T15:34:13.299Z"
+}

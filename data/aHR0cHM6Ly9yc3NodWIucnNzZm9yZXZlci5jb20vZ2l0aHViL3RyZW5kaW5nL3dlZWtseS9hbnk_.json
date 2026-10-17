@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "morluto/rea",
+      "link": "https://github.com/morluto/rea",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc\" referrerpolicy=\"no-referrer\"><br>Reverse engineer anything with agents, from app behavior down to native binaries.<br><br>Language: TypeScript<br>Stars: 302241<br>Forks: 76469",
+      "contentSnippet": "Reverse engineer anything with agents, from app behavior down to native binaries.\nLanguage: TypeScript\nStars: 302241\nForks: 76469",
+      "creator": "morluto",
+      "summaries": {
+        "zh": "该项目名为“morluto/rea”，使用TypeScript编写。其主要功能是利用智能体技术对各类目标进行逆向工程，范围涵盖应用程序行为分析到底层原生二进制文件。该项目在GitHub上热度极高，已获得超过23.1万个星标和5.7万个分叉。",
+        "en": "The GitHub repository \"morluto/rea\" is a highly popular TypeScript project designed for reverse engineering. It enables users to analyze systems using agents, covering everything from application behavior to native binaries. With over 231,500 stars and 57,697 forks, the tool demonstrates significant traction and utility within the development community."
+      },
+      "summary": "该项目名为“morluto/rea”，使用TypeScript编写。其主要功能是利用智能体技术对各类目标进行逆向工程，范围涵盖应用程序行为分析到底层原生二进制文件。该项目在GitHub上热度极高，已获得超过23.1万个星标和5.7万个分叉。"
+    },
+    {
+      "title": "storytold/artcraft",
+      "link": "https://github.com/storytold/artcraft",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f67c9b63ec522606f8112a84be5192625269bb0d54de763f6909b2e322329535/storytold/artcraft\" referrerpolicy=\"no-referrer\"><br>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers<br><br>Language: Rust<br>Stars: 31400<br>Forks: 4979",
+      "contentSnippet": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\nLanguage: Rust\nStars: 31400\nForks: 4979",
+      "creator": "storytold",
+      "summaries": {
+        "zh": "ArtCraft 是一款专为艺术家、设计师和电影制作人打造的意向性创作引擎。该项目使用 Rust 语言编写，目前获得 30,222 个 Star 和 4,808 个 Fork，具有较高的社区关注度。",
+        "en": "ArtCraft is an intentional crafting engine designed for artists, designers, and filmmakers. Built using the Rust programming language, the project has garnered significant attention, accumulating over 30,000 stars and 4,808 forks."
+      },
+      "summary": "ArtCraft 是一款专为艺术家、设计师和电影制作人打造的意向性创作引擎。该项目使用 Rust 语言编写，目前获得 30,222 个 Star 和 4,808 个 Fork，具有较高的社区关注度。"
+    },
+    {
+      "title": "boykopovar/AnyPS5",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2fc00f39343002ef1579397074b65d7c4004e0154c8e2bdb2298f88b0334b1c5/boykopovar/AnyPS5\" referrerpolicy=\"no-referrer\"><br>Tool for automatic PS5 executables porting to Linux and Windows<br><br>Language: C++<br>Stars: 40890<br>Forks: 3669",
+      "contentSnippet": "Tool for automatic PS5 executables porting to Linux and Windows\nLanguage: C++\nStars: 40890\nForks: 3669",
+      "creator": "boykopovar",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "AnyPS5 is a C++-based tool designed to automatically port PlayStation 5 executables to Linux and Windows operating systems. Developed by boykopovar, the project has garnered significant community interest, evidenced by over 5,600 stars and 400 forks on its repository."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/23d5592696d0d22d2109a107eb9932297e760c2eeb1b815ebf29228dd73e5e4e/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 56802<br>Forks: 3613",
+      "contentSnippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 56802\nForks: 3613",
+      "creator": "cathrynlavery",
+      "summaries": {
+        "zh": "该项目名为 `cathrynlavery/diagram-design`，专为 Claude Code、Codex、GitHub Copilot、Cursor 等工具提供编辑图表设计。项目包含 44 种图表类型，采用自包含的 HTML + SVG 格式，具有无阴影、不依赖 Mermaid 的特点。该项目使用 HTML 编写，目前已获得超过 5.3 万星标和 3382 个复刻，显示出极高的热度。",
+        "en": "The \"cathrynlavery/diagram-design\" repository offers editorial diagram designs tailored for AI coding tools, including Claude Code, GitHub Copilot, and Cursor. It features 44 distinct diagram types delivered as self-contained HTML and SVG files, emphasizing a clean aesthetic without shadows. The project has garnered significant attention on GitHub, accumulating over 53,000 stars and 3,300 forks."
+      },
+      "summary": "该项目名为 `cathrynlavery/diagram-design`，专为 Claude Code、Codex、GitHub Copilot、Cursor 等工具提供编辑图表设计。项目包含 44 种图表类型，采用自包含的 HTML + SVG 格式，具有无阴影、不依赖 Mermaid 的特点。该项目使用 HTML 编写，目前已获得超过 5.3 万星标和 3382 个复刻，显示出极高的热度。"
+    },
+    {
+      "title": "anthropics/claude-plugins-official",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/30a6181b0d63de8eecec566d731e2693c98e45711eed3535cc567835a41411f1/anthropics/claude-plugins-official\" referrerpolicy=\"no-referrer\"><br>Official, Anthropic-managed directory of high quality Claude Code Plugins.<br><br>Language: Python<br>Stars: 41324<br>Forks: 4446",
+      "contentSnippet": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\nLanguage: Python\nStars: 41324\nForks: 4446",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "该项目是Anthropic官方管理的高质量Claude Code插件目录，主要使用Python语言。目前该项目在GitHub上已获得超过4万个星标和4300多次复刻，显示出极高的关注度。",
+        "en": "The GitHub repository \"anthropics/claude-plugins-official\" serves as an official, Anthropic-managed directory for high-quality Claude Code Plugins. Developed primarily using Python, the project has garnered significant attention on the platform, accumulating over 40,000 stars and 4,300 forks. It functions as a centralized resource for developers and users seeking reliable plugins for the Claude AI model."
+      },
+      "summary": "该项目是Anthropic官方管理的高质量Claude Code插件目录，主要使用Python语言。目前该项目在GitHub上已获得超过4万个星标和4300多次复刻，显示出极高的关注度。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8811b44ef525a1a5440913ced3bd226309aa1865966ef850fa287f4b2bff3451/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 65735<br>Forks: 5930",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 65735\nForks: 5930",
+      "creator": "heygen-com",
+      "summaries": {
+        "zh": "GitHub 项目 heygen-com/hyperframes 是一个基于 TypeScript 的工具，旨在通过编写 HTML 代码来渲染视频，专为智能体设计。该项目热度极高，目前已获得超过 5.5 万个星标和 5000 多个复刻。",
+        "en": "The GitHub repository \"heygen-com/hyperframes\" is a TypeScript-based project that enables users to render videos by writing HTML, specifically designed for use by AI agents. The repository is highly popular, having garnered over 55,000 stars and 5,000 forks."
+      },
+      "summary": "GitHub 项目 heygen-com/hyperframes 是一个基于 TypeScript 的工具，旨在通过编写 HTML 代码来渲染视频，专为智能体设计。该项目热度极高，目前已获得超过 5.5 万个星标和 5000 多个复刻。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/292f66e3d4acfd8435e66822c176bdce2e3992eb059272f15e7ce48af0a5bf35/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 30447<br>Forks: 2183",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 30447\nForks: 2183",
+      "creator": "mksglu",
+      "summaries": {
+        "zh": "该项目 mksglu/context-mode 旨在为 AI 编程代理优化上下文窗口。其主要功能包括隔离工具输出（体积减少 98%）、持久化会话记忆，以及通过 MCP 和 hooks 在 17 个平台上强制执行路由。该项目基于 TypeScript 开发，目前获得超过 3 万星标，显示出极高的社区热度。",
+        "en": "The repository \"mksglu/context-mode\" provides context window optimization for AI coding agents. It features tool output sandboxing, which reduces context usage by 98%, and includes session memory persistence. Additionally, it enforces routing across 17 platforms using MCP and hooks. Written in TypeScript, the project is highly popular, boasting over 30,000 stars and 2,100 forks."
+      },
+      "summary": "该项目 mksglu/context-mode 旨在为 AI 编程代理优化上下文窗口。其主要功能包括隔离工具输出（体积减少 98%）、持久化会话记忆，以及通过 MCP 和 hooks 在 17 个平台上强制执行路由。该项目基于 TypeScript 开发，目前获得超过 3 万星标，显示出极高的社区热度。"
+    },
+    {
+      "title": "NationalSecurityAgency/ghidra",
+      "link": "https://github.com/NationalSecurityAgency/ghidra",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/135b9334f8eea8ed5deff2470df504fbcbff26449abc9991d28fa06e4b1c030b/NationalSecurityAgency/ghidra\" referrerpolicy=\"no-referrer\"><br>Ghidra is a software reverse engineering (SRE) framework<br><br>Language: Java<br>Stars: 90050<br>Forks: 10072",
+      "contentSnippet": "Ghidra is a software reverse engineering (SRE) framework\nLanguage: Java\nStars: 90050\nForks: 10072",
+      "creator": "NationalSecurityAgency",
+      "summaries": {
+        "zh": "Ghidra是由美国国家安全局（NSA）开发的软件逆向工程（SRE）框架，主要使用Java语言编写。该项目在开源社区备受关注，目前已获得约8.7万个星标和9700多个复刻。",
+        "en": "Ghidra is a software reverse engineering (SRE) framework developed by the National Security Agency. Written in Java, the project has garnered significant interest, evidenced by its repository statistics of over 86,990 stars and 9,720 forks."
+      },
+      "summary": "Ghidra是由美国国家安全局（NSA）开发的软件逆向工程（SRE）框架，主要使用Java语言编写。该项目在开源社区备受关注，目前已获得约8.7万个星标和9700多个复刻。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ae2c64171e5b1ee54896de0c7371d67a479f1c9392cce0a236628c1f8a008517/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 294719<br>Forks: 24717",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 294719\nForks: 24717",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "GitHub仓库“mattpocock/skills”提供面向真实工程师的Shell脚本技能，内容源自作者的.agents目录。该项目极受欢迎，已获得超过28万颗星标和2.3万次复刻。",
+        "en": "The GitHub repository \"mattpocock/skills\" provides a collection of shell scripts designed for engineers. Described as \"Skills for Real Engineers,\" the content is sourced directly from the author's `.agents` directory. The project has gained significant traction, accumulating over 281,000 stars and 23,564 forks, indicating high popularity within the developer community. The repository is written primarily in Shell."
+      },
+      "summary": "GitHub仓库“mattpocock/skills”提供面向真实工程师的Shell脚本技能，内容源自作者的.agents目录。该项目极受欢迎，已获得超过28万颗星标和2.3万次复刻。"
+    },
+    {
+      "title": "ranxianglei/billion-context",
+      "link": "https://github.com/ranxianglei/billion-context",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/795076ae6a24ac5ab923e5dd10ee2a15794f0bea3ed12178db46b46a173beb09/ranxianglei/billion-context\" referrerpolicy=\"no-referrer\"><br>A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need<br><br>Language: TypeScript<br>Stars: 1655<br>Forks: 136",
+      "contentSnippet": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need\nLanguage: TypeScript\nStars: 1655\nForks: 136",
+      "creator": "ranxianglei",
+      "summaries": {
+        "zh": "该项目名为“billion-context”，是一个基于TypeScript开发的上下文压缩插件。它旨在解决小上下文窗口限制，仅需100K上下文即可运行，并能节省5倍的Token消耗。此外，该插件支持长达数月、涉及数十亿Token的超长单次会话。目前该项目在GitHub上已获得1321个Star。",
+        "en": "The GitHub repository \"ranxianglei/billion-context\" introduces a context-compression plugin designed to optimize AI interactions. It enables small context windows (100K) to function effectively while achieving significant token savings, reducing usage by five times. The tool supports extremely long single sessions, capable of processing billions of tokens over several months. Written in TypeScript, the project has gained notable popularity with over 1,300 stars and 112 forks."
+      },
+      "summary": "该项目名为“billion-context”，是一个基于TypeScript开发的上下文压缩插件。它旨在解决小上下文窗口限制，仅需100K上下文即可运行，并能节省5倍的Token消耗。此外，该插件支持长达数月、涉及数十亿Token的超长单次会话。目前该项目在GitHub上已获得1321个Star。"
+    }
+  ],
+  "lastUpdated": "2026-10-17T15:34:19.618Z"
+}
