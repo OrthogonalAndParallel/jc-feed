@@ -1,0 +1,205 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba\" referrerpolicy=\"no-referrer\"><br>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More<br><br>Language: TypeScript<br>Stars: 107277<br>Forks: 9423",
+      "contentSnippet": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\nLanguage: TypeScript\nStars: 107277\nForks: 9423",
+      "creator": "thedotmack",
+      "summaries": {
+        "zh": "claude-mem 是一个 TypeScript 项目，旨在为各类 AI 代理提供跨会话的持久上下文功能。该工具能捕捉代理在会话中的所有操作，通过 AI 进行压缩，并将相关上下文注入到未来的会话中。它兼容 Claude Code、Gemini、Copilot 等多种主流工具。目前该项目已获得超过 10 万 Star，显示出极高的社区关注度。",
+        "en": "The `claude-mem` repository offers a tool designed to provide persistent context for AI agents across different sessions. It functions by capturing session activities, compressing the data using AI, and injecting relevant context back into future interactions. Written in TypeScript, the tool is compatible with a wide range of platforms, including Claude Code, Gemini, Copilot, and OpenCode. The project has garnered significant attention on GitHub, evidenced by its substantial number of stars and forks."
+      },
+      "summary": "claude-mem 是一个 TypeScript 项目，旨在为各类 AI 代理提供跨会话的持久上下文功能。该工具能捕捉代理在会话中的所有操作，通过 AI 进行压缩，并将相关上下文注入到未来的会话中。它兼容 Claude Code、Gemini、Copilot 等多种主流工具。目前该项目已获得超过 10 万 Star，显示出极高的社区关注度。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b42b680fe301dde4ea9a860d5daaf1778e69ec49dcf5e99fc248f4228584ac3b/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 308044<br>Forks: 25923",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 308044\nForks: 25923",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "该 GitHub 项目名为“mattpocock/skills”，旨在为工程师提供实用技能工具。内容源自作者的 .agents 目录，使用 Shell 语言编写。该项目热度极高，已获得超过 30 万个 Star 和 2.5 万个 Fork，反映了其在开发者社区中的广泛关注。",
+        "en": "The GitHub repository \"mattpocock/skills\" provides a collection of resources described as \"Skills for Real Engineers,\" sourced from the author's `.agents` directory. Written in Shell, the repository is highly popular, having accumulated over 307,000 stars and 25,000 forks, indicating significant community engagement and utility for software engineers."
+      },
+      "summary": "该 GitHub 项目名为“mattpocock/skills”，旨在为工程师提供实用技能工具。内容源自作者的 .agents 目录，使用 Shell 语言编写。该项目热度极高，已获得超过 30 万个 Star 和 2.5 万个 Fork，反映了其在开发者社区中的广泛关注。"
+    },
+    {
+      "title": "Donchitos/Claude-Code-Game-Studios",
+      "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ba8a56900354d0eac5cce579ae3d63ee57b0514d4cc60feee7c39d7aa6efbb51/Donchitos/Claude-Code-Game-Studios\" referrerpolicy=\"no-referrer\"><br>Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.<br><br>Language: Shell<br>Stars: 30867<br>Forks: 4225",
+      "contentSnippet": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.\nLanguage: Shell\nStars: 30867\nForks: 4225",
+      "creator": "Donchitos",
+      "summaries": {
+        "zh": "该GitHub项目“Donchitos/Claude-Code-Game-Studios”旨在将Claude Code转化为一个完整的游戏开发工作室。项目包含49个AI代理和72项工作流技能，并建立了模仿真实工作室层级的完整协调系统。项目使用Shell语言编写，目前获得超过3万个星标和4000多次复刻，显示出极高的热度。",
+        "en": "The \"Claude-Code-Game-Studios\" repository by Donchitos transforms Claude Code into a comprehensive game development studio. It features 49 AI agents and 72 workflow skills, utilizing a coordination system that mirrors real-world studio hierarchies. Written in Shell, the project has gained significant popularity on GitHub, accumulating over 30,000 stars and 4,200 forks."
+      },
+      "summary": "该GitHub项目“Donchitos/Claude-Code-Game-Studios”旨在将Claude Code转化为一个完整的游戏开发工作室。项目包含49个AI代理和72项工作流技能，并建立了模仿真实工作室层级的完整协调系统。项目使用Shell语言编写，目前获得超过3万个星标和4000多次复刻，显示出极高的热度。"
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/31a926061a57de62f3eb2e0bb8feb050db24fc2ac2a590e3cc79b51aa12ba474/pingdotgg/t3code\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 34241<br>Forks: 8732",
+      "contentSnippet": "Language: TypeScript\nStars: 34241\nForks: 8732",
+      "creator": "pingdotgg",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The GitHub repository \"pingdotgg/t3code\" is a popular project written in TypeScript. It has garnered significant attention from the developer community, accumulating 32,320 stars and 8,568 forks. These metrics indicate a high level of interest and widespread usage of the codebase."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Renhuai123/ziwei-doushu",
+      "link": "https://github.com/Renhuai123/ziwei-doushu",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/90dfb6a645b1fe0b233454fe0977872d9c80d04babb37f14b0f615336e55bf37/Renhuai123/ziwei-doushu\" referrerpolicy=\"no-referrer\"><br>紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据<br><br>Language: TypeScript<br>Stars: 12091<br>Forks: 2370",
+      "contentSnippet": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据\nLanguage: TypeScript\nStars: 12091\nForks: 2370",
+      "creator": "Renhuai123",
+      "summaries": {
+        "zh": "这是一个名为“Renhuai123/ziwei-doushu”的紫微斗数开源排盘引擎，基于倪海厦《天纪》体系构建。项目采用TypeScript开发，集成了完整排盘算法、四化系统、格局知识库及古籍原文数据。该项目在GitHub上备受关注，已获得超过1万个星标。",
+        "en": "The GitHub repository \"Renhuai123/ziwei-doushu\" offers an open-source charting engine for Ziwei Doushu (Purple Star Astrology). Written in TypeScript, the project is based on Ni Heng-Sha's \"Tian Ji\" system. It features complete charting algorithms, a Four Transformations system, a pattern knowledge base, and data from ancient texts. The repository has gained significant traction, accumulating over 10,000 stars and 2,000 forks."
+      },
+      "summary": "这是一个名为“Renhuai123/ziwei-doushu”的紫微斗数开源排盘引擎，基于倪海厦《天纪》体系构建。项目采用TypeScript开发，集成了完整排盘算法、四化系统、格局知识库及古籍原文数据。该项目在GitHub上备受关注，已获得超过1万个星标。"
+    },
+    {
+      "title": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/01cbdc4f7f7bbdfadc2a59d8d0f811b26131144ed6d9241be798f0fce2db4d14/milind-soni/OpenMausBot\" referrerpolicy=\"no-referrer\"><br>Open-source Grok Bot alternative with a virtual machine that bots can use<br><br>Language: TypeScript<br>Stars: 9318<br>Forks: 1280",
+      "contentSnippet": "Open-source Grok Bot alternative with a virtual machine that bots can use\nLanguage: TypeScript\nStars: 9318\nForks: 1280",
+      "creator": "milind-soni",
+      "summaries": {
+        "zh": "OpenMausBot 是一个开源的 Grok Bot 替代项目，使用 TypeScript 开发。该项目提供了一个虚拟机环境供机器人使用。目前，该项目在 GitHub 上已获得 7125 个 Star 和 1082 个 Fork，具有较高的社区关注度。",
+        "en": "OpenMausBot is an open-source alternative to Grok Bot that features a virtual machine for bot usage. Written in TypeScript, the project has gained significant popularity on GitHub, accumulating over 7,125 stars and 1,082 forks."
+      },
+      "summary": "OpenMausBot 是一个开源的 Grok Bot 替代项目，使用 TypeScript 开发。该项目提供了一个虚拟机环境供机器人使用。目前，该项目在 GitHub 上已获得 7125 个 Star 和 1082 个 Fork，具有较高的社区关注度。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f63a46b013da659f7242233c9b6267f2cc57c389756a7ed86847fe2bb2943b92/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.<br><br>Language: Rust<br>Stars: 97885<br>Forks: 5773",
+      "contentSnippet": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\nLanguage: Rust\nStars: 97885\nForks: 5773",
+      "creator": "pbakaus",
+      "summaries": {
+        "zh": "项目“pbakaus/impeccable”是一种旨在提升AI设计能力的设计语言。该项目使用Rust语言开发，在GitHub上极具热度，目前已获得超过8.5万个Star和5100多次Fork。",
+        "en": "The GitHub repository \"pbakaus/impeccable\" introduces a design language aimed at enhancing the design capabilities of AI harnesses. Written in Rust, the project has gained significant traction within the developer community, boasting over 85,000 stars and 5,100 forks. This high level of engagement highlights its relevance as a tool for optimizing design processes in artificial intelligence development."
+      },
+      "summary": "项目“pbakaus/impeccable”是一种旨在提升AI设计能力的设计语言。该项目使用Rust语言开发，在GitHub上极具热度，目前已获得超过8.5万个Star和5100多次Fork。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9484c4dac172303620a9a791110ef486e674214c982f15ee5315f0e1c4b62145/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 309833<br>Forks: 27560",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 309833\nForks: 27560",
+      "creator": "obra",
+      "summaries": {
+        "zh": "该项目名为 obra/superpowers，是一个行之有效的代理技能框架与软件开发方法论。项目主要使用 Shell 语言编写。其在 GitHub 上拥有 306,153 个 Star 和 27,258 个 Fork，显示出极高的社区关注度。",
+        "en": "The GitHub repository \"obra/superpowers\" introduces an agentic skills framework and software development methodology. Developed primarily using the Shell programming language, the project has garnered significant attention, accumulating 306,153 stars and 27,258 forks."
+      },
+      "summary": "该项目名为 obra/superpowers，是一个行之有效的代理技能框架与软件开发方法论。项目主要使用 Shell 语言编写。其在 GitHub 上拥有 306,153 个 Star 和 27,258 个 Fork，显示出极高的社区关注度。"
+    },
+    {
+      "title": "lightpanda-io/browser",
+      "link": "https://github.com/lightpanda-io/browser",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2c8fb217fc2d8d4dab2068dd7cb3b405dbffc0daaca03b44e75391b6fa0aa364/lightpanda-io/browser\" referrerpolicy=\"no-referrer\"><br>Lightpanda: the headless browser designed for AI and automation<br><br>Language: Zig<br>Stars: 38923<br>Forks: 1890",
+      "contentSnippet": "Lightpanda: the headless browser designed for AI and automation\nLanguage: Zig\nStars: 38923\nForks: 1890",
+      "creator": "lightpanda-io",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "HKUDS/DeepTutor",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/28ad77fb06c339822212df4b721f5dbd2a9865492e86e5bff874100c5b59d9f7/HKUDS/DeepTutor\" referrerpolicy=\"no-referrer\"><br>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.<br><br>Language: Python<br>Stars: 52472<br>Forks: 6429",
+      "contentSnippet": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.\nLanguage: Python\nStars: 52472\nForks: 6429",
+      "creator": "HKUDS",
+      "summaries": {
+        "zh": "HKUDS推出的DeepTutor项目致力于提供终身个性化辅导服务。该项目基于Python开发，在GitHub上拥有超过4.5万个Star和5700多个Fork，显示出极高的社区关注度。项目官网为https://deeptutor.info/。",
+        "en": "DeepTutor is a Python-based project developed by HKUDS that focuses on providing lifelong personalized tutoring. The repository has garnered significant attention on GitHub, accumulating over 45,000 stars and 5,700 forks. The project offers an online platform accessible via its official website."
+      },
+      "summary": "HKUDS推出的DeepTutor项目致力于提供终身个性化辅导服务。该项目基于Python开发，在GitHub上拥有超过4.5万个Star和5700多个Fork，显示出极高的社区关注度。项目官网为https://deeptutor.info/。"
+    },
+    {
+      "title": "Orkas-AI/Orkas",
+      "link": "https://github.com/Orkas-AI/Orkas",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0c674dd5b715756d0fc06feb4f3e4e305fb90797237a0434487f3915ac8b1812/Orkas-AI/Orkas\" referrerpolicy=\"no-referrer\"><br>Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.<br><br>Language: JavaScript<br>Stars: 5960<br>Forks: 360",
+      "contentSnippet": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.\nLanguage: JavaScript\nStars: 5960\nForks: 360",
+      "creator": "Orkas-AI",
+      "summaries": {
+        "zh": "Orkas 是一款开源（MIT 协议）、本地优先的桌面端 AI 团队工具。它通过“指挥官”将用户目标转化为待办事项，并协调 16 个内置专家代理及 Claude Code、Codex 等外部工具。该应用支持 macOS 和 Windows，提供免费下载，支持内置模型或自定义 API 密钥。项目基于 JavaScript 开发，目前在 GitHub 上已获得近 6000 星标。",
+        "en": "Orkas is an open-source, local-first desktop application designed to function as an AI team. It features a \"Commander\" that transforms goals into tasks, coordinating 16 built-in specialist agents alongside integrations like Claude Code and Codex. The free tool, available for macOS and Windows, supports projects, scheduled automations, and connectors. Licensed under MIT and written in JavaScript, Orkas allows users to choose between built-in models or their own API keys. The project currently has over 5,900 stars on GitHub."
+      },
+      "summary": "Orkas 是一款开源（MIT 协议）、本地优先的桌面端 AI 团队工具。它通过“指挥官”将用户目标转化为待办事项，并协调 16 个内置专家代理及 Claude Code、Codex 等外部工具。该应用支持 macOS 和 Windows，提供免费下载，支持内置模型或自定义 API 密钥。项目基于 JavaScript 开发，目前在 GitHub 上已获得近 6000 星标。"
+    },
+    {
+      "title": "THU-MAIC/OpenMAIC",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6b229866f7d55556d78709ebfd5e153577de52fab543ec1472b75dae28b7e2b0/THU-MAIC/OpenMAIC\" referrerpolicy=\"no-referrer\"><br>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click<br><br>Language: TypeScript<br>Stars: 42066<br>Forks: 6505",
+      "contentSnippet": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\nLanguage: TypeScript\nStars: 42066\nForks: 6505",
+      "creator": "THU-MAIC",
+      "summaries": {
+        "zh": "OpenMAIC 是由 THU-MAIC 开发的开源多智能体交互式课堂项目。该项目基于 TypeScript 构建，旨在通过一键操作为用户提供沉浸式的多智能体学习体验。目前，该项目在 GitHub 上已获得超过 4.2 万个 Star 和 6500 多个 Fork，显示出极高的社区关注度。",
+        "en": "THU-MAIC’s OpenMAIC is an open-source project titled \"Open Multi-Agent Interactive Classroom.\" It offers users an immersive, multi-agent learning experience accessible with a single click. Written in TypeScript, the repository has gained significant popularity on GitHub, accumulating over 42,000 stars and 6,500 forks."
+      },
+      "summary": "OpenMAIC 是由 THU-MAIC 开发的开源多智能体交互式课堂项目。该项目基于 TypeScript 构建，旨在通过一键操作为用户提供沉浸式的多智能体学习体验。目前，该项目在 GitHub 上已获得超过 4.2 万个 Star 和 6500 多个 Fork，显示出极高的社区关注度。"
+    },
+    {
+      "title": "bregman-arie/devops-exercises",
+      "link": "https://github.com/bregman-arie/devops-exercises",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/212639071/dc05f400-f0a1-11ea-92d7-163d68cdd605\" referrerpolicy=\"no-referrer\"><br>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions<br><br>Language: Python<br>Stars: 85684<br>Forks: 20531",
+      "contentSnippet": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions\nLanguage: Python\nStars: 85684\nForks: 20531",
+      "creator": "bregman-arie",
+      "summaries": {
+        "zh": "该GitHub项目名为 `bregman-arie/devops-exercises`，专注于DevOps面试练习。内容涵盖Linux、Jenkins、AWS、Docker、Kubernetes、Python、Ansible、Git等广泛技术领域。项目主要使用Python编写，目前获得超8.5万个星标和2万余次复刻，是极具人气的DevOps学习资源。",
+        "en": "The GitHub repository \"bregman-arie/devops-exercises\" offers a comprehensive collection of DevOps interview questions and exercises. It covers a wide range of technologies and tools, including Linux, Jenkins, AWS, Docker, Kubernetes, Python, Ansible, and Terraform. Written primarily in Python, the repository has gained significant popularity, accumulating over 85,000 stars and 20,000 forks. This resource serves as a valuable guide for individuals preparing for technical interviews in the DevOps and Site Reliability Engineering (SRE) domains."
+      },
+      "summary": "该GitHub项目名为 `bregman-arie/devops-exercises`，专注于DevOps面试练习。内容涵盖Linux、Jenkins、AWS、Docker、Kubernetes、Python、Ansible、Git等广泛技术领域。项目主要使用Python编写，目前获得超8.5万个星标和2万余次复刻，是极具人气的DevOps学习资源。"
+    },
+    {
+      "title": "vorssaint/vorssaint-utils",
+      "link": "https://github.com/vorssaint/vorssaint-utils",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0ac78f2db9ec3cacb2c562ed097be7ac2234ec97a064e7733ee02f53d40fe8a8/vorssaint/vorssaint-utils\" referrerpolicy=\"no-referrer\"><br>Free and open-source macOS menu bar toolkit.<br><br>Language: Swift<br>Stars: 31651<br>Forks: 1522",
+      "contentSnippet": "Free and open-source macOS menu bar toolkit.\nLanguage: Swift\nStars: 31651\nForks: 1522",
+      "creator": "vorssaint",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-31T15:45:23.438Z"
+}
