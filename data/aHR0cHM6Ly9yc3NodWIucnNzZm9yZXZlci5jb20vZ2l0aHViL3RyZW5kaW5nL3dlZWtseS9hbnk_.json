@@ -1,0 +1,261 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba\" referrerpolicy=\"no-referrer\"><br>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More<br><br>Language: TypeScript<br>Stars: 114129<br>Forks: 9901",
+      "contentSnippet": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\nLanguage: TypeScript\nStars: 114129\nForks: 9901",
+      "creator": "thedotmack",
+      "summaries": {
+        "zh": "该项目名为 claude-mem，旨在为各类 AI 代理提供跨会话的持久化上下文功能。它能捕获代理在会话中的行为，通过 AI 技术进行压缩，并在未来的会话中注入相关上下文。该项目兼容 Claude Code、Gemini、Copilot 等多种工具，使用 TypeScript 编写。目前其在 GitHub 上已获得超过 10 万星标，显示出极高的关注度。",
+        "en": "The repository `thedotmack/claude-mem` provides a mechanism for persistent context across sessions for AI agents. It captures session activities, compresses the data using AI, and injects relevant context into future interactions. Built with TypeScript, the tool is compatible with multiple platforms, including Claude Code, Gemini, Copilot, and Codex. The project has garnered significant attention, evidenced by its substantial star and fork counts on the platform."
+      },
+      "summary": "该项目名为 claude-mem，旨在为各类 AI 代理提供跨会话的持久化上下文功能。它能捕获代理在会话中的行为，通过 AI 技术进行压缩，并在未来的会话中注入相关上下文。该项目兼容 Claude Code、Gemini、Copilot 等多种工具，使用 TypeScript 编写。目前其在 GitHub 上已获得超过 10 万星标，显示出极高的关注度。"
+    },
+    {
+      "title": "Donchitos/Claude-Code-Game-Studios",
+      "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b72d605ec5195a75468cecead745bddd66effe953d169995097bea5f11489653/Donchitos/Claude-Code-Game-Studios\" referrerpolicy=\"no-referrer\"><br>Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.<br><br>Language: Shell<br>Stars: 36213<br>Forks: 4768",
+      "contentSnippet": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.\nLanguage: Shell\nStars: 36213\nForks: 4768",
+      "creator": "Donchitos",
+      "summaries": {
+        "zh": "该GitHub项目“Claude-Code-Game-Studios”旨在将Claude Code转化为一个完整的游戏开发工作室。项目包含49个AI代理和72种工作流技能，并配备了模拟真实工作室层级的协调系统。该项目使用Shell语言编写，目前拥有超过3.5万个星标和4700多个分叉，显示出极高的社区关注度。",
+        "en": "The GitHub repository \"Donchitos/Claude-Code-Game-Studios\" transforms Claude Code into a comprehensive game development studio. It features 49 AI agents and 72 workflow skills, utilizing a coordination system that mirrors real-world studio hierarchies. Written in Shell, the project has gained significant popularity, accumulating over 35,000 stars and nearly 5,000 forks."
+      },
+      "summary": "该GitHub项目“Claude-Code-Game-Studios”旨在将Claude Code转化为一个完整的游戏开发工作室。项目包含49个AI代理和72种工作流技能，并配备了模拟真实工作室层级的协调系统。该项目使用Shell语言编写，目前拥有超过3.5万个星标和4700多个分叉，显示出极高的社区关注度。"
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ee827e5a5a9da0e2d9648fd25e725d4990ee2435a4ed371d631cff176656abd6/pingdotgg/t3code\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 50163<br>Forks: 9780",
+      "contentSnippet": "Language: TypeScript\nStars: 50163\nForks: 9780",
+      "creator": "pingdotgg",
+      "summaries": {
+        "zh": "该 GitHub 仓库名为 pingdotgg/t3code，主要使用 TypeScript 语言开发。项目目前获得了 32,320 个星标和 8,568 个分叉，显示出极高的社区关注度与流行度。",
+        "en": "The GitHub repository `pingdotgg/t3code` is a project developed using TypeScript. It has garnered significant attention within the developer community, accumulating 32,320 stars and 8,568 forks. These metrics indicate a high level of popularity and active engagement among users."
+      },
+      "summary": "该 GitHub 仓库名为 pingdotgg/t3code，主要使用 TypeScript 语言开发。项目目前获得了 32,320 个星标和 8,568 个分叉，显示出极高的社区关注度与流行度。"
+    },
+    {
+      "title": "max-sixty/worktrunk",
+      "link": "https://github.com/max-sixty/worktrunk",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1078528927/6196f2ac-248f-42f5-abb5-d18768111b3b\" referrerpolicy=\"no-referrer\"><br>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows<br><br>Language: Rust<br>Stars: 11838<br>Forks: 458",
+      "contentSnippet": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\nLanguage: Rust\nStars: 11838\nForks: 458",
+      "creator": "max-sixty",
+      "summaries": {
+        "zh": "Worktrunk 是一款基于 Rust 开发的命令行工具，主要用于管理 Git worktree。该工具专为并行 AI 代理工作流设计，旨在优化多任务开发流程。目前，该项目在 GitHub 上已获得 10,224 个星标和 371 个分叉，显示出较高的社区关注度。",
+        "en": "Worktrunk is a command-line interface (CLI) tool written in Rust for managing Git worktrees. It is specifically designed to support parallel workflows for AI agents. The project has gained significant attention on its repository, accumulating over 10,000 stars and 371 forks."
+      },
+      "summary": "Worktrunk 是一款基于 Rust 开发的命令行工具，主要用于管理 Git worktree。该工具专为并行 AI 代理工作流设计，旨在优化多任务开发流程。目前，该项目在 GitHub 上已获得 10,224 个星标和 371 个分叉，显示出较高的社区关注度。"
+    },
+    {
+      "title": "Nutlope/hallmark",
+      "link": "https://github.com/Nutlope/hallmark",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a8379af3a227926a80f4992709567fc0429562e7cc09a15e0027d83a1936a665/Nutlope/hallmark\" referrerpolicy=\"no-referrer\"><br>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.<br><br>Language: CSS<br>Stars: 49778<br>Forks: 2639",
+      "contentSnippet": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\nLanguage: CSS\nStars: 49778\nForks: 2639",
+      "creator": "Nutlope",
+      "summaries": {
+        "zh": "GitHub项目Nutlope/hallmark是一个针对Claude Code、Cursor和Codex的反AI低质设计技能。该项目使用CSS编写，旨在帮助用户避免生成平庸的AI设计内容。目前，该项目已获得超过4.3万个星标和2300多个分叉，显示出极高的社区热度。",
+        "en": "The GitHub repository \"Nutlope/hallmark\" provides an \"Anti-AI-slop design skill\" aimed at improving design quality within AI coding assistants such as Claude Code, Cursor, and Codex. Written in CSS, the project has garnered significant popularity, accumulating over 43,000 stars and 2,300 forks."
+      },
+      "summary": "GitHub项目Nutlope/hallmark是一个针对Claude Code、Cursor和Codex的反AI低质设计技能。该项目使用CSS编写，旨在帮助用户避免生成平庸的AI设计内容。目前，该项目已获得超过4.3万个星标和2300多个分叉，显示出极高的社区热度。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/63a577f990bb235a9d9f483a80a1e8f697e3ef0439d3b9c62cd0827e4e033810/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills<br><br>Language: Python<br>Stars: 188271<br>Forks: 22203",
+      "contentSnippet": "Public repository for Agent Skills\nLanguage: Python\nStars: 188271\nForks: 22203",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "该内容介绍了名为“anthropics/skills”的公开代码库，主要用于智能体技能，编程语言为Python。该项目热度极高，目前已获得184,981个Star和21,874个Fork。",
+        "en": "The \"anthropics/skills\" repository is a public GitHub project dedicated to Agent Skills. Written in Python, the repository has gained significant traction, accumulating 184,981 stars and 21,874 forks. These metrics indicate a high level of community interest and engagement with the project."
+      },
+      "summary": "该内容介绍了名为“anthropics/skills”的公开代码库，主要用于智能体技能，编程语言为Python。该项目热度极高，目前已获得184,981个Star和21,874个Fork。"
+    },
+    {
+      "title": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/89535a56fd7a022edf1e89df9a2dd8c32ecdfac9f56f3d850247d241f86f380e/milind-soni/OpenMausBot\" referrerpolicy=\"no-referrer\"><br>Open-source Grok Bot alternative with a virtual machine that bots can use<br><br>Language: TypeScript<br>Stars: 15863<br>Forks: 2253",
+      "contentSnippet": "Open-source Grok Bot alternative with a virtual machine that bots can use\nLanguage: TypeScript\nStars: 15863\nForks: 2253",
+      "creator": "milind-soni",
+      "summaries": {
+        "zh": "OpenMausBot 是一个基于 TypeScript 开发的开源项目，作为 Grok Bot 的替代方案，它提供了一个可供机器人使用的虚拟机。该项目在 GitHub 上广受欢迎，目前已获得超过 1.3 万个 Star 和 1800 多个 Fork。",
+        "en": "\"OpenMausBot,\" created by milind-soni, is an open-source alternative to Grok Bot that features a virtual machine for bot usage. Written in TypeScript, the project has gained significant traction on GitHub, accumulating over 13,000 stars and 1,800 forks."
+      },
+      "summary": "OpenMausBot 是一个基于 TypeScript 开发的开源项目，作为 Grok Bot 的替代方案，它提供了一个可供机器人使用的虚拟机。该项目在 GitHub 上广受欢迎，目前已获得超过 1.3 万个 Star 和 1800 多个 Fork。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c28e28cbd4f6ae2653139c2eedd04df26fd11f883267b1ead6a61b1c62c356f8/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.<br><br>Language: Rust<br>Stars: 104985<br>Forks: 6238",
+      "contentSnippet": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\nLanguage: Rust\nStars: 104985\nForks: 6238",
+      "creator": "pbakaus",
+      "summaries": {
+        "zh": "该项目名为“pbakaus/impeccable”，是一个面向编程智能体的设计词汇库。它旨在通过精细化的引导和批判性审查机制，帮助开发者在代码发布前拦截低质量的AI生成内容。该项目使用Rust语言编写，在GitHub上拥有超过9.1万个星标和5400多个分支，显示出极高的社区热度。",
+        "en": "The GitHub project \"pbakaus/impeccable\" serves as a design vocabulary for coding agents. Written in Rust, it aims to improve the development process by allowing users to steer agents with precision, review code through critiques and audits, and prevent low-quality AI-generated code (\"AI slop\") from being deployed. The repository is highly popular, boasting over 91,000 stars and 5,400 forks."
+      },
+      "summary": "该项目名为“pbakaus/impeccable”，是一个面向编程智能体的设计词汇库。它旨在通过精细化的引导和批判性审查机制，帮助开发者在代码发布前拦截低质量的AI生成内容。该项目使用Rust语言编写，在GitHub上拥有超过9.1万个星标和5400多个分支，显示出极高的社区热度。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/05b23a2f2aff752e8d603118ecc8d1cc2689f285246822a913ee935d6cacbc9c/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 313737<br>Forks: 27910",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 313737\nForks: 27910",
+      "creator": "obra",
+      "summaries": {
+        "zh": "该项目名为 obra/superpowers，是一个行之有效的智能体技能框架和软件开发方法论。项目主要使用 Shell 语言编写。其在 GitHub 上拥有超过 30 万颗星和近 2.8 万次分叉，显示出极高的社区关注度。",
+        "en": "The GitHub repository \"obra/superpowers\" provides an agentic skills framework and software development methodology. Written in Shell, the project has achieved significant popularity, accumulating over 308,000 stars and 27,000 forks. The repository aims to offer a functional approach to development workflows."
+      },
+      "summary": "该项目名为 obra/superpowers，是一个行之有效的智能体技能框架和软件开发方法论。项目主要使用 Shell 语言编写。其在 GitHub 上拥有超过 30 万颗星和近 2.8 万次分叉，显示出极高的社区关注度。"
+    },
+    {
+      "title": "HKUDS/DeepTutor",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ccac68b997505d691f5504636bc5a6edc3970c65e8e8675904dfbd5f08004ec4/HKUDS/DeepTutor\" referrerpolicy=\"no-referrer\"><br>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.<br><br>Language: Python<br>Stars: 56095<br>Forks: 6856",
+      "contentSnippet": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.\nLanguage: Python\nStars: 56095\nForks: 6856",
+      "creator": "HKUDS",
+      "summaries": {
+        "zh": "HKUDS推出的DeepTutor项目致力于提供终身个性化辅导服务。该项目基于Python开发，在GitHub上热度极高，已获得超过5.5万个Star和6000多个Fork。项目官网为https://deeptutor.info/。",
+        "en": "DeepTutor is a project developed by HKUDS that focuses on lifelong personalized tutoring. Written in Python, the repository has garnered significant attention, boasting over 55,000 stars and 6,786 forks. Further details about the project are available on its official website, deeptutor.info."
+      },
+      "summary": "HKUDS推出的DeepTutor项目致力于提供终身个性化辅导服务。该项目基于Python开发，在GitHub上热度极高，已获得超过5.5万个Star和6000多个Fork。项目官网为https://deeptutor.info/。"
+    },
+    {
+      "title": "hyprwm/Hyprland",
+      "link": "https://github.com/hyprwm/Hyprland",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/470730648/62af9cdd-2851-437f-9250-05b8ae4a5bb0\" referrerpolicy=\"no-referrer\"><br>Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.<br><br>Language: C++<br>Stars: 40456<br>Forks: 2167",
+      "contentSnippet": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.\nLanguage: C++\nStars: 40456\nForks: 2167",
+      "creator": "hyprwm",
+      "summaries": {
+        "zh": "Hyprland 是一款独立、高度可定制的动态平铺 Wayland 合成器，兼具出色的视觉效果。该项目使用 C++ 编写，目前在 GitHub 上已获得 40,165 个星标和 2,162 个分叉。",
+        "en": "Hyprland is an independent, dynamic tiling Wayland compositor written in C++. It is designed to be highly customizable while maintaining a visually appealing aesthetic. The project has garnered significant popularity on GitHub, accumulating over 40,000 stars and 2,100 forks."
+      },
+      "summary": "Hyprland 是一款独立、高度可定制的动态平铺 Wayland 合成器，兼具出色的视觉效果。该项目使用 C++ 编写，目前在 GitHub 上已获得 40,165 个星标和 2,162 个分叉。"
+    },
+    {
+      "title": "jakubkrehel/skills",
+      "link": "https://github.com/jakubkrehel/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1296300799/3e0cf66c-1a61-45ff-ad66-7433d1a495ec\" referrerpolicy=\"no-referrer\"><br>A collection of agent skills that help you build great interfaces.<br><br>Language: Markdown<br>Stars: 11343<br>Forks: 440",
+      "contentSnippet": "A collection of agent skills that help you build great interfaces.\nLanguage: Markdown\nStars: 11343\nForks: 440",
+      "creator": "jakubkrehel",
+      "summaries": {
+        "zh": "该项目名为“jakubkrehel/skills”，是一个包含多种代理技能的集合，旨在帮助开发者构建优秀的用户界面。项目主要使用Markdown语言编写。目前，该项目在GitHub上已获得8904个星标和339个分叉，显示出较高的社区关注度。",
+        "en": "The GitHub repository \"jakubkrehel/skills\" offers a collection of agent skills designed to assist in building interfaces. Written in Markdown, the project has garnered significant attention, accumulating 8,904 stars and 339 forks."
+      },
+      "summary": "该项目名为“jakubkrehel/skills”，是一个包含多种代理技能的集合，旨在帮助开发者构建优秀的用户界面。项目主要使用Markdown语言编写。目前，该项目在GitHub上已获得8904个星标和339个分叉，显示出较高的社区关注度。"
+    },
+    {
+      "title": "calesthio/OpenMontage",
+      "link": "https://github.com/calesthio/OpenMontage",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d\" referrerpolicy=\"no-referrer\"><br>World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.<br><br>Language: Python<br>Stars: 77853<br>Forks: 10365",
+      "contentSnippet": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.\nLanguage: Python\nStars: 77853\nForks: 10365",
+      "creator": "calesthio",
+      "summaries": {
+        "zh": "OpenMontage 是全球首个开源的智能体视频制作系统。该项目包含 12 条制作流水线、100 多种工具以及 700 多个智能体技能与知识文件，旨在将 AI 编程助手转化为全能的视频制作工作室。项目基于 Python 开发，目前在 GitHub 上已获得超 7.6 万星标，热度极高。",
+        "en": "OpenMontage is an open-source, agentic video production system written in Python. Designed to transform AI coding assistants into comprehensive video production studios, it features 12 production pipelines, over 100 tools, and more than 700 agent skill and knowledge files. The project has gained significant traction on GitHub, accumulating over 76,000 stars and 10,000 forks."
+      },
+      "summary": "OpenMontage 是全球首个开源的智能体视频制作系统。该项目包含 12 条制作流水线、100 多种工具以及 700 多个智能体技能与知识文件，旨在将 AI 编程助手转化为全能的视频制作工作室。项目基于 Python 开发，目前在 GitHub 上已获得超 7.6 万星标，热度极高。"
+    },
+    {
+      "title": "The-PR-Agent/pr-agent",
+      "link": "https://github.com/The-PR-Agent/pr-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7d34e016c4656e9b6f0c7faaf156e7d74f5dda88f9c60b98aba380cca1068428/The-PR-Agent/pr-agent\" referrerpolicy=\"no-referrer\"><br>🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.<br><br>Language: Python<br>Stars: 15348<br>Forks: 2131",
+      "contentSnippet": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.\nLanguage: Python\nStars: 15348\nForks: 2131",
+      "creator": "The-PR-Agent",
+      "summaries": {
+        "zh": "PR Agent 是一款开源的 PR（Pull Request）审查工具，由 Python 编写。该项目明确表示并非 Qodo 的免费层级服务。目前，PR Agent 在 GitHub 上已获得超过 1.5 万个星标和 2000 多个分叉，具有较高的社区热度。",
+        "en": "PR Agent is an open-source tool designed to automate pull request reviews. Written in Python, the project clarifies that it is distinct from the Qodo free tier. It has achieved significant popularity on GitHub, boasting over 15,000 stars and 2,100 forks."
+      },
+      "summary": "PR Agent 是一款开源的 PR（Pull Request）审查工具，由 Python 编写。该项目明确表示并非 Qodo 的免费层级服务。目前，PR Agent 在 GitHub 上已获得超过 1.5 万个星标和 2000 多个分叉，具有较高的社区热度。"
+    },
+    {
+      "title": "nightly-labs/openbot",
+      "link": "https://github.com/nightly-labs/openbot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/94a52001061f4e6f98eb16ae8e1e383682232bb3e77c400ec776d355cae91a73/nightly-labs/openbot\" referrerpolicy=\"no-referrer\"><br>A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.<br><br>Language: TypeScript<br>Stars: 6126<br>Forks: 624",
+      "contentSnippet": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.\nLanguage: TypeScript\nStars: 6126\nForks: 624",
+      "creator": "nightly-labs",
+      "summaries": {
+        "zh": "OpenBot 是一款本地优先的桌面工作区，旨在提供持久的 AI 队友体验。该项目支持运行 Codex、Claude 和 Grok 等模型，具备专用工作区、任务队列、文件共享、浏览器控制及智能体间协作等功能。项目基于 TypeScript 开发，目前在 GitHub 上已获得近 6000 颗星。",
+        "en": "OpenBot is a local-first desktop workspace designed for persistent AI teammates. It enables users to run AI models like Codex, Claude, and Grok with features including dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. Written in TypeScript, the open-source project has achieved over 5,950 stars and 612 forks on GitHub."
+      },
+      "summary": "OpenBot 是一款本地优先的桌面工作区，旨在提供持久的 AI 队友体验。该项目支持运行 Codex、Claude 和 Grok 等模型，具备专用工作区、任务队列、文件共享、浏览器控制及智能体间协作等功能。项目基于 TypeScript 开发，目前在 GitHub 上已获得近 6000 颗星。"
+    },
+    {
+      "title": "D4Vinci/Scrapling",
+      "link": "https://github.com/D4Vinci/Scrapling",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/872119017/65c3a8e0-207a-4834-8b43-01119c0834ce\" referrerpolicy=\"no-referrer\"><br>🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev<br><br>Language: Python<br>Stars: 98968<br>Forks: 10369",
+      "contentSnippet": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev\nLanguage: Python\nStars: 98968\nForks: 10369",
+      "creator": "D4Vinci",
+      "summaries": {
+        "zh": "Scrapling 是一个基于 Python 的网页抓取框架，能够处理从单一请求到大规模爬取的各类任务。该项目在 GitHub 上热度极高，已获得超过 9.8 万个 Star 和 1 万余次 Fork。此外，项目提供了 Discord 社区和 Twitter 账号，方便用户交流与获取相关技巧。",
+        "en": "Scrapling is a Python-based web scraping framework designed to handle tasks ranging from single requests to large-scale crawling operations. The repository is highly popular on GitHub, boasting over 98,000 stars and 10,000 forks. It offers community engagement through a Discord server and provides daily tips via its X (formerly Twitter) account."
+      },
+      "summary": "Scrapling 是一个基于 Python 的网页抓取框架，能够处理从单一请求到大规模爬取的各类任务。该项目在 GitHub 上热度极高，已获得超过 9.8 万个 Star 和 1 万余次 Fork。此外，项目提供了 Discord 社区和 Twitter 账号，方便用户交流与获取相关技巧。"
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a3ea6787ada5a2d40eccb2c9ee21c2cba96696c6fe3888e355c33c6f5b32ca72/multica-ai/andrej-karpathy-skills\" referrerpolicy=\"no-referrer\"><br>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.<br><br>Language: Unknown<br>Stars: 230368<br>Forks: 22924",
+      "contentSnippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\nLanguage: Unknown\nStars: 230368\nForks: 22924",
+      "creator": "multica-ai",
+      "summaries": {
+        "zh": "该项目包含一个名为 `CLAUDE.md` 的文件，旨在基于 Andrej Karpathy 对大语言模型（LLM）编程陷阱的观察，优化 Claude Code 的编程行为。该项目在 GitHub 上极受欢迎，已获得超过 22.3 万个星标和 2.2 万次复刻。",
+        "en": "The repository `multica-ai/andrej-karpathy-skills` features a single `CLAUDE.md` file designed to optimize Claude Code's behavior. Derived from Andrej Karpathy’s observations on LLM coding pitfalls, the file aims to improve AI coding assistance. The project has achieved significant popularity on GitHub, garnering over 223,000 stars and 22,000 forks."
+      },
+      "summary": "该项目包含一个名为 `CLAUDE.md` 的文件，旨在基于 Andrej Karpathy 对大语言模型（LLM）编程陷阱的观察，优化 Claude Code 的编程行为。该项目在 GitHub 上极受欢迎，已获得超过 22.3 万个星标和 2.2 万次复刻。"
+    },
+    {
+      "title": "shiyu-coder/Kronos",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4e78155a99a86b8bc580e7a9d6fe869d90c52fbdcfd71eff09219e5ae936aeb8/shiyu-coder/Kronos\" referrerpolicy=\"no-referrer\"><br>Kronos: A Foundation Model for the Language of Financial Markets<br><br>Language: Python<br>Stars: 47109<br>Forks: 7790",
+      "contentSnippet": "Kronos: A Foundation Model for the Language of Financial Markets\nLanguage: Python\nStars: 47109\nForks: 7790",
+      "creator": "shiyu-coder",
+      "summaries": {
+        "zh": "Kronos是一个基于Python开发的金融市场语言基础模型。该项目由shiyu-coder发布，在社区中备受关注，目前已获得47011个Star和7775个Fork。",
+        "en": "\"Kronos,\" developed by shiyu-coder, is a Python-based foundation model designed to interpret the language of financial markets. Hosted on GitHub, the project has garnered significant attention, accumulating over 47,000 stars and 7,700 forks."
+      },
+      "summary": "Kronos是一个基于Python开发的金融市场语言基础模型。该项目由shiyu-coder发布，在社区中备受关注，目前已获得47011个Star和7775个Fork。"
+    }
+  ],
+  "lastUpdated": "2026-11-07T07:10:00.251Z"
+}

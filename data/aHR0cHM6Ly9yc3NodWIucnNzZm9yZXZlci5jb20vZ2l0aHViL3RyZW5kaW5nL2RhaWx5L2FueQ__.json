@@ -1,0 +1,261 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "zed-industries/zed",
+      "link": "https://github.com/zed-industries/zed",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9365ed798b93a03d74d9b116d67b01fff3f2078b787bd95253382f59e2077118/zed-industries/zed\" referrerpolicy=\"no-referrer\"><br>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.<br><br>Language: Rust<br>Stars: 93851<br>Forks: 11513",
+      "contentSnippet": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.\nLanguage: Rust\nStars: 93851\nForks: 11513",
+      "creator": "zed-industries",
+      "summaries": {
+        "zh": "Zed 是一款由 Atom 和 Tree-sitter 创作者开发的高性能多人协作代码编辑器，旨在实现“思维速度般的编码体验”。该项目使用 Rust 语言编写，目前在 GitHub 上已获得超过 9.3 万颗星和 1.1 万个复刻，具有极高的人气。",
+        "en": "Zed is a high-performance, multiplayer code editor created by the developers of Atom and Tree-sitter. Built using Rust, the editor is designed to enable users to \"code at the speed of thought.\" The project has gained significant popularity on GitHub, accumulating over 93,000 stars and 11,000 forks."
+      },
+      "summary": "Zed 是一款由 Atom 和 Tree-sitter 创作者开发的高性能多人协作代码编辑器，旨在实现“思维速度般的编码体验”。该项目使用 Rust 语言编写，目前在 GitHub 上已获得超过 9.3 万颗星和 1.1 万个复刻，具有极高的人气。"
+    },
+    {
+      "title": "NVIDIA/auto-ontology",
+      "link": "https://github.com/NVIDIA/auto-ontology",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4a0c3a820a19c765be4b7068cc99932e9eae6402955a14ebc44c34ea4b12cf7e/NVIDIA/auto-ontology\" referrerpolicy=\"no-referrer\"><br>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.<br><br>Language: Python<br>Stars: 9354<br>Forks: 740",
+      "contentSnippet": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\nLanguage: Python\nStars: 9354\nForks: 740",
+      "creator": "NVIDIA",
+      "summaries": {
+        "zh": "NVIDIA 推出的 Auto Ontology 是一个 Python 框架，旨在为数据构建基于图的语义推理层。该工具支持确定性查询生成与优化上下文检索，能够显著提升大语言模型（LLM）及智能体工作流的可解释性。该项目目前在 GitHub 上已获得 4720 个 Star。",
+        "en": "NVIDIA’s \"Auto Ontology\" is a Python framework designed to build semantic, graph-based reasoning layers over data. It aims to enhance Large Language Model (LLM) and agent workflows by enabling deterministic query generation, improving context retrieval, and providing more explainable AI. The open-source project has garnered significant attention on GitHub, accumulating over 4,700 stars and 379 forks."
+      },
+      "summary": "NVIDIA 推出的 Auto Ontology 是一个 Python 框架，旨在为数据构建基于图的语义推理层。该工具支持确定性查询生成与优化上下文检索，能够显著提升大语言模型（LLM）及智能体工作流的可解释性。该项目目前在 GitHub 上已获得 4720 个 Star。"
+    },
+    {
+      "title": "rails/rails",
+      "link": "https://github.com/rails/rails",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d48ca9046a01b3c7627d74b242b414e7b2a377744f08b5c2130dddaee7c82fd0/rails/rails\" referrerpolicy=\"no-referrer\"><br>Ruby on Rails<br><br>Language: Ruby<br>Stars: 59059<br>Forks: 23833",
+      "contentSnippet": "Ruby on Rails\nLanguage: Ruby\nStars: 59059\nForks: 23833",
+      "creator": "rails",
+      "summaries": {
+        "zh": "该内容展示了GitHub仓库“rails/rails”的基本信息。项目名为Ruby on Rails，使用Ruby语言开发。该仓库目前已获得58,914个星标和23,823个复刻。",
+        "en": "The \"rails/rails\" repository hosts the Ruby on Rails project, which is written in the Ruby programming language. It is a highly popular repository on GitHub, having accumulated 58,914 stars and 23,823 forks."
+      },
+      "summary": "该内容展示了GitHub仓库“rails/rails”的基本信息。项目名为Ruby on Rails，使用Ruby语言开发。该仓库目前已获得58,914个星标和23,823个复刻。"
+    },
+    {
+      "title": "mpv-player/mpv",
+      "link": "https://github.com/mpv-player/mpv",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4bf24baaec84f50d76e65836e26ee03d8407e780998b1412a67d853b260632a/mpv-player/mpv\" referrerpolicy=\"no-referrer\"><br>🎥 Command line media player<br><br>Language: C<br>Stars: 37936<br>Forks: 3635",
+      "contentSnippet": "🎥 Command line media player\nLanguage: C\nStars: 37936\nForks: 3635",
+      "creator": "mpv-player",
+      "summaries": {
+        "zh": "mpv 是一款基于命令行的媒体播放器，主要使用 C 语言开发。该项目在 GitHub 上广受欢迎，目前已获得超过 3.7 万个 Star 和 3600 多个 Fork。",
+        "en": "The GitHub repository \"mpv-player/mpv\" hosts a command-line media player built using the C programming language. The project is highly popular, having accumulated 37,792 stars and 3,628 forks."
+      },
+      "summary": "mpv 是一款基于命令行的媒体播放器，主要使用 C 语言开发。该项目在 GitHub 上广受欢迎，目前已获得超过 3.7 万个 Star 和 3600 多个 Fork。"
+    },
+    {
+      "title": "rust-lang/rust",
+      "link": "https://github.com/rust-lang/rust",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f4305cb97e5413a29a8aa47717fea247bfd255602083aa3d8ba54f2a31894efa/rust-lang/rust\" referrerpolicy=\"no-referrer\"><br>Empowering everyone to build reliable and efficient software.<br><br>Language: Rust<br>Stars: 121532<br>Forks: 17369",
+      "contentSnippet": "Empowering everyone to build reliable and efficient software.\nLanguage: Rust\nStars: 121532\nForks: 17369",
+      "creator": "rust-lang",
+      "summaries": {
+        "zh": "该项目是 Rust 编程语言的官方仓库，旨在帮助开发者构建可靠且高效的软件。项目在 GitHub 上广受欢迎，目前已获得超过 12 万个 Star 和 1.7 万个 Fork。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该项目是 Rust 编程语言的官方仓库，旨在帮助开发者构建可靠且高效的软件。项目在 GitHub 上广受欢迎，目前已获得超过 12 万个 Star 和 1.7 万个 Fork。"
+    },
+    {
+      "title": "react/react",
+      "link": "https://github.com/react/react",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cc8b1700b10dd9c5641f11f2b3ef38a0f790f5da4f4e219557afbd148044de65/react/react\" referrerpolicy=\"no-referrer\"><br>The library for web and native user interfaces.<br><br>Language: JavaScript<br>Stars: 252309<br>Forks: 51833",
+      "contentSnippet": "The library for web and native user interfaces.\nLanguage: JavaScript\nStars: 252309\nForks: 51833",
+      "creator": "react",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "angular/angular",
+      "link": "https://github.com/angular/angular",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/24195339/d4194dc2-d880-43f7-960c-ea30e05c6531\" referrerpolicy=\"no-referrer\"><br>Deliver web apps with confidence 🚀<br><br>Language: TypeScript<br>Stars: 101425<br>Forks: 28914",
+      "contentSnippet": "Deliver web apps with confidence 🚀\nLanguage: TypeScript\nStars: 101425\nForks: 28914",
+      "creator": "angular",
+      "summaries": {
+        "zh": "Angular 是一个基于 TypeScript 的 Web 应用框架，旨在帮助开发者自信地交付 Web 应用。该项目在 GitHub 上拥有极高的热度，累计获得超过 10.1 万颗 Star 和近 2.9 万个 Fork，显示了其强大的社区支持和广泛的应用基础。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "Angular 是一个基于 TypeScript 的 Web 应用框架，旨在帮助开发者自信地交付 Web 应用。该项目在 GitHub 上拥有极高的热度，累计获得超过 10.1 万颗 Star 和近 2.9 万个 Fork，显示了其强大的社区支持和广泛的应用基础。"
+    },
+    {
+      "title": "symfony/symfony",
+      "link": "https://github.com/symfony/symfony",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/458058/af6a9d00-9374-11e9-887c-917673d9fe68\" referrerpolicy=\"no-referrer\"><br>The Symfony PHP framework<br><br>Language: PHP<br>Stars: 31479<br>Forks: 9950",
+      "contentSnippet": "The Symfony PHP framework\nLanguage: PHP\nStars: 31479\nForks: 9950",
+      "creator": "symfony",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "prometheus/prometheus",
+      "link": "https://github.com/prometheus/prometheus",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2faa42191f1d7718674d423c69e20a1967e8db764d95f5069e9b5f71c86d0c93/prometheus/prometheus\" referrerpolicy=\"no-referrer\"><br>The Prometheus monitoring system and time series database.<br><br>Language: Go<br>Stars: 67243<br>Forks: 10991",
+      "contentSnippet": "The Prometheus monitoring system and time series database.\nLanguage: Go\nStars: 67243\nForks: 10991",
+      "creator": "prometheus",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "google/skills",
+      "link": "https://github.com/google/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d68707fd60ad050b8161e49ad1b39b336725cabc74a0372ab97e124275c439a7/google/skills\" referrerpolicy=\"no-referrer\"><br>Agent Skills for Google products and technologies<br><br>Language: Python<br>Stars: 22959<br>Forks: 1929",
+      "contentSnippet": "Agent Skills for Google products and technologies\nLanguage: Python\nStars: 22959\nForks: 1929",
+      "creator": "google",
+      "summaries": {
+        "zh": "该GitHub项目名为“google/skills”，旨在提供针对Google产品及技术的代理技能。项目主要使用Python语言开发。目前该项目已获得22,263个Star和1,885个Fork，显示出极高的社区关注度。",
+        "en": "The GitHub repository \"google/skills\" provides agent skills specifically designed for Google products and technologies. Developed using Python, the project has gained significant traction, accumulating over 22,000 stars and nearly 1,900 forks. This indicates a high level of interest and utility within the developer community."
+      },
+      "summary": "该GitHub项目名为“google/skills”，旨在提供针对Google产品及技术的代理技能。项目主要使用Python语言开发。目前该项目已获得22,263个Star和1,885个Fork，显示出极高的社区关注度。"
+    },
+    {
+      "title": "microsoft/vscode",
+      "link": "https://github.com/microsoft/vscode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2ba753be874865bbcdf145c858515f1dc0a63f28ad27144fa51078e8adbe3533/microsoft/vscode\" referrerpolicy=\"no-referrer\"><br>Visual Studio Code<br><br>Language: TypeScript<br>Stars: 195084<br>Forks: 44434",
+      "contentSnippet": "Visual Studio Code\nLanguage: TypeScript\nStars: 195084\nForks: 44434",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "lz4/lz4",
+      "link": "https://github.com/lz4/lz4",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4c311163fce6913875fdfae0bff89df59876b83203cb5aef9a9bfbdc4fee9d2/lz4/lz4\" referrerpolicy=\"no-referrer\"><br>Extremely Fast Compression algorithm<br><br>Language: C<br>Stars: 12651<br>Forks: 1644",
+      "contentSnippet": "Extremely Fast Compression algorithm\nLanguage: C\nStars: 12651\nForks: 1644",
+      "creator": "lz4",
+      "summaries": {
+        "zh": "该项目名为 lz4/lz4，是一个用 C 语言编写的极快压缩算法库。其在 GitHub 上获得了 12,651 个 Star 和 1,644 个 Fork，显示出较高的社区关注度。",
+        "en": "The \"lz4/lz4\" repository hosts an extremely fast compression algorithm written in the C programming language. The project is popular on the platform, having garnered 12,651 stars and 1,644 forks."
+      },
+      "summary": "该项目名为 lz4/lz4，是一个用 C 语言编写的极快压缩算法库。其在 GitHub 上获得了 12,651 个 Star 和 1,644 个 Fork，显示出较高的社区关注度。"
+    },
+    {
+      "title": "nushell/nushell",
+      "link": "https://github.com/nushell/nushell",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0d747c8f83cddfef11e457c683d6908864dd307157d22841a0e227fe43c6c082/nushell/nushell\" referrerpolicy=\"no-referrer\"><br>A new type of shell<br><br>Language: Rust<br>Stars: 41023<br>Forks: 2344",
+      "contentSnippet": "A new type of shell\nLanguage: Rust\nStars: 41023\nForks: 2344",
+      "creator": "nushell",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "etcd-io/etcd",
+      "link": "https://github.com/etcd-io/etcd",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5299e9905bf7ca9352197e00447a882eefed4fda2ca8abb2540bca0a065c2513/etcd-io/etcd\" referrerpolicy=\"no-referrer\"><br>Distributed reliable key-value store for the most critical data of a distributed system<br><br>Language: Go<br>Stars: 52643<br>Forks: 10590",
+      "contentSnippet": "Distributed reliable key-value store for the most critical data of a distributed system\nLanguage: Go\nStars: 52643\nForks: 10590",
+      "creator": "etcd-io",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "openssl/openssl",
+      "link": "https://github.com/openssl/openssl",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d225ae631edb00482f23b1b6031874005b078da947e004ff19e2519bac3635b2/openssl/openssl\" referrerpolicy=\"no-referrer\"><br>General purpose TLS and crypto library<br><br>Language: C<br>Stars: 31335<br>Forks: 11583",
+      "contentSnippet": "General purpose TLS and crypto library\nLanguage: C\nStars: 31335\nForks: 11583",
+      "creator": "openssl",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/99bbc4f9e260c01cd18c7188c455b8c5d8c1c95cdf71a206fcfa149a726c92f5/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 316952<br>Forks: 26526",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 316952\nForks: 26526",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The GitHub repository \"mattpocock/skills\" offers a collection of resources titled \"Skills for Real Engineers,\" sourced directly from the author's .agents directory. Written in Shell, the project has garnered significant attention, accumulating over 309,000 stars and 26,000 forks."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c28e28cbd4f6ae2653139c2eedd04df26fd11f883267b1ead6a61b1c62c356f8/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 64461<br>Forks: 4183",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 64461\nForks: 4183",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "astral-sh/ruff",
+      "link": "https://github.com/astral-sh/ruff",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3ef994b28027cc3d20e12463d151335cff0c067acb6ac4e7124a4a3da7c7938e/astral-sh/ruff\" referrerpolicy=\"no-referrer\"><br>An extremely fast Python linter and code formatter, written in Rust.<br><br>Language: Rust<br>Stars: 50758<br>Forks: 2616",
+      "contentSnippet": "An extremely fast Python linter and code formatter, written in Rust.\nLanguage: Rust\nStars: 50758\nForks: 2616",
+      "creator": "astral-sh",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-11-07T07:09:56.185Z"
+}
