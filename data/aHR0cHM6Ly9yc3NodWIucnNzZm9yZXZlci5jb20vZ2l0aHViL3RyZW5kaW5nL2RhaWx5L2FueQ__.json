@@ -1,0 +1,177 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 50971<br>Forks: 3800",
+      "contentSnippet": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 50971\nForks: 3800",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2db6616a31f1d91fa4c01f766290fdc427d2185f5060d2e512e861a77af84299/GoogleChrome/modern-web-guidance-src\" referrerpolicy=\"no-referrer\"><br>Keep your coding agent up to date with the latest web best practices<br><br>Language: TypeScript<br>Stars: 5246<br>Forks: 286",
+      "contentSnippet": "Keep your coding agent up to date with the latest web best practices\nLanguage: TypeScript\nStars: 5246\nForks: 286",
+      "creator": "GoogleChrome",
+      "summaries": {
+        "zh": "该项目是Google Chrome团队维护的“modern-web-guidance-src”源码仓库，主要使用TypeScript语言编写。作为现代Web开发指导资源，该项目在GitHub上已获得2618个Star和183个Fork，显示出一定的社区关注度。",
+        "en": "The GitHub repository \"GoogleChrome/modern-web-guidance-src\" is a TypeScript-based project that has garnered significant community interest. It currently holds 2,618 stars and 183 forks. The repository name suggests it contains source code and guidance related to modern web development standards."
+      },
+      "summary": "该项目是Google Chrome团队维护的“modern-web-guidance-src”源码仓库，主要使用TypeScript语言编写。作为现代Web开发指导资源，该项目在GitHub上已获得2618个Star和183个Fork，显示出一定的社区关注度。"
+    },
+    {
+      "title": "openai/codex-security",
+      "link": "https://github.com/openai/codex-security",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/27b175ffff9a2c2c011d1a75e9251dc7bf21b9fe95025b1852d2dc2e0d609df8/openai/codex-security\" referrerpolicy=\"no-referrer\"><br>OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security<br><br>Language: TypeScript<br>Stars: 13358<br>Forks: 1034",
+      "contentSnippet": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security\nLanguage: TypeScript\nStars: 13358\nForks: 1034",
+      "creator": "openai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "OpenAI's \"codex-security\" is a Command Line Interface (CLI) and TypeScript SDK designed to identify, validate, and fix security vulnerabilities. Written in TypeScript, the tool is distributed via npm and has garnered significant attention on GitHub, accumulating over 12,000 stars and 971 forks."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1131513930/2a028e99-3b90-4290-8381-d86fffbf3332\" referrerpolicy=\"no-referrer\"><br>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.<br><br>Language: Python<br>Stars: 72017<br>Forks: 57396",
+      "contentSnippet": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\nLanguage: Python\nStars: 72017\nForks: 57396",
+      "creator": "ZhuLinsen",
+      "summaries": {
+        "zh": "该项目是一个基于 LLM 的多市场股票智能分析系统，集成了多源行情、实时新闻、决策看板及自动推送功能，并支持零成本定时运行。项目使用 Python 开发，目前在 GitHub 上获得超过 7.1 万 Star 和 5.7 万 Fork，显示出极高的社区关注度。",
+        "en": "The GitHub repository \"ZhuLinsen/daily_stock_analysis\" offers an LLM-powered Python system for multi-market stock analysis. Key features include multi-source market data integration, real-time news processing, a decision dashboard, and automated notifications. The system supports scheduled execution at zero cost. Highly popular within the developer community, the project has garnered over 71,000 stars and 57,000 forks."
+      },
+      "summary": "该项目是一个基于 LLM 的多市场股票智能分析系统，集成了多源行情、实时新闻、决策看板及自动推送功能，并支持零成本定时运行。项目使用 Python 开发，目前在 GitHub 上获得超过 7.1 万 Star 和 5.7 万 Fork，显示出极高的社区关注度。"
+    },
+    {
+      "title": "we-promise/sure",
+      "link": "https://github.com/we-promise/sure",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/45e7b61c20426d6cbc0bf2407a0f98425c50774024dfa295d4e4bc60a6b1e05e/we-promise/sure\" referrerpolicy=\"no-referrer\"><br>The personal finance app for everyone (by everyone)<br><br>Language: Ruby<br>Stars: 14967<br>Forks: 1139",
+      "contentSnippet": "The personal finance app for everyone (by everyone)\nLanguage: Ruby\nStars: 14967\nForks: 1139",
+      "creator": "we-promise",
+      "summaries": {
+        "zh": "该项目名为 we-promise/sure，是一款面向所有人的个人理财应用。项目采用 Ruby 语言开发，在平台上获得了 11683 个星标和 878 个分叉。",
+        "en": "The GitHub repository \"we-promise/sure\" is a personal finance application built using the Ruby programming language. Described as an app designed \"for everyone (by everyone),\" the project has garnered significant community interest, evidenced by its 11,683 stars and 878 forks."
+      },
+      "summary": "该项目名为 we-promise/sure，是一款面向所有人的个人理财应用。项目采用 Ruby 语言开发，在平台上获得了 11683 个星标和 878 个分叉。"
+    },
+    {
+      "title": "backnotprop/plannotator",
+      "link": "https://github.com/backnotprop/plannotator",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5d8d7502373001379df1cea97d47ff03bc9e718846c862e91ed7af5e46c97424/backnotprop/plannotator\" referrerpolicy=\"no-referrer\"><br>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. <br><br>Language: TypeScript<br>Stars: 10632<br>Forks: 794",
+      "contentSnippet": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. \nLanguage: TypeScript\nStars: 10632\nForks: 794",
+      "creator": "backnotprop",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "louislam/uptime-kuma",
+      "link": "https://github.com/louislam/uptime-kuma",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/382496361/f21b61f5-693a-4925-9f1f-fea237ade223\" referrerpolicy=\"no-referrer\"><br>A fancy self-hosted monitoring tool<br><br>Language: JavaScript<br>Stars: 94012<br>Forks: 8730",
+      "contentSnippet": "A fancy self-hosted monitoring tool\nLanguage: JavaScript\nStars: 94012\nForks: 8730",
+      "creator": "louislam",
+      "summaries": {
+        "zh": "Uptime Kuma 是一款精致的自托管监控工具，使用 JavaScript 开发。该项目在 GitHub 上拥有极高的人气，目前已获得超过 9.3 万个 Star 和 8700 多个 Fork，显示出其在开源社区的广泛认可。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "Uptime Kuma 是一款精致的自托管监控工具，使用 JavaScript 开发。该项目在 GitHub 上拥有极高的人气，目前已获得超过 9.3 万个 Star 和 8700 多个 Fork，显示出其在开源社区的广泛认可。"
+    },
+    {
+      "title": "block/buzz",
+      "link": "https://github.com/block/buzz",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6dfbdc7a31be0060bdf9b0c7ae93fe4ec78b09c093e41ced31daad6ceff4069e/block/buzz\" referrerpolicy=\"no-referrer\"><br>A hive mind communication platform<br><br>Language: Rust<br>Stars: 37397<br>Forks: 4945",
+      "contentSnippet": "A hive mind communication platform\nLanguage: Rust\nStars: 37397\nForks: 4945",
+      "creator": "block",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "tradermonty/claude-trading-skills",
+      "link": "https://github.com/tradermonty/claude-trading-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/dbefc5bf9599d54f1e74520a96d822471b1449e82946a16572c3c91ed060a8cb/tradermonty/claude-trading-skills\" referrerpolicy=\"no-referrer\"><br>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.<br><br>Language: Python<br>Stars: 4381<br>Forks: 884",
+      "contentSnippet": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\nLanguage: Python\nStars: 4381\nForks: 884",
+      "creator": "tradermonty",
+      "summaries": {
+        "zh": "该项目名为“tradermonty/claude-trading-skills”，专为股票投资者和交易员打造。它基于Python语言，提供了一系列Claude Code技能，涵盖市场分析、技术图表、经济日历、筛选器及交易策略开发等核心功能。该项目在GitHub上备受关注，目前已获得3981个星标和851个分叉。",
+        "en": "The GitHub repository \"tradermonty/claude-trading-skills\" provides Python-based code skills designed for equity investors and traders using Claude. Key functionalities include market analysis, technical charting, economic calendars, stock screeners, and trading strategy development. The project has garnered significant community interest, evidenced by 3,981 stars and 851 forks."
+      },
+      "summary": "该项目名为“tradermonty/claude-trading-skills”，专为股票投资者和交易员打造。它基于Python语言，提供了一系列Claude Code技能，涵盖市场分析、技术图表、经济日历、筛选器及交易策略开发等核心功能。该项目在GitHub上备受关注，目前已获得3981个星标和851个分叉。"
+    },
+    {
+      "title": "tailscale/tailcat",
+      "link": "https://github.com/tailscale/tailcat",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/02b28235579fc4eaa1166ec4e3fd1a9f7fec35877ae583a70a70498ed6443d3a/tailscale/tailcat\" referrerpolicy=\"no-referrer\"><br>like netcat, but over Tailscale's data plane, without Tailscale's control plane<br><br>Language: Go<br>Stars: 9641<br>Forks: 442",
+      "contentSnippet": "like netcat, but over Tailscale's data plane, without Tailscale's control plane\nLanguage: Go\nStars: 9641\nForks: 442",
+      "creator": "tailscale",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Tailcat is a Go-based networking utility similar to netcat, designed to operate over Tailscale's data plane without requiring the control plane. The open-source project has gained significant popularity on GitHub, boasting over 9,000 stars and 427 forks."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Likely7/Veyra-NRVideo",
+      "link": "https://github.com/Likely7/Veyra-NRVideo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/452cbc264ae1aa8abfe642f85032ce28dc38e3560745ed54b0da9aa3f220a181/Likely7/Veyra-NRVideo\" referrerpolicy=\"no-referrer\"><br>Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.<br><br>Language: C++<br>Stars: 1790<br>Forks: 80",
+      "contentSnippet": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.\nLanguage: C++\nStars: 1790\nForks: 80",
+      "creator": "Likely7",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Veyra-NRVideo is an advanced Windows video player and capture enhancement tool designed to deliver next-generation visual experiences. It supports real-time previews for videos, images, and capture card sources. The software leverages AI-powered technologies, including Super Resolution, DLSS 5 image enhancement, and Frame Generation, to upscale content and boost frame rates, with a specific mention of enabling 120FPS for PS5 GTA6. Written in C++, the project has garnered significant attention on GitHub, accumulating over 1,400 stars."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/89685cd329665ef81a22b0fff85dd12c397064c0ec1f7a23e0317dca86205707/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 55832<br>Forks: 4624",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 55832\nForks: 4624",
+      "creator": "ChromeDevTools",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The GitHub repository \"chrome-devtools-mcp\" provides Chrome DevTools functionality specifically designed for coding agents. Written in TypeScript, the project has garnered significant attention, accumulating over 55,000 stars and 4,600 forks. This tool serves as a bridge to connect AI-driven coding assistants with browser developer tools."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T10:27:38.845Z"
+}

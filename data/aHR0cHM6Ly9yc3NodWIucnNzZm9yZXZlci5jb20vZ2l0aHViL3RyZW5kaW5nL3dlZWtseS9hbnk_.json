@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "sherlock-project/sherlock",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/162998479/643206d7-076a-4b92-bb6c-89d9c4161d95\" referrerpolicy=\"no-referrer\"><br>Hunt down social media accounts by username across social networks<br><br>Language: Python<br>Stars: 111424<br>Forks: 12900",
+      "contentSnippet": "Hunt down social media accounts by username across social networks\nLanguage: Python\nStars: 111424\nForks: 12900",
+      "creator": "sherlock-project",
+      "summaries": {
+        "zh": "Sherlock是一个基于Python开发的开源项目，旨在通过用户名在各大社交网络中搜寻并追踪社交媒体账户。该项目在GitHub上广受欢迎，目前已获得超过11万个星标和1.2万个复刻。",
+        "en": "The \"sherlock-project/sherlock\" is a Python-based tool designed to hunt down social media accounts by username across various social networks. It is a highly popular project on GitHub, having accumulated over 110,000 stars and 12,800 forks."
+      },
+      "summary": "Sherlock是一个基于Python开发的开源项目，旨在通过用户名在各大社交网络中搜寻并追踪社交媒体账户。该项目在GitHub上广受欢迎，目前已获得超过11万个星标和1.2万个复刻。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/85d3be58267741a6fffc70787b9b142c00ab4c67dd3ee1373fdc5bc38c8294e5/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills<br><br>Language: Python<br>Stars: 194319<br>Forks: 22863",
+      "contentSnippet": "Public repository for Agent Skills\nLanguage: Python\nStars: 194319\nForks: 22863",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "该内容介绍了名为“anthropics/skills”的公开代码库，主要用于智能体技能，编程语言为Python。该项目热度极高，目前已获得184,981个Star和21,874个Fork。",
+        "en": "The \"anthropics/skills\" repository is a public GitHub project dedicated to Agent Skills. Written in Python, the repository has gained significant traction, accumulating 184,981 stars and 21,874 forks. These metrics indicate a high level of community interest and engagement with the project."
+      },
+      "summary": "该内容介绍了名为“anthropics/skills”的公开代码库，主要用于智能体技能，编程语言为Python。该项目热度极高，目前已获得184,981个Star和21,874个Fork。"
+    },
+    {
+      "title": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ddd570d02519003172d81fa4464748d061ce4b8013d744410490ac3eaf734668/milind-soni/OpenMausBot\" referrerpolicy=\"no-referrer\"><br>Open-source Grok Bot alternative with a virtual machine that bots can use<br><br>Language: TypeScript<br>Stars: 22447<br>Forks: 3118",
+      "contentSnippet": "Open-source Grok Bot alternative with a virtual machine that bots can use\nLanguage: TypeScript\nStars: 22447\nForks: 3118",
+      "creator": "milind-soni",
+      "summaries": {
+        "zh": "OpenMausBot 是一个基于 TypeScript 开发的开源项目，作为 Grok Bot 的替代方案，它提供了一个可供机器人使用的虚拟机。该项目在 GitHub 上广受欢迎，目前已获得超过 1.3 万个 Star 和 1800 多个 Fork。",
+        "en": "\"OpenMausBot,\" created by milind-soni, is an open-source alternative to Grok Bot that features a virtual machine for bot usage. Written in TypeScript, the project has gained significant traction on GitHub, accumulating over 13,000 stars and 1,800 forks."
+      },
+      "summary": "OpenMausBot 是一个基于 TypeScript 开发的开源项目，作为 Grok Bot 的替代方案，它提供了一个可供机器人使用的虚拟机。该项目在 GitHub 上广受欢迎，目前已获得超过 1.3 万个 Star 和 1800 多个 Fork。"
+    },
+    {
+      "title": "vercel-labs/agent-browser",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6989c1d286668af6ccc2089e6c721a56af82801f6b1294ebe71a7cddabc2446d/vercel-labs/agent-browser\" referrerpolicy=\"no-referrer\"><br>Browser automation CLI for AI agents<br><br>Language: Rust<br>Stars: 50907<br>Forks: 3544",
+      "contentSnippet": "Browser automation CLI for AI agents\nLanguage: Rust\nStars: 50907\nForks: 3544",
+      "creator": "vercel-labs",
+      "summaries": {
+        "zh": "该项目 `vercel-labs/agent-browser` 是一款专为 AI 智能体设计的浏览器自动化命令行工具（CLI）。项目采用 Rust 语言编写，目前在 GitHub 上已获得超过 4.7 万颗星和 3233 次分叉，显示出极高的社区关注度。",
+        "en": "The repository `vercel-labs/agent-browser` provides a command-line interface (CLI) tool designed for browser automation specifically tailored to AI agents. Written in Rust, the project has garnered significant attention on GitHub, accumulating over 47,000 stars and 3,200 forks. This tool facilitates the interaction between AI systems and web browsers."
+      },
+      "summary": "该项目 `vercel-labs/agent-browser` 是一款专为 AI 智能体设计的浏览器自动化命令行工具（CLI）。项目采用 Rust 语言编写，目前在 GitHub 上已获得超过 4.7 万颗星和 3233 次分叉，显示出极高的社区关注度。"
+    },
+    {
+      "title": "google/elephant-goldfish-model",
+      "link": "https://github.com/google/elephant-goldfish-model",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1368596582/bafb1e15-6b0b-4c41-a95d-6183244a44ab\" referrerpolicy=\"no-referrer\"><br>Open-source plugin for designing and reviewing software with agents<br><br>Language: Python<br>Stars: 18804<br>Forks: 1403",
+      "contentSnippet": "Open-source plugin for designing and reviewing software with agents\nLanguage: Python\nStars: 18804\nForks: 1403",
+      "creator": "google",
+      "summaries": {
+        "zh": "该项目名为 google/elephant-goldfish-model，是一个基于 Python 的开源插件，旨在利用代理协助软件的设计与审查。该项目在社区中颇受欢迎，目前已获得 18585 个星标和 1384 个分叉。",
+        "en": "The \"google/elephant-goldfish-model\" is an open-source Python plugin designed for designing and reviewing software using agents. Hosted on GitHub, the project has garnered significant attention, accumulating 18,585 stars and 1,384 forks. It serves as a tool for developers looking to integrate agent-based workflows into their software creation and review processes."
+      },
+      "summary": "该项目名为 google/elephant-goldfish-model，是一个基于 Python 的开源插件，旨在利用代理协助软件的设计与审查。该项目在社区中颇受欢迎，目前已获得 18585 个星标和 1384 个分叉。"
+    },
+    {
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1131513930/2a028e99-3b90-4290-8381-d86fffbf3332\" referrerpolicy=\"no-referrer\"><br>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.<br><br>Language: Python<br>Stars: 72017<br>Forks: 57396",
+      "contentSnippet": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\nLanguage: Python\nStars: 72017\nForks: 57396",
+      "creator": "ZhuLinsen",
+      "summaries": {
+        "zh": "该项目名为 ZhuLinsen/daily_stock_analysis，是一个基于 LLM 的多市场股票智能分析系统。系统整合了多源行情、实时新闻、决策看板及自动推送功能，并支持零成本定时运行。项目使用 Python 开发，在 GitHub 上热度极高，已获得超过 7.1 万 Star 和 5.7 万 Fork。",
+        "en": "The GitHub repository \"ZhuLinsen/daily_stock_analysis\" presents an LLM-powered multi-market stock analysis system developed in Python. Key features include multi-source market data integration, real-time news analysis, a decision dashboard, and automated notifications. The system supports cost-free scheduled execution. The project has garnered significant attention, accumulating over 71,000 stars and 57,000 forks on the platform."
+      },
+      "summary": "该项目名为 ZhuLinsen/daily_stock_analysis，是一个基于 LLM 的多市场股票智能分析系统。系统整合了多源行情、实时新闻、决策看板及自动推送功能，并支持零成本定时运行。项目使用 Python 开发，在 GitHub 上热度极高，已获得超过 7.1 万 Star 和 5.7 万 Fork。"
+    },
+    {
+      "title": "NVIDIA/auto-ontology",
+      "link": "https://github.com/NVIDIA/auto-ontology",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bc5fea8680e111c0207029819090d3ee89724139fe5a66a678fda0696f67c78c/NVIDIA/auto-ontology\" referrerpolicy=\"no-referrer\"><br>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.<br><br>Language: Python<br>Stars: 12683<br>Forks: 1047",
+      "contentSnippet": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\nLanguage: Python\nStars: 12683\nForks: 1047",
+      "creator": "NVIDIA",
+      "summaries": {
+        "zh": "NVIDIA推出的Auto Ontology是一个Python框架，旨在为数据构建基于图的语义推理层。该框架支持确定性查询生成和优化上下文检索，能够显著提升大语言模型（LLM）及智能体工作流的可解释性。目前该项目在GitHub上获得超过一万星标，广受开发者关注。",
+        "en": "NVIDIA's \"Auto Ontology\" is a Python framework designed to build semantic, graph-based reasoning layers over data. It enhances Large Language Model (LLM) and agent workflows by enabling deterministic query generation and improving context retrieval. Additionally, the framework facilitates the creation of more explainable AI systems. The project has garnered significant attention on GitHub, accumulating over 10,000 stars and 800 forks."
+      },
+      "summary": "NVIDIA推出的Auto Ontology是一个Python框架，旨在为数据构建基于图的语义推理层。该框架支持确定性查询生成和优化上下文检索，能够显著提升大语言模型（LLM）及智能体工作流的可解释性。目前该项目在GitHub上获得超过一万星标，广受开发者关注。"
+    },
+    {
+      "title": "google-deepmind/mujoco",
+      "link": "https://github.com/google-deepmind/mujoco",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fc2a1dce3977602ffa8810fe61252ea97515d428dcea2d7f52828e1ae2e8f8c8/google-deepmind/mujoco\" referrerpolicy=\"no-referrer\"><br>Multi-Joint dynamics with Contact. A general purpose physics simulator.<br><br>Language: C++<br>Stars: 17922<br>Forks: 2190",
+      "contentSnippet": "Multi-Joint dynamics with Contact. A general purpose physics simulator.\nLanguage: C++\nStars: 17922\nForks: 2190",
+      "creator": "google-deepmind",
+      "summaries": {
+        "zh": "Google DeepMind旗下的MuJoCo（Multi-Joint dynamics with Contact）是一款通用物理模拟器，旨在模拟接触多关节动力学。该项目主要使用C++语言编写，在GitHub上具有较高的关注度，目前已获得17658个Star和2172个Fork。",
+        "en": "The Google DeepMind repository \"mujoco\" hosts a general-purpose physics simulator designed for Multi-Joint dynamics with Contact. Written in C++, the project is widely used and has garnered significant community interest, evidenced by over 17,600 stars and 2,100 forks on GitHub."
+      },
+      "summary": "Google DeepMind旗下的MuJoCo（Multi-Joint dynamics with Contact）是一款通用物理模拟器，旨在模拟接触多关节动力学。该项目主要使用C++语言编写，在GitHub上具有较高的关注度，目前已获得17658个Star和2172个Fork。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/181a5420be22e984b0a2cd4f645f0593b09da037f6a65535541322e87e118014/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 324085<br>Forks: 27203",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 324085\nForks: 27203",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "该 GitHub 仓库 \"mattpocock/skills\" 提供了面向“真正的工程师”的技能资源，内容源自作者的 .agents 目录，主要使用 Shell 语言编写。该项目极受欢迎，已获得超过 31.8 万个 Star 和 2.6 万次 Fork。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该 GitHub 仓库 \"mattpocock/skills\" 提供了面向“真正的工程师”的技能资源，内容源自作者的 .agents 目录，主要使用 Shell 语言编写。该项目极受欢迎，已获得超过 31.8 万个 Star 和 2.6 万次 Fork。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d838580498633b482a82558eea804bad85cd959bc5c781f8863fe50f51829aba/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 117310<br>Forks: 12273",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 117310\nForks: 12273",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "GitHub项目“addyosmani/agent-skills”旨在为AI编程代理提供生产级工程技能。该项目使用JavaScript语言，在社区中极具影响力，目前已获得超过11.7万个Star和1.2万个Fork，反映了其高度的受欢迎程度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "GitHub项目“addyosmani/agent-skills”旨在为AI编程代理提供生产级工程技能。该项目使用JavaScript语言，在社区中极具影响力，目前已获得超过11.7万个Star和1.2万个Fork，反映了其高度的受欢迎程度。"
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7c3525ea2e25c828bdaab2f4c14e9ceb6336920ebd9c7bf79b9a20f80d96e1fd/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 72171<br>Forks: 4810",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 72171\nForks: 4810",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "Cloudflare的security-audit-skill是一个基于JavaScript的编码代理技能，专为多阶段安全审计设计。该工具能够生成独立验证且机器可读的审计结果。项目在GitHub上热度极高，已获得超过6.7万个星标和4400多次分叉。",
+        "en": "The `cloudflare/security-audit-skill` repository provides a JavaScript-based coding-agent skill designed for conducting multi-phase security audits. It features independently verified, machine-readable findings. The project is highly popular on GitHub, having garnered over 67,000 stars and 4,400 forks."
+      },
+      "summary": "Cloudflare的security-audit-skill是一个基于JavaScript的编码代理技能，专为多阶段安全审计设计。该工具能够生成独立验证且机器可读的审计结果。项目在GitHub上热度极高，已获得超过6.7万个星标和4400多次分叉。"
+    },
+    {
+      "title": "zed-industries/zed",
+      "link": "https://github.com/zed-industries/zed",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0c151f0b9a3d0c8f7d5bb1b7d581b155643741c1283b5a29b56ebf731fabc97f/zed-industries/zed\" referrerpolicy=\"no-referrer\"><br>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.<br><br>Language: Rust<br>Stars: 95001<br>Forks: 11696",
+      "contentSnippet": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.\nLanguage: Rust\nStars: 95001\nForks: 11696",
+      "creator": "zed-industries",
+      "summaries": {
+        "zh": "Zed 是一款由 Atom 和 Tree-sitter 创作者开发的高性能、多人协作代码编辑器，主打“思维速度”的编码体验。该项目采用 Rust 语言编写，目前在 GitHub 上已获得超过 9.4 万颗星和 1.1 万次复刻，具有极高的人气。",
+        "en": "Zed is a high-performance, multiplayer code editor created by the developers of Atom and Tree-sitter. Built using the Rust programming language, it aims to allow users to code \"at the speed of thought.\" The project has achieved significant popularity on GitHub, accumulating over 94,700 stars and 11,600 forks."
+      },
+      "summary": "Zed 是一款由 Atom 和 Tree-sitter 创作者开发的高性能、多人协作代码编辑器，主打“思维速度”的编码体验。该项目采用 Rust 语言编写，目前在 GitHub 上已获得超过 9.4 万颗星和 1.1 万次复刻，具有极高的人气。"
+    },
+    {
+      "title": "anthropics/claude-quickstarts",
+      "link": "https://github.com/anthropics/claude-quickstarts",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0cc8edd24be2f627f5dc265f1880035f875d9665a937034c6c0024f82b4f3f55/anthropics/claude-quickstarts\" referrerpolicy=\"no-referrer\"><br>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API<br><br>Language: Python<br>Stars: 20908<br>Forks: 3492",
+      "contentSnippet": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API\nLanguage: Python\nStars: 20908\nForks: 3492",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "该GitHub项目“anthropics/claude-quickstarts”汇集了一系列示例，旨在帮助开发者快速上手使用Claude API构建可部署的应用程序。项目主要使用Python语言编写，目前拥有20,841个星标和3,491个复刻，显示出较高的社区关注度。",
+        "en": "The \"anthropics/claude-quickstarts\" repository provides a collection of Python projects designed to assist developers in rapidly creating deployable applications using the Claude API. The repository is highly popular on GitHub, having garnered over 20,000 stars and nearly 3,500 forks."
+      },
+      "summary": "该GitHub项目“anthropics/claude-quickstarts”汇集了一系列示例，旨在帮助开发者快速上手使用Claude API构建可部署的应用程序。项目主要使用Python语言编写，目前拥有20,841个星标和3,491个复刻，显示出较高的社区关注度。"
+    },
+    {
+      "title": "vercel-labs/agent-desktop",
+      "link": "https://github.com/vercel-labs/agent-desktop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1161958643/83055b28-992e-4176-b5d6-89b56aa22dde\" referrerpolicy=\"no-referrer\"><br>Computer use CLI for AI agents<br><br>Language: Rust<br>Stars: 23523<br>Forks: 1745",
+      "contentSnippet": "Computer use CLI for AI agents\nLanguage: Rust\nStars: 23523\nForks: 1745",
+      "creator": "vercel-labs",
+      "summaries": {
+        "zh": "Vercel Labs 推出的 agent-desktop 是一个基于 Rust 开发的命令行工具，旨在让 AI 代理具备操作计算机的能力。该项目在 GitHub 上热度极高，目前已获得超过 2 万个星标和 1500 多个复刻。",
+        "en": "The repository \"vercel-labs/agent-desktop\" offers a command-line interface (CLI) tool designed to enable AI agents to interact with computers. Written in the Rust programming language, the project has gained significant traction, accumulating over 20,000 stars and 1,500 forks. This tool facilitates computer usage capabilities for artificial intelligence systems."
+      },
+      "summary": "Vercel Labs 推出的 agent-desktop 是一个基于 Rust 开发的命令行工具，旨在让 AI 代理具备操作计算机的能力。该项目在 GitHub 上热度极高，目前已获得超过 2 万个星标和 1500 多个复刻。"
+    },
+    {
+      "title": "lobehub/lobehub",
+      "link": "https://github.com/lobehub/lobehub",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/643445235/c12fed7e-80df-4ced-8b64-692437e53c78\" referrerpolicy=\"no-referrer\"><br>🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.<br><br>Language: TypeScript<br>Stars: 85491<br>Forks: 16310",
+      "contentSnippet": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.\nLanguage: TypeScript\nStars: 85491\nForks: 16310",
+      "creator": "lobehub",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "LobeHub is an open-source project that integrates autonomous \"super-agents\" into existing team chat workflows. These agents independently execute tasks and improve their performance over time. Built using TypeScript, the repository has garnered significant popularity on GitHub, accumulating over 85,000 stars and 16,000 forks."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T10:27:42.521Z"
+}
