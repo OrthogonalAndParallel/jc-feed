@@ -1,0 +1,233 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "elementalsouls/Claude-BugHunter",
+      "link": "https://github.com/elementalsouls/Claude-BugHunter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1229774092/93703d75-077c-4a14-b580-e2374741fe3d\" referrerpolicy=\"no-referrer\"><br>A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.<br><br>Language: Python<br>Stars: 26595<br>Forks: 2730",
+      "contentSnippet": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\nLanguage: Python\nStars: 26595\nForks: 2730",
+      "creator": "elementalsouls",
+      "summaries": {
+        "zh": "Claude-BugHunter是一个专为Claude Code设计的技能包，主要用于漏洞挖掘和外部红队测试。该项目包含82项技能、15个斜杠命令，以及涵盖24个核心漏洞类别的681个已披露报告模式，并整合了企业身份与基础设施攻击矩阵。该项目基于Python开发，在GitHub上已获得超过1.1万个星标，具有较高的社区关注度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "Claude-BugHunter是一个专为Claude Code设计的技能包，主要用于漏洞挖掘和外部红队测试。该项目包含82项技能、15个斜杠命令，以及涵盖24个核心漏洞类别的681个已披露报告模式，并整合了企业身份与基础设施攻击矩阵。该项目基于Python开发，在GitHub上已获得超过1.1万个星标，具有较高的社区关注度。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e300b0cf950f95d9fa7b98d5e1873351d380d49afb3a9a1ff72b968cfa8bac0d/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 328633<br>Forks: 29222",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 328633\nForks: 29222",
+      "creator": "obra",
+      "summaries": {
+        "zh": "该项目名为 obra/superpowers，是一个行之有效的代理技能框架与软件开发方法论。项目主要使用 Shell 语言编写。其在 GitHub 上拥有超过 31 万个 Star 和近 2.8 万个 Fork，显示出极高的社区关注度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该项目名为 obra/superpowers，是一个行之有效的代理技能框架与软件开发方法论。项目主要使用 Shell 语言编写。其在 GitHub 上拥有超过 31 万个 Star 和近 2.8 万个 Fork，显示出极高的社区关注度。"
+    },
+    {
+      "title": "HKUDS/CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a2b87fc8442b7bea5fe55297e846b758348ae22b76ea17ee1e13ca024711b563/HKUDS/CLI-Anything\" referrerpolicy=\"no-referrer\"><br>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/<br><br>Language: Python<br>Stars: 67196<br>Forks: 6191",
+      "contentSnippet": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\nLanguage: Python\nStars: 67196\nForks: 6191",
+      "creator": "HKUDS",
+      "summaries": {
+        "zh": "HKUDS推出的CLI-Anything项目旨在将所有软件转变为“Agent-Native”模式。该项目基于Python开发，并提供CLI-Hub服务。目前，该项目在GitHub上热度极高，已获得超过5.9万个Star和5300多个Fork，显示出社区对其的高度关注。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "HKUDS推出的CLI-Anything项目旨在将所有软件转变为“Agent-Native”模式。该项目基于Python开发，并提供CLI-Hub服务。目前，该项目在GitHub上热度极高，已获得超过5.9万个Star和5300多个Fork，显示出社区对其的高度关注。"
+    },
+    {
+      "title": "jingyaogong/minimind",
+      "link": "https://github.com/jingyaogong/minimind",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4a2ad673e397ccd910f07de3033bf323788943e36cdc25415d1bed163031b91c/jingyaogong/minimind\" referrerpolicy=\"no-referrer\"><br>🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.<br><br>Language: Python<br>Stars: 72381<br>Forks: 9476",
+      "contentSnippet": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\nLanguage: Python\nStars: 72381\nForks: 9476",
+      "creator": "jingyaogong",
+      "summaries": {
+        "zh": "GitHub 项目 minimind 旨在帮助用户从零开始训练大语言模型。该项目使用 Python 编写，宣称仅需两小时即可训练出一个 64M 参数的模型。凭借其高效便捷的特点，该项目目前已在 GitHub 上获得超过 6.6 万个 Star 和 8700 多个 Fork，显示出极高的社区热度。",
+        "en": "The GitHub repository \"jingyaogong/minimind\" enables users to train a 64M parameter Large Language Model (LLM) from scratch in approximately two hours. Written in Python, the project has garnered significant attention on the platform, accumulating over 66,000 stars and 8,700 forks. It offers a streamlined approach for developers to build their own small-scale models efficiently."
+      },
+      "summary": "GitHub 项目 minimind 旨在帮助用户从零开始训练大语言模型。该项目使用 Python 编写，宣称仅需两小时即可训练出一个 64M 参数的模型。凭借其高效便捷的特点，该项目目前已在 GitHub 上获得超过 6.6 万个 Star 和 8700 多个 Fork，显示出极高的社区热度。"
+    },
+    {
+      "title": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://avatars.githubusercontent.com/u/126759922?s=400&amp;v=4\" referrerpolicy=\"no-referrer\"><br>Cursor plugin specification and official plugins<br><br>Language: TypeScript<br>Stars: 20087<br>Forks: 2263",
+      "contentSnippet": "Cursor plugin specification and official plugins\nLanguage: TypeScript\nStars: 20087\nForks: 2263",
+      "creator": "cursor",
+      "summaries": {
+        "zh": "该项目主要提供Cursor插件规范及官方插件，使用TypeScript语言编写。项目在GitHub上已获得16,866个星标和1,828个分叉。",
+        "en": "The \"cursor/plugins\" GitHub repository provides the official specifications and plugins for Cursor. Developed using TypeScript, the project is highly popular within the developer community, boasting over 16,800 stars and 1,800 forks."
+      },
+      "summary": "该项目主要提供Cursor插件规范及官方插件，使用TypeScript语言编写。项目在GitHub上已获得16,866个星标和1,828个分叉。"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "link": "https://github.com/firecrawl/firecrawl",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/787076358/f9616c09-3701-41ef-b5a6-fdf912ffb15b\" referrerpolicy=\"no-referrer\"><br>Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.<br><br>Language: TypeScript<br>Stars: 211936<br>Forks: 11171",
+      "contentSnippet": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.\nLanguage: TypeScript\nStars: 211936\nForks: 11171",
+      "creator": "firecrawl",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "nginx/nginx",
+      "link": "https://github.com/nginx/nginx",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a5af17929343ac5093f659318641e03a393066047743a170fcc5684297000c1f/nginx/nginx\" referrerpolicy=\"no-referrer\"><br>The official NGINX Open Source repository.<br><br>Language: C<br>Stars: 33711<br>Forks: 8490",
+      "contentSnippet": "The official NGINX Open Source repository.\nLanguage: C\nStars: 33711\nForks: 8490",
+      "creator": "nginx",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "openvinotoolkit/openvino",
+      "link": "https://github.com/openvinotoolkit/openvino",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/92ca47d4b9272077c2694ec23b337ac330aa37af3f22dad79347b2a7d46966ca/openvinotoolkit/openvino\" referrerpolicy=\"no-referrer\"><br>OpenVINO™ is an open source toolkit for optimizing and deploying AI inference<br><br>Language: C++<br>Stars: 12988<br>Forks: 3828",
+      "contentSnippet": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference\nLanguage: C++\nStars: 12988\nForks: 3828",
+      "creator": "openvinotoolkit",
+      "summaries": {
+        "zh": "OpenVINO™是一个开源工具包，主要用于优化和部署AI推理。该项目采用C++语言开发，在GitHub上拥有11,231个星标和3,582个分叉，具有较高的社区关注度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "OpenVINO™是一个开源工具包，主要用于优化和部署AI推理。该项目采用C++语言开发，在GitHub上拥有11,231个星标和3,582个分叉，具有较高的社区关注度。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3538361e4e0acbed1a59e8f0cec356ca900b55bbbf6f06d8734a7e17f40f84fa/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 74642<br>Forks: 5059",
+      "contentSnippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 74642\nForks: 5059",
+      "creator": "cathrynlavery",
+      "summaries": {
+        "zh": "该 GitHub 项目 `cathrynlavery/diagram-design` 专为 Claude Code、GitHub Copilot、Cursor 等 AI 编程工具提供编辑风格的图表设计。项目包含 45 种图表类型，采用独立的 HTML + SVG 格式，无阴影效果，且不依赖 Mermaid。该项目广受欢迎，已获得超过 6.8 万颗星和 4600 多个分支。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该 GitHub 项目 `cathrynlavery/diagram-design` 专为 Claude Code、GitHub Copilot、Cursor 等 AI 编程工具提供编辑风格的图表设计。项目包含 45 种图表类型，采用独立的 HTML + SVG 格式，无阴影效果，且不依赖 Mermaid。该项目广受欢迎，已获得超过 6.8 万颗星和 4600 多个分支。"
+    },
+    {
+      "title": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a8ba9e45e81d5f2b69e4a16375bbf7a588f8053c7be6a8cf66823d77fc6fdafb/mvanhorn/last30days-skill\" referrerpolicy=\"no-referrer\"><br>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary<br><br>Language: Python<br>Stars: 76548<br>Forks: 6823",
+      "contentSnippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\nLanguage: Python\nStars: 76548\nForks: 6823",
+      "creator": "mvanhorn",
+      "summaries": {
+        "zh": "该项目名为“mvanhorn/last30days-skill”，是一个基于Python开发的AI代理技能。它能够跨Reddit、X（Twitter）、YouTube、Hacker News、Polymarket及全网等多个平台研究特定主题，并整合生成有据可依的摘要。该项目在GitHub上热度极高，已获得超过6.8万个星标和6000余次分支。",
+        "en": "The GitHub repository \"mvanhorn/last30days-skill\" features a Python-based AI agent skill designed to research topics across various platforms, including Reddit, X, YouTube, Hacker News, Polymarket, and the web. The tool synthesizes its findings into a grounded summary. The project has garnered significant attention, accumulating over 68,000 stars and 6,000 forks."
+      },
+      "summary": "该项目名为“mvanhorn/last30days-skill”，是一个基于Python开发的AI代理技能。它能够跨Reddit、X（Twitter）、YouTube、Hacker News、Polymarket及全网等多个平台研究特定主题，并整合生成有据可依的摘要。该项目在GitHub上热度极高，已获得超过6.8万个星标和6000余次分支。"
+    },
+    {
+      "title": "google-labs-code/stitch-skills",
+      "link": "https://github.com/google-labs-code/stitch-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d9502bbf4d6068483d25fcea26f3741d414e80e7d3ea21aabdbfdd56fa69dad2/google-labs-code/stitch-skills\" referrerpolicy=\"no-referrer\"><br>A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.<br><br>Language: TypeScript<br>Stars: 13702<br>Forks: 1652",
+      "contentSnippet": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\nLanguage: TypeScript\nStars: 13702\nForks: 1652",
+      "creator": "google-labs-code",
+      "summaries": {
+        "zh": "该项目 `google-labs-code/stitch-skills` 是一个专为 Stitch MCP 服务器设计的 Agent Skills 库。它遵循 Agent Skills 开放标准，能够兼容 Antigravity、Gemini CLI、Claude Code 和 Cursor 等编程代理。项目使用 TypeScript 编写，目前在 GitHub 上已获得 9142 个星标和 1098 个复刻。",
+        "en": "The `google-labs-code/stitch-skills` repository provides a library of Agent Skills specifically designed for use with the Stitch MCP server. Written in TypeScript, these skills adhere to the Agent Skills open standard, ensuring broad compatibility with popular coding agents such as Antigravity, Gemini CLI, Claude Code, and Cursor. The project has gained significant traction on GitHub, accumulating over 9,100 stars and nearly 1,100 forks."
+      },
+      "summary": "该项目 `google-labs-code/stitch-skills` 是一个专为 Stitch MCP 服务器设计的 Agent Skills 库。它遵循 Agent Skills 开放标准，能够兼容 Antigravity、Gemini CLI、Claude Code 和 Cursor 等编程代理。项目使用 TypeScript 编写，目前在 GitHub 上已获得 9142 个星标和 1098 个复刻。"
+    },
+    {
+      "title": "mjmirza/app-store-compliance",
+      "link": "https://github.com/mjmirza/app-store-compliance",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4d5ff100f80bf5fc79c7cc3b8324251439277b2467c84b6dd21aef67d40c8435/mjmirza/app-store-compliance\" referrerpolicy=\"no-referrer\"><br>Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.<br><br>Language: Shell<br>Stars: 8159<br>Forks: 620",
+      "contentSnippet": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.\nLanguage: Shell\nStars: 8159\nForks: 620",
+      "creator": "mjmirza",
+      "summaries": {
+        "zh": "该开源项目旨在帮助开发者避免 App Store 和 Google Play 的常见审核拒绝。它提供了一套包含 117 种拒绝模式及修复方案的预提交检查机制，涵盖隐私清单、数据安全检查，并追踪 95 项法规截止日期（如欧盟 AI 法案、COPPA 等）。项目还支持 AI 编码代理，目前获 1514 个 Star。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该开源项目旨在帮助开发者避免 App Store 和 Google Play 的常见审核拒绝。它提供了一套包含 117 种拒绝模式及修复方案的预提交检查机制，涵盖隐私清单、数据安全检查，并追踪 95 项法规截止日期（如欧盟 AI 法案、COPPA 等）。项目还支持 AI 编码代理，目前获 1514 个 Star。"
+    },
+    {
+      "title": "Tracer-Cloud/opensre",
+      "link": "https://github.com/Tracer-Cloud/opensre",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1133141258/1e1ca9ef-fb92-4604-8b72-9e58667afce2\" referrerpolicy=\"no-referrer\"><br>The open-source agent for CI/CD reliability.<br><br>Language: Python<br>Stars: 16232<br>Forks: 2180",
+      "contentSnippet": "The open-source agent for CI/CD reliability.\nLanguage: Python\nStars: 16232\nForks: 2180",
+      "creator": "Tracer-Cloud",
+      "summaries": {
+        "zh": "Tracer-Cloud/opensre 是一个专注于提升 CI/CD 可靠性的开源代理项目，使用 Python 语言开发。该项目目前获得了 12,916 个 Star 和 1,890 个 Fork，显示出较高的社区关注度。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "Tracer-Cloud/opensre 是一个专注于提升 CI/CD 可靠性的开源代理项目，使用 Python 语言开发。该项目目前获得了 12,916 个 Star 和 1,890 个 Fork，显示出较高的社区关注度。"
+    },
+    {
+      "title": "toeverything/AFFiNE",
+      "link": "https://github.com/toeverything/AFFiNE",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/519859998/81557da6-35e0-421d-8ad7-ec0c7a4725d2\" referrerpolicy=\"no-referrer\"><br>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. <br><br>Language: TypeScript<br>Stars: 79632<br>Forks: 5870",
+      "contentSnippet": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. \nLanguage: TypeScript\nStars: 79632\nForks: 5870",
+      "creator": "toeverything",
+      "summaries": {
+        "zh": "AFFiNE 是一款下一代开源知识库，旨在作为 Notion 和 Miro 的替代方案。它将规划、整理和创作功能集于一体，注重隐私保护，支持自定义且开箱即用。该项目基于 TypeScript 开发，在 GitHub 上拥有超过 7.4 万颗星，广受开发者欢迎。",
+        "en": "AFFiNE is a next-generation, open-source knowledge base designed as an alternative to tools like Notion and Miro. It integrates planning, sorting, and creating functionalities into a single platform while prioritizing privacy and customizability. Written in TypeScript, the project has gained significant popularity, evidenced by over 74,800 stars and 5,500 forks on its repository."
+      },
+      "summary": "AFFiNE 是一款下一代开源知识库，旨在作为 Notion 和 Miro 的替代方案。它将规划、整理和创作功能集于一体，注重隐私保护，支持自定义且开箱即用。该项目基于 TypeScript 开发，在 GitHub 上拥有超过 7.4 万颗星，广受开发者欢迎。"
+    },
+    {
+      "title": "XiaoYouChR/Ghost-Downloader-3",
+      "link": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/679086250/850fce55-365a-4e38-9a48-b1060bfb17c7\" referrerpolicy=\"no-referrer\"><br>The only downloader you need. 下载器的集大成者。<br><br>Language: Python<br>Stars: 20160<br>Forks: 1297",
+      "contentSnippet": "The only downloader you need. 下载器的集大成者。\nLanguage: Python\nStars: 20160\nForks: 1297",
+      "creator": "XiaoYouChR",
+      "summaries": {
+        "zh": "Ghost-Downloader-3 是一款由 XiaoYouChR 开发的下载工具，被誉为“下载器的集大成者”。该项目使用 Python 语言编写，在 GitHub 上已获得超过 1.2 万个 Star 和 778 个 Fork，显示出较高的社区关注度与人气。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "Ghost-Downloader-3 是一款由 XiaoYouChR 开发的下载工具，被誉为“下载器的集大成者”。该项目使用 Python 语言编写，在 GitHub 上已获得超过 1.2 万个 Star 和 778 个 Fork，显示出较高的社区关注度与人气。"
+    },
+    {
+      "title": "zhouxiaoka/autoclip",
+      "link": "https://github.com/zhouxiaoka/autoclip",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8f3112a26189f0bd62fbfd256dfe31712b66a3337ba90dda4ccb9a9cfdeb6a3a/zhouxiaoka/autoclip\" referrerpolicy=\"no-referrer\"><br>AutoClip｜The open-source OpusClip alternative — local-first AI clipping &amp; MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。<br><br>Language: Python<br>Stars: 17811<br>Forks: 2515",
+      "contentSnippet": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。\nLanguage: Python\nStars: 17811\nForks: 2515",
+      "creator": "zhouxiaoka",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-11-28T10:26:16.991Z"
+}
